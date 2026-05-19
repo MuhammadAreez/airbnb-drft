@@ -1091,6 +1091,11 @@ export default function AirbnbDRFT() {
         { id: "lb5", catId: "live", catColor: A.brand, catLabel: "Live", subLabel: "Characters", note: "Mickey and Minnie are out doing a meet-and-greet in front of Cinderella Castle. No line yet but the photopass photographers just showed up so it'll fill fast. They're staying until at least 11:30.", venue: "Main Street U.S.A.", userId: 5, ago: "11m", confirms: 19, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1551033541-baf2bbcb15ce?w=800&q=80" } },
         { id: "lb6", catId: "weather", catColor: A.brand, catLabel: "Weather", subLabel: "Rain starting", note: "Light drizzle started about 5 min ago and the radar shows it picking up next 20 min. Covered seating at Casey's and Pecos Bill is filling fast. Ponchos still in stock at the Emporium for $14.", venue: "Magic Kingdom — General", userId: 6, ago: "14m", confirms: 8 },
     ];
+    const [inlineBroadcastId] = useState(() => LIVE_BROADCASTS[Math.floor(Math.random() * LIVE_BROADCASTS.length)].id);
+    const [inlineMsgText, setInlineMsgText] = useState("");
+    const [inlineMsgFocused, setInlineMsgFocused] = useState(false);
+    const [inlineBroadcastCollapsed, setInlineBroadcastCollapsed] = useState(false);
+    const inlineMsgRef = React.useRef(null);
     const [broadcastPlace, setBroadcastPlace] = useState("Magic Kingdom");
     const [activeBroadcasts, setActiveBroadcasts] = useState([]);
     const [broadcastFeedBanner, setBroadcastFeedBanner] = useState(null);
@@ -1168,6 +1173,9 @@ export default function AirbnbDRFT() {
     const [viewingBroadcastId, setViewingBroadcastId] = useState(null);
     // DM-style reply text (persistent message bar at the bottom of broadcast detail)
     const [broadcastReplyText, setBroadcastReplyText] = useState("");
+    const [broadcastReplyFocused, setBroadcastReplyFocused] = useState(false);
+    const [broadcastDetailCollapsed, setBroadcastDetailCollapsed] = useState(false);
+    const broadcastReplyRef = useRef(null);
     // Swipe tracking for broadcast detail navigation (left = next, right = prev)
     const broadcastSwipeRef = useRef({ startX: null, startY: null });
     const [viewingPostDetail, setViewingPostDetail] = useState(null);
@@ -2003,6 +2011,93 @@ export default function AirbnbDRFT() {
         return () => clearInterval(id);
     }, [navActive]);
     // === BANNER: the signature element -- dark strip below image with place/user info ===
+    // Network rotating callout — recommends / follows / engaged. Lives BELOW media, above engagement.
+    const renderNetworkRow = (post, endorsers) => {
+        const placeName = post.headline || post.place || null;
+        const bizMatch = !post.headline && post.place
+            ? USERS.find(u => u.isBusiness && u.name.toLowerCase().includes(post.place.toLowerCase().split(" ").slice(0, 2).join(" ")))
+            : null;
+        if (post.headline) return null;
+        const myFollowing = [2, 3, 5, 6];
+        const recommends = endorsers;
+        const follows = bizMatch ? myFollowing.filter(uid => {
+            const u = getUser(uid);
+            return u && [2, 3, 5].includes(uid);
+        }) : [];
+        const engaged = myFollowing.filter(uid =>
+            FEED.some(p => p.id !== post.id && (p.endorsedBy || []).includes(uid) &&
+                ((p.tags && p.tags.places) || []).some(pl => placeName && pl.toLowerCase().includes(placeName.toLowerCase().split(" ")[0].toLowerCase())))
+        );
+        const engagedFallback = engaged.length === 0
+            ? myFollowing.filter(uid => (post.endorsedBy || []).includes(uid) || [3, 6].includes(uid)).slice(0, 2)
+            : engaged;
+        const signals = [
+            recommends.length > 0 ? { uids: recommends.map(e => e.id), users: recommends, label: recommends.length === 1 ? recommends[0].name.split(" ")[0] + " recommends" : recommends[0].name.split(" ")[0] + " +" + (recommends.length - 1) + " in your network recommends" } : null,
+            follows.length > 0 ? { uids: follows, users: follows.map(uid => getUser(uid)).filter(Boolean), label: follows.length === 1 ? getUser(follows[0]).name.split(" ")[0] + " in your network follows" : getUser(follows[0]).name.split(" ")[0] + " +" + (follows.length - 1) + " in your network follow" } : null,
+            engagedFallback.length > 0 ? { uids: engagedFallback, users: engagedFallback.map(uid => getUser(uid)).filter(Boolean), label: engagedFallback.length === 1 ? (getUser(engagedFallback[0]) || { name: "" }).name.split(" ")[0] + " in your network engaged" : (getUser(engagedFallback[0]) || { name: "" }).name.split(" ")[0] + " +" + (engagedFallback.length - 1) + " in your network engaged" } : null,
+        ].filter(Boolean);
+        if (signals.length === 0) return null;
+        const pid = post.id;
+        const idx2 = postCalloutIdx[pid] || 0;
+        const visible = postCalloutVisible[pid] !== false;
+        const sig = signals[idx2 % signals.length];
+        return (
+            <div style={{ overflow: "hidden", padding: "4px 16px 6px" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 8, opacity: visible ? 1 : 0, transform: visible ? "translateY(0)" : "translateY(5px)", transition: "opacity 0.35s ease, transform 0.35s ease" }}>
+                    <div style={{ display: "flex", flexShrink: 0 }}>
+                        {sig.users.slice(0, 4).map((eu, ei) => eu ? <img key={eu.id || ei} src={eu.img} alt="" style={{ width: 22, height: 22, borderRadius: "50%", objectFit: "cover", border: "1.5px solid " + A.bg, marginLeft: ei > 0 ? -7 : 0, boxShadow: "0 1px 3px rgba(0,0,0,0.15)" }} /> : null)}
+                    </div>
+                    <span style={{ fontSize: 13, color: A.foggy, fontFamily: F, lineHeight: 1.3 }}>{sig.label}</span>
+                </div>
+                {(() => {
+                    if (typeof window !== "undefined") {
+                        const key = "_postCalloutTimer_" + pid;
+                        clearTimeout(window[key]);
+                        window[key] = setTimeout(() => {
+                            setPostCalloutVisible(p => ({ ...p, [pid]: false }));
+                            setTimeout(() => {
+                                setPostCalloutIdx(p => ({ ...p, [pid]: ((p[pid] || 0) + 1) % signals.length }));
+                                setPostCalloutVisible(p => ({ ...p, [pid]: true }));
+                            }, 350);
+                        }, 3500);
+                    }
+                    return null;
+                })()}
+            </div>
+        );
+    };
+    // User header row — avatar, handle, location subtitle, 3-dot. Lives ABOVE media.
+    const renderHeader = (post, user, loc) => (
+        <div style={{ padding: "12px 16px 10px", display: "flex", alignItems: "center", gap: 10 }}>
+            <img src={user.img} alt="" onClick={() => { if (ACTIVE_MOMENTS.has(user.id)) { setViewingMoment(user.id); setMomentIndex(0); setMomentCaptionExpanded(false); } }} style={{ width: 40, height: 40, borderRadius: "50%", objectFit: "cover", cursor: ACTIVE_MOMENTS.has(user.id) ? "pointer" : "default", border: ACTIVE_MOMENTS.has(user.id) ? "2.5px solid " + A.brand : "2px solid rgba(255,255,255,0.2)", flexShrink: 0, boxShadow: ACTIVE_MOMENTS.has(user.id) ? "0 0 10px " + A.brand + "60, 0 0 20px " + A.brand + "30" : "none" }} />
+            <div style={{ flex: 1, minWidth: 0 }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                    <span onClick={(e) => { e.stopPropagation(); setProfileUserId(user.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); }} style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, cursor: "pointer" }}>{user.handle}</span>
+                    <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}>· {post.time}</span>
+                </div>
+                {loc && (
+                    <div style={{ marginTop: 2 }}>
+                        <span style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>{loc}</span>
+                    </div>
+                )}
+            </div>
+            <button onClick={(e) => { e.stopPropagation(); setPostMoreId(post.id); setShowPostMore(true); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px 0 8px 8px", display: "flex", alignItems: "center", flexShrink: 0 }}>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill={A.foggy}><circle cx="12" cy="5" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="12" cy="19" r="2" /></svg>
+            </button>
+        </div>
+    );
+    // Location row — pin + venue name (clickable to biz profile). Lives BELOW media.
+    const renderLocationRow = (post) => {
+        if (!post.headline && !post.place) return null;
+        const venueName = post.headline || post.place;
+        const bizMatch = !post.headline && post.place ? USERS.find(u => u.isBusiness && u.name.toLowerCase().includes(post.place.toLowerCase().split(" ").slice(0, 2).join(" "))) : null;
+        return (
+            <button onClick={(e) => { e.stopPropagation(); if (bizMatch) { setProfileUserId(bizMatch.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); } }} style={{ all: "unset", cursor: bizMatch ? "pointer" : "default", padding: "10px 16px 4px", display: "flex", alignItems: "center", gap: 6 }}>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{venueName}</span>
+            </button>
+        );
+    };
     const renderBanner = (post, user, endorsers, loc, imgs, idx) => {
         const tagCount = ((post.tags && post.tags.people && post.tags.people.length) || 0) + ((post.tags && post.tags.places && post.tags.places.length) || 0) + ((post.tags && post.tags.products && post.tags.products.length) || 0) + ((post.tags && post.tags.lists && post.tags.lists.length) || 0) + ((post.tags && post.tags.links && post.tags.links.length) || 0);
         const placeName = post.headline || post.place || null;
@@ -2111,18 +2206,22 @@ export default function AirbnbDRFT() {
     );
     // === SCORES ===
     // === CAPTION ===
-    const renderCaption = (id, text) => text && (
-        <div onClick={() => expandedCaption === id && setExpandedCaption(null)} style={{ padding: "0px 16px 0", cursor: expandedCaption === id ? "pointer" : "default", position: "relative" }}>
-            {expandedCaption === id ? (
-                <p style={{ fontSize: 15, color: A.dark, lineHeight: 1.55, margin: 0, fontFamily: F }}>{text}</p>
-            ) : (
-                <div style={{ position: "relative", maxHeight: "3.05em", overflow: "hidden", fontSize: 15, color: A.dark, lineHeight: 1.55, fontFamily: F }}>
-                    {text}
-                    {text.length > 70 && <span onClick={(e) => { e.stopPropagation(); setExpandedCaption(id); }} style={{ position: "absolute", bottom: 0, right: 0, paddingLeft: 40, background: "linear-gradient(to right, transparent, " + A.bgPage + " 40%)", fontWeight: 600, color: A.foggy, cursor: "pointer", fontSize: 14 }}>more</span>}
-                </div>
-            )}
-        </div>
-    );
+    const renderCaption = (id, text) => {
+        if (!text) return null;
+        const expanded = expandedCaption === id;
+        return (
+            <div style={{ padding: "6px 16px 12px" }}>
+                {expanded ? (
+                    <p style={{ fontSize: 14, color: A.dark, lineHeight: 1.45, margin: 0, fontFamily: F }}>{text}</p>
+                ) : (
+                    <p style={{ fontSize: 14, color: A.dark, lineHeight: 1.45, margin: 0, fontFamily: F, display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical", overflow: "hidden" }}>
+                        {text}
+                        {text.length > 80 && <span onClick={(e) => { e.stopPropagation(); setExpandedCaption(id); }} style={{ color: A.foggy, fontWeight: 600, cursor: "pointer", marginLeft: 4 }}>...more</span>}
+                    </p>
+                )}
+            </div>
+        );
+    };
     // === MAIN POST RENDERER ===
     const renderPost = (post, { noCard } = {}) => {
         const user = getUser(post.userId);
@@ -2236,7 +2335,9 @@ export default function AirbnbDRFT() {
                     const rawAR = post.aspectRatio || "1/1";
                     const arParts = rawAR.split("/").map(parseFloat);
                     const arNum = arParts[0] / (arParts[1] || 1);
-                    const clampedAR = Math.max(0.8, Math.min(1.91, arNum));
+                    const clampedAR = Math.max(0.8, Math.min(16 / 9, arNum));
+                    const venueName = post.headline || post.place;
+                    const bizMatch = !post.headline && post.place ? USERS.find(u => u.isBusiness && u.name.toLowerCase().includes(post.place.toLowerCase().split(" ").slice(0, 2).join(" "))) : null;
                     return (
                         <div>
                             {/* Edge-to-edge image */}
@@ -2245,8 +2346,10 @@ export default function AirbnbDRFT() {
                                 onTouchStart={e => { e.currentTarget._touchX = e.touches[0].clientX; }} onTouchEnd={e => { const dx = e.changedTouches[0].clientX - (e.currentTarget._touchX || 0); if (Math.abs(dx) > 40) { setImgIndex(prev => { const cur = prev[post.id] || 0; const next = dx < 0 ? Math.min(cur + 1, imgs.length - 1) : Math.max(cur - 1, 0); return { ...prev, [post.id]: next }; }); } }}
                             >
                                 <img src={imgs[idx]} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                {/* Subtle bottom gradient for venue/tag overlay legibility */}
-                                {(post.headline || post.place || tagCount > 0 || post.isVideo) && (
+                                {/* Top gradient — for author pill + counter + 3-dot legibility */}
+                                <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: "20%", background: "linear-gradient(to bottom, rgba(0,0,0,0.45) 0%, transparent 100%)", pointerEvents: "none", zIndex: 1 }} />
+                                {/* Bottom gradient — for venue + tag pill legibility */}
+                                {(venueName || tagCount > 0 || post.isVideo) && (
                                     <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: "30%", background: "linear-gradient(to top, rgba(0,0,0,0.55) 0%, transparent 100%)", pointerEvents: "none", zIndex: 1 }} />
                                 )}
                                 {/* Video overlay */}
@@ -2255,10 +2358,22 @@ export default function AirbnbDRFT() {
                                         <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
                                     </div>
                                 )}
-                                {/* Top-right: image counter (multi-image posts only) */}
-                                {imgs.length > 1 && !post.isVideo && (
-                                    <div style={{ position: "absolute", top: 14, right: 14, padding: "3px 9px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)", fontSize: 11, fontWeight: 600, color: "#FFF", zIndex: 2 }}>{idx + 1}/{imgs.length}</div>
-                                )}
+                                {/* Top-left: avatar + handle pill (glass-blur) */}
+                                <button onClick={(e) => { e.stopPropagation(); setProfileUserId(user.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: 14, left: 14, display: "inline-flex", alignItems: "center", gap: 8, padding: "5px 12px 5px 5px", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", zIndex: 2 }}>
+                                    <div style={{ width: 22, height: 22, borderRadius: "50%", overflow: "hidden", background: A.brand, flexShrink: 0 }}>
+                                        {user?.img ? <img src={user.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} /> : null}
+                                    </div>
+                                    <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F }}>{user?.handle || "@user"}</span>
+                                </button>
+                                {/* Top-right: slide counter (multi-image only) + 3-dot menu */}
+                                <div style={{ position: "absolute", top: 14, right: 14, display: "flex", alignItems: "center", gap: 8, zIndex: 2 }}>
+                                    {imgs.length > 1 && !post.isVideo && (
+                                        <div style={{ padding: "5px 10px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F }}>{idx + 1}/{imgs.length}</div>
+                                    )}
+                                    <button onClick={(e) => { e.stopPropagation(); setPostMoreId(post.id); setShowPostMore(true); }} style={{ all: "unset", cursor: "pointer", width: 34, height: 34, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.6" /><circle cx="12" cy="12" r="1.6" /><circle cx="19" cy="12" r="1.6" /></svg>
+                                    </button>
+                                </div>
                                 {/* Bottom-right group: tag pill + video pills */}
                                 <div style={{ position: "absolute", bottom: 14, right: 14, display: "flex", alignItems: "center", gap: 6, zIndex: 2 }}>
                                     {tagCount > 0 && (
@@ -2270,24 +2385,20 @@ export default function AirbnbDRFT() {
                                     {post.isVideo && post.videoViews && <div style={{ background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)", borderRadius: 100, padding: "5px 12px", fontSize: 12, fontWeight: 600, color: "#FFF" }}>{post.videoViews}</div>}
                                     {post.isVideo && post.videoDuration && <div style={{ background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)", borderRadius: 100, padding: "5px 12px", fontSize: 12, fontWeight: 600, color: "#FFF" }}>{post.videoDuration}</div>}
                                 </div>
-                                {/* Bottom-left: venue overlay (IG-style, clickable) */}
-                                {(post.headline || post.place) && (() => {
-                                    const venueName = post.headline || post.place;
-                                    const bizMatch = !post.headline && post.place ? USERS.find(u => u.isBusiness && u.name.toLowerCase().includes(post.place.toLowerCase().split(" ").slice(0, 2).join(" "))) : null;
-                                    return (
-                                        <button onClick={(e) => { e.stopPropagation(); if (bizMatch) { setProfileUserId(bizMatch.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); } }} style={{ all: "unset", cursor: bizMatch ? "pointer" : "default", position: "absolute", bottom: 14, left: 14, right: tagCount > 0 || post.isVideo ? 100 : 14, display: "flex", alignItems: "center", gap: 6, zIndex: 2 }}>
-                                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.6))" }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                            <span style={{ fontSize: 14, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1.2, textShadow: "0 1px 3px rgba(0,0,0,0.6)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{venueName}</span>
-                                        </button>
-                                    );
-                                })()}
+                                {/* Bottom-left: location pin + venue name (IG-style, clickable) */}
+                                {venueName && (
+                                    <button onClick={(e) => { e.stopPropagation(); if (bizMatch) { setProfileUserId(bizMatch.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); } }} style={{ all: "unset", cursor: bizMatch ? "pointer" : "default", position: "absolute", bottom: 14, left: 14, right: tagCount > 0 || post.isVideo ? 100 : 14, display: "flex", alignItems: "center", gap: 6, zIndex: 2 }}>
+                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.6))" }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                        <span style={{ fontSize: 14, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1.2, textShadow: "0 1px 3px rgba(0,0,0,0.6)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{venueName}</span>
+                                    </button>
+                                )}
                             </div>
                         </div>
                     );
                 })()}
-                {/* Footer with vertical spacing; inner renders supply their own horizontal padding */}
-                <div>
-                    {renderBanner(bannerPost, user, currentEndorsers, currentLoc, imgs, idx)}
+                {/* Mirror extension — flat white block flush below media: network → engagement → caption */}
+                <div style={{ background: A.bg }}>
+                    {renderNetworkRow(bannerPost, currentEndorsers)}
                     {renderEngagement(post, uv, saved)}
                     {renderCaption(post.id, post.caption)}
                 </div>
@@ -2748,6 +2859,182 @@ so testers can tap into the trace detail without going through the create flow. 
                                     </div>
                                 );
                             })}
+                            {/* === INLINE BROADCAST POST (position 2 in feed) === */}
+                            {activeCat === "All" && (() => {
+                                const bc = LIVE_BROADCASTS.find(b => b.id === inlineBroadcastId) || LIVE_BROADCASTS[0];
+                                const samePlaceCount = [...LIVE_BROADCASTS, ...activeBroadcasts.map(b => ({ venue: b.place }))].filter(b => b.venue === bc.venue).length;
+                                const bu = getUser(bc.userId);
+                                const hasMedia = !!bc.attachment?.url;
+                                const confirms = broadcastConfirms[bc.id] ?? bc.confirms;
+                                const isConfirmed = userConfirmed.has(bc.id);
+                                const isDisputed = userDisputed.has(bc.id);
+                                const isSaved = savedIds.has(bc.id);
+                                const toggleConfirm = (e) => {
+                                    e.stopPropagation();
+                                    if (isDisputed) setUserDisputed(prev => { const n = new Set(prev); n.delete(bc.id); return n; });
+                                    setBroadcastConfirms(prev => ({ ...prev, [bc.id]: confirms + (isConfirmed ? -1 : 1) }));
+                                    setUserConfirmed(prev => { const n = new Set(prev); isConfirmed ? n.delete(bc.id) : n.add(bc.id); return n; });
+                                };
+                                const toggleDispute = (e) => {
+                                    e.stopPropagation();
+                                    if (isConfirmed) { setBroadcastConfirms(prev => ({ ...prev, [bc.id]: confirms - 1 })); setUserConfirmed(prev => { const n = new Set(prev); n.delete(bc.id); return n; }); }
+                                    setUserDisputed(prev => { const n = new Set(prev); isDisputed ? n.delete(bc.id) : n.add(bc.id); return n; });
+                                };
+                                return (
+                                    <div key={"inline-bc-" + bc.id} style={{ marginBottom: 12 }}>
+                                        <div onClick={() => setViewingBroadcastId(bc.id)} style={{ position: "relative", aspectRatio: "9 / 16", overflow: "hidden", cursor: "pointer", background: "#0a0c0f", display: "flex", flexDirection: "column" }}>
+                                            {/* Backdrop */}
+                                            {hasMedia ? (
+                                                <img src={bc.attachment.url} alt="" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
+                                            ) : (
+                                                <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, #2A2E36 0%, #16181C 100%)" }}>
+                                                    <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center", opacity: 0.07 }}>
+                                                        {bc.catId === "rides" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /></svg>}
+                                                        {bc.catId === "crowds" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
+                                                        {bc.catId === "shops" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                                        {bc.catId === "food" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
+                                                        {bc.catId === "weather" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
+                                                        {bc.catId === "live" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill="#FFF" /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
+                                                    </div>
+                                                </div>
+                                            )}
+                                            {/* Top + bottom gradients for legibility */}
+                                            <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: "55%", background: "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 50%, transparent 100%)", pointerEvents: "none" }} />
+                                            <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: "18%", background: "linear-gradient(to bottom, rgba(0,0,0,0.55) 0%, transparent 100%)", pointerEvents: "none" }} />
+                                            {/* Top bar — avatar/handle pill + 3-dot menu */}
+                                            <div style={{ position: "relative", display: "flex", alignItems: "center", padding: "14px 14px 0", gap: 10, zIndex: 5 }}>
+                                                <button onClick={(e) => { e.stopPropagation(); if (bu) setProfileUserId(bu.id); }} style={{ all: "unset", cursor: bu ? "pointer" : "default", display: "inline-flex", alignItems: "center", gap: 8, padding: "5px 12px 5px 5px", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)" }}>
+                                                    <div style={{ width: 22, height: 22, borderRadius: "50%", overflow: "hidden", background: A.brand, flexShrink: 0 }}>
+                                                        {bu?.img ? <img src={bu.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} /> : null}
+                                                    </div>
+                                                    <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F }}>{bu?.handle || "@user"}</span>
+                                                </button>
+                                                <div style={{ flex: 1 }} />
+                                                {/* LIVE badge — red dot + LIVE text, livestream-style indicator */}
+                                                <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
+                                                    <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
+                                                    <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
+                                                </div>
+                                                <button onClick={(e) => e.stopPropagation()} style={{ all: "unset", cursor: "pointer", width: 34, height: 34, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.6" /><circle cx="12" cy="12" r="1.6" /><circle cx="19" cy="12" r="1.6" /></svg>
+                                                </button>
+                                            </div>
+                                            {/* Spacer */}
+                                            <div style={{ flex: 1 }} />
+                                            {/* Content overlay — collapsible content stacks above venue row */}
+                                            <div style={{ position: "relative", zIndex: 5, padding: "0 18px 14px" }}>
+                                                {/* Collapsible content — CATEGORY · ago, headline, note */}
+                                                <div style={{ overflow: "hidden", maxHeight: inlineBroadcastCollapsed ? 0 : 400, opacity: inlineBroadcastCollapsed ? 0 : 1, transform: inlineBroadcastCollapsed ? "translateY(8px)" : "translateY(0)", transition: "max-height 0.28s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.22s ease, transform 0.25s ease", pointerEvents: inlineBroadcastCollapsed ? "none" : "auto", marginBottom: inlineBroadcastCollapsed ? 0 : 10 }}>
+                                                    {/* CATEGORY · ago */}
+                                                    <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 6 }}>
+                                                        <span style={{ fontSize: 11, fontWeight: 800, color: "rgba(255,255,255,0.7)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8, textShadow: "0 1px 2px rgba(0,0,0,0.5)" }}>{bc.catLabel}</span>
+                                                        <span style={{ fontSize: 11, fontWeight: 600, color: "rgba(255,255,255,0.55)", fontFamily: F }}>·</span>
+                                                        <span style={{ fontSize: 11, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{bc.ago}</span>
+                                                    </div>
+                                                    {/* Headline */}
+                                                    <div style={{ fontSize: 28, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.1, letterSpacing: -0.6, marginBottom: 8, textShadow: "0 1px 4px rgba(0,0,0,0.5)" }}>{bc.subLabel}</div>
+                                                    {/* Note */}
+                                                    {bc.note && (
+                                                        <div style={{ fontSize: 14, fontWeight: 400, color: "rgba(255,255,255,0.88)", fontFamily: F, lineHeight: 1.4, display: "-webkit-box", WebkitLineClamp: 3, WebkitBoxOrient: "vertical", overflow: "hidden", textShadow: "0 1px 3px rgba(0,0,0,0.55)" }}>{bc.note}</div>
+                                                    )}
+                                                </div>
+                                                {/* Venue row — venue pill anchored left, chevron anchored right for thumb access */}
+                                                <div onClick={(e) => e.stopPropagation()} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 10 }}>
+                                                    <div style={{ display: "flex", alignItems: "center", gap: 8, minWidth: 0, flex: "0 1 auto" }}>
+                                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.55))", flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                                        <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.1, textShadow: "0 1px 3px rgba(0,0,0,0.55)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", minWidth: 0 }}>{bc.venue}</span>
+                                                        <span style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "3px 10px", borderRadius: 100, background: "rgba(255,255,255,0.15)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", flexShrink: 0 }}>
+                                                            <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#22d3a4" }} />
+                                                            <span style={{ fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F }}>{samePlaceCount} live</span>
+                                                        </span>
+                                                    </div>
+                                                    {/* Chevron — collapses/expands content for unobstructed media view */}
+                                                    <button onClick={(e) => { e.stopPropagation(); setInlineBroadcastCollapsed(c => !c); }} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ transform: inlineBroadcastCollapsed ? "rotate(180deg)" : "rotate(0deg)", transition: "transform 0.25s ease" }}>
+                                                            <polyline points="6 9 12 15 18 9" />
+                                                        </svg>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                            {/* Bottom action bar — message pill expands on focus to cover the social icons */}
+                                            <div onClick={(e) => e.stopPropagation()} style={{ position: "relative", zIndex: 5, padding: "0 14px 14px", display: "flex", alignItems: "center", gap: inlineMsgFocused ? 0 : 10 }}>
+                                                {/* Message pill — interactive input, expands on focus, auto-grows for multi-line */}
+                                                <div style={{ flex: 1, display: "flex", alignItems: "flex-end", position: "relative", borderRadius: (inlineMsgRef.current && inlineMsgRef.current.scrollHeight > 40) ? 18 : 100, background: "rgba(255,255,255,0.16)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", border: "1px solid rgba(255,255,255,0.2)", transition: "border-radius 0.15s ease" }}>
+                                                    {inlineMsgFocused && (
+                                                        <button
+                                                            onClick={(e) => {
+                                                                e.stopPropagation();
+                                                                setInlineMsgFocused(false);
+                                                                setInlineMsgText("");
+                                                            }}
+                                                            style={{ all: "unset", cursor: "pointer", flexShrink: 0, marginLeft: 6, marginBottom: 4, width: 28, height: 28, borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center" }}
+                                                        >
+                                                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.8)" strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                        </button>
+                                                    )}
+                                                    <textarea
+                                                        ref={inlineMsgRef}
+                                                        rows={1}
+                                                        value={inlineMsgText}
+                                                        onChange={(e) => {
+                                                            setInlineMsgText(e.target.value);
+                                                            // Auto-grow: reset height to recalc, then expand to scrollHeight (capped at ~96px = 4 lines)
+                                                            e.target.style.height = "auto";
+                                                            e.target.style.height = Math.min(e.target.scrollHeight, 96) + "px";
+                                                        }}
+                                                        onClick={(e) => e.stopPropagation()}
+                                                        onFocus={() => setInlineMsgFocused(true)}
+                                                        onKeyDown={(e) => {
+                                                            if (e.key === "Enter" && !e.shiftKey && inlineMsgText.trim()) {
+                                                                e.preventDefault();
+                                                                setToastMsg("Reply sent to " + (bu?.handle || "@user"));
+                                                                setInlineMsgText("");
+                                                                setInlineMsgFocused(false);
+                                                                if (e.currentTarget) { e.currentTarget.style.height = "auto"; e.currentTarget.blur(); }
+                                                            }
+                                                        }}
+                                                        placeholder={"Message " + (bu?.handle || "@user") + "…"}
+                                                        style={{ all: "unset", flex: 1, padding: "10px 14px", paddingLeft: inlineMsgFocused ? 8 : 14, paddingRight: inlineMsgText.trim() ? 44 : 14, fontSize: 13, fontWeight: 500, color: "#FFF", fontFamily: F, lineHeight: 1.4, boxSizing: "border-box", width: "100%", resize: "none", overflowY: "auto", maxHeight: 96 }}
+                                                    />
+                                                    {inlineMsgText.trim() && (
+                                                        <button
+                                                            onClick={(e) => {
+                                                                e.stopPropagation();
+                                                                setToastMsg("Reply sent to " + (bu?.handle || "@user"));
+                                                                setInlineMsgText("");
+                                                                setInlineMsgFocused(false);
+                                                                if (inlineMsgRef.current) inlineMsgRef.current.style.height = "auto";
+                                                            }}
+                                                            style={{ all: "unset", cursor: "pointer", position: "absolute", right: 5, bottom: 5, width: 30, height: 30, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center" }}
+                                                        >
+                                                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
+                                                        </button>
+                                                    )}
+                                                </div>
+                                                {/* Social icons row — collapses to zero width when message pill is focused */}
+                                                <div style={{ display: "flex", alignItems: "center", gap: 10, overflow: "hidden", maxWidth: inlineMsgFocused ? 0 : 200, opacity: inlineMsgFocused ? 0 : 1, transition: "max-width 0.25s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease, gap 0.25s ease", pointerEvents: inlineMsgFocused ? "none" : "auto" }}>
+                                                    {/* Vote up */}
+                                                    <button onClick={toggleConfirm} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 38, height: 38, flexShrink: 0 }}>
+                                                        <svg width="22" height="22" viewBox="0 0 24 24" fill={isConfirmed ? A.brand : "none"} stroke={isConfirmed ? A.brand : "#FFF"} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: isConfirmed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
+                                                    </button>
+                                                    {/* Vote down */}
+                                                    <button onClick={toggleDispute} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 38, height: 38, flexShrink: 0 }}>
+                                                        <svg width="22" height="22" viewBox="0 0 24 24" fill={isDisputed ? A.scoreLo : "none"} stroke={isDisputed ? A.scoreLo : "#FFF"} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: isDisputed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
+                                                    </button>
+                                                    {/* Share */}
+                                                    <button onClick={(e) => e.stopPropagation()} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 38, height: 38, flexShrink: 0 }}>
+                                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
+                                                    </button>
+                                                    {/* Save */}
+                                                    <button onClick={(e) => toggleSave(bc.id, e)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 38, height: 38, flexShrink: 0 }}>
+                                                        <svg width="22" height="22" viewBox="0 0 24 24" fill={isSaved ? "#FFF" : "none"} stroke="#FFF" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: isSaved ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                );
+                            })()}
                             {feedFiltered.slice(1).map((post, i) => (
                                 <div key={post.id} style={{ marginBottom: 12 }}>
                                     {renderPost(post)}
@@ -9752,81 +10039,134 @@ so testers can tap into the trace detail without going through the create flow. 
                             <button onClick={closeDetail} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                             </button>
-                            <div style={{ flex: 1 }} />
-                            {/* @handle pill — centered */}
-                            <button onClick={() => { if (bu) { setProfileUserId(bu.id); closeDetail(); } }} style={{ all: "unset", cursor: bu ? "pointer" : "default", display: "inline-flex", alignItems: "center", gap: 8, padding: "6px 14px 6px 6px", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)" }}>
+                            {/* @handle pill — to the right of the X close */}
+                            <button onClick={() => { if (bu) { setProfileUserId(bu.id); closeDetail(); } }} style={{ all: "unset", cursor: bu ? "pointer" : "default", display: "inline-flex", alignItems: "center", gap: 8, padding: "6px 14px 6px 6px", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", marginLeft: -4 }}>
                                 <div style={{ width: 26, height: 26, borderRadius: "50%", overflow: "hidden", background: A.brand, flexShrink: 0 }}>
                                     {bu?.img ? <img src={bu.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} /> : null}
                                 </div>
                                 <span style={{ fontSize: 14, fontWeight: 600, color: "#FFF", fontFamily: F }}>{bu?.handle || "@user"}</span>
                             </button>
                             <div style={{ flex: 1 }} />
+                            {/* LIVE badge — red dot + LIVE text, livestream-style indicator */}
+                            <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
+                                <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
+                                <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
+                            </div>
                             {/* 3-dot menu (placeholder) */}
                             <button style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.8" /><circle cx="12" cy="12" r="1.8" /><circle cx="19" cy="12" r="1.8" /></svg>
                             </button>
                         </div>
 
-                        {/* Bottom overlay — venue pill + meta + headline + note. Sits above the bottom message bar. */}
-                        <div style={{ position: "absolute", bottom: 64, left: 0, right: 0, padding: "0 18px 8px", zIndex: 4 }}>
-                            {/* Venue + N live pill */}
-                            <button onClick={() => { closeDetail(); setShowBroadcastsFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "inline-flex", alignItems: "center", gap: 10, marginBottom: 10 }}>
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                <span style={{ fontSize: 16, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.1 }}>{bc.venue}</span>
-                                <span style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "3px 10px", borderRadius: 100, background: "rgba(255,255,255,0.15)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)" }}>
-                                    <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#22d3a4" }} />
-                                    <span style={{ fontSize: 12, fontWeight: 600, color: "#FFF", fontFamily: F }}>{samePlaceCount} live</span>
-                                </span>
-                            </button>
-                            {/* CATEGORY · ago */}
-                            <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 6 }}>
-                                <span style={{ fontSize: 11, fontWeight: 800, color: "rgba(255,255,255,0.7)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7 }}>{bc.catLabel}</span>
-                                <span style={{ fontSize: 12, color: "rgba(255,255,255,0.55)", fontFamily: F }}>·</span>
-                                <span style={{ fontSize: 12, color: "rgba(255,255,255,0.55)", fontFamily: F }}>{bc.ago} ago</span>
+                        {/* Bottom overlay — collapsible content stacks ABOVE venue pill. Venue anchors at bottom right above message bar. */}
+                        <div style={{ position: "absolute", bottom: 52, left: 0, right: 0, padding: "0 18px 8px", zIndex: 4 }}>
+                            {/* Collapsible content — CATEGORY · ago, headline, note */}
+                            <div style={{ overflow: "hidden", maxHeight: broadcastDetailCollapsed ? 0 : 600, opacity: broadcastDetailCollapsed ? 0 : 1, transform: broadcastDetailCollapsed ? "translateY(8px)" : "translateY(0)", transition: "max-height 0.28s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.22s ease, transform 0.25s ease", pointerEvents: broadcastDetailCollapsed ? "none" : "auto", marginBottom: broadcastDetailCollapsed ? 0 : 10 }}>
+                                {/* CATEGORY · ago */}
+                                <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 6 }}>
+                                    <span style={{ fontSize: 11, fontWeight: 800, color: "rgba(255,255,255,0.7)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8, textShadow: "0 1px 2px rgba(0,0,0,0.5)" }}>{bc.catLabel}</span>
+                                    <span style={{ fontSize: 11, fontWeight: 600, color: "rgba(255,255,255,0.55)", fontFamily: F }}>·</span>
+                                    <span style={{ fontSize: 11, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{bc.ago}</span>
+                                </div>
+                                {/* Headline (subLabel) */}
+                                <div style={{ fontSize: 28, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.1, letterSpacing: -0.6, marginBottom: 8, textShadow: "0 1px 4px rgba(0,0,0,0.5)" }}>{bc.subLabel}</div>
+                                {/* Body note — full text, not clamped (this is the detail view's job) */}
+                                {bc.note && (
+                                    <div style={{ fontSize: 14, fontWeight: 400, color: "rgba(255,255,255,0.88)", fontFamily: F, lineHeight: 1.4, textShadow: "0 1px 3px rgba(0,0,0,0.55)" }}>{bc.note}</div>
+                                )}
                             </div>
-                            {/* Headline (subLabel) */}
-                            <div style={{ fontSize: 32, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.1, letterSpacing: -0.6, marginBottom: 10 }}>{bc.subLabel}</div>
-                            {/* Body note */}
-                            {bc.note && (
-                                <div style={{ fontSize: 15, fontWeight: 400, color: "rgba(255,255,255,0.88)", fontFamily: F, lineHeight: 1.4 }}>{bc.note}</div>
-                            )}
+                            {/* Venue row — venue pill anchored left, chevron toggle anchored right for thumb access */}
+                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 10 }}>
+                                <button onClick={() => { closeDetail(); setShowBroadcastsFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 8, minWidth: 0, flex: "0 1 auto" }}>
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.55))", flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                    <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.1, textShadow: "0 1px 3px rgba(0,0,0,0.55)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", minWidth: 0 }}>{bc.venue}</span>
+                                    <span style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "3px 10px", borderRadius: 100, background: "rgba(255,255,255,0.15)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", flexShrink: 0 }}>
+                                        <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#22d3a4" }} />
+                                        <span style={{ fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F }}>{samePlaceCount} live</span>
+                                    </span>
+                                </button>
+                                {/* Chevron — collapses/expands content for unobstructed media view */}
+                                <button onClick={() => setBroadcastDetailCollapsed(c => !c)} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ transform: broadcastDetailCollapsed ? "rotate(180deg)" : "rotate(0deg)", transition: "transform 0.25s ease" }}>
+                                        <polyline points="6 9 12 15 18 9" />
+                                    </svg>
+                                </button>
+                            </div>
                         </div>
 
-                        {/* Persistent bottom action bar — IG story pattern. Message pill + vote/share icons. */}
-                        <div onTouchStart={e => e.stopPropagation()} onTouchEnd={e => e.stopPropagation()} style={{ position: "absolute", bottom: 0, left: 0, right: 0, paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 10px)", paddingTop: 10, paddingLeft: 14, paddingRight: 14, display: "flex", alignItems: "center", gap: 10, zIndex: 6 }}>
-                            {/* Message pill — left, fills available width */}
-                            <div style={{ flex: 1, minWidth: 0, position: "relative", display: "flex", alignItems: "center", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", border: "1px solid rgba(255,255,255,0.25)", paddingLeft: 16, paddingRight: broadcastReplyText.trim() ? 4 : 16, height: 42, boxSizing: "border-box" }}>
-                                <input
-                                    type="text"
-                                    value={broadcastReplyText}
-                                    onChange={e => setBroadcastReplyText(e.target.value)}
-                                    placeholder={`Message ${bu?.handle || "@user"}…`}
-                                    onKeyDown={e => {
-                                        if (e.key === "Enter" && broadcastReplyText.trim()) {
+                        {/* Persistent bottom action bar — matches inline broadcast pattern: pill expands on focus, icons collapse */}
+                        <div onTouchStart={e => e.stopPropagation()} onTouchEnd={e => e.stopPropagation()} style={{ position: "absolute", bottom: 0, left: 0, right: 0, paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 4px)", paddingTop: 10, paddingLeft: 14, paddingRight: 14, display: "flex", alignItems: "center", gap: broadcastReplyFocused ? 0 : 10, zIndex: 6 }}>
+                            {/* Message pill — interactive textarea, expands on focus, auto-grows for multi-line */}
+                            <div style={{ flex: 1, display: "flex", alignItems: "flex-end", position: "relative", borderRadius: (broadcastReplyRef.current && broadcastReplyRef.current.scrollHeight > 40) ? 18 : 100, background: "rgba(255,255,255,0.16)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", border: "1px solid rgba(255,255,255,0.2)", transition: "border-radius 0.15s ease" }}>
+                                {broadcastReplyFocused && (
+                                    <button
+                                        onClick={(e) => {
+                                            e.stopPropagation();
+                                            setBroadcastReplyFocused(false);
                                             setBroadcastReplyText("");
-                                            setToastMsg("Reply sent to " + (bu?.handle || "user"));
+                                            if (broadcastReplyRef.current) broadcastReplyRef.current.style.height = "auto";
+                                        }}
+                                        style={{ all: "unset", cursor: "pointer", flexShrink: 0, marginLeft: 6, marginBottom: 4, width: 28, height: 28, borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center" }}
+                                    >
+                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.8)" strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                    </button>
+                                )}
+                                <textarea
+                                    ref={broadcastReplyRef}
+                                    rows={1}
+                                    value={broadcastReplyText}
+                                    onChange={(e) => {
+                                        setBroadcastReplyText(e.target.value);
+                                        e.target.style.height = "auto";
+                                        e.target.style.height = Math.min(e.target.scrollHeight, 96) + "px";
+                                    }}
+                                    onFocus={() => setBroadcastReplyFocused(true)}
+                                    onKeyDown={(e) => {
+                                        if (e.key === "Enter" && !e.shiftKey && broadcastReplyText.trim()) {
+                                            e.preventDefault();
+                                            setToastMsg("Reply sent to " + (bu?.handle || "@user"));
+                                            setBroadcastReplyText("");
+                                            setBroadcastReplyFocused(false);
+                                            if (e.currentTarget) { e.currentTarget.style.height = "auto"; e.currentTarget.blur(); }
                                         }
                                     }}
-                                    style={{ all: "unset", flex: 1, minWidth: 0, fontSize: 14, color: "#FFF", fontFamily: F, lineHeight: 1.2 }}
+                                    placeholder={"Message " + (bu?.handle || "@user") + "…"}
+                                    style={{ all: "unset", flex: 1, padding: "10px 14px", paddingLeft: broadcastReplyFocused ? 8 : 14, paddingRight: broadcastReplyText.trim() ? 44 : 14, fontSize: 13, fontWeight: 500, color: "#FFF", fontFamily: F, lineHeight: 1.4, boxSizing: "border-box", width: "100%", resize: "none", overflowY: "auto", maxHeight: 96 }}
                                 />
                                 {broadcastReplyText.trim() && (
-                                    <button onClick={() => { setBroadcastReplyText(""); setToastMsg("Reply sent to " + (bu?.handle || "user")); }} style={{ all: "unset", cursor: "pointer", width: 34, height: 34, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
+                                    <button
+                                        onClick={(e) => {
+                                            e.stopPropagation();
+                                            setToastMsg("Reply sent to " + (bu?.handle || "@user"));
+                                            setBroadcastReplyText("");
+                                            setBroadcastReplyFocused(false);
+                                            if (broadcastReplyRef.current) broadcastReplyRef.current.style.height = "auto";
+                                        }}
+                                        style={{ all: "unset", cursor: "pointer", position: "absolute", right: 5, bottom: 5, width: 30, height: 30, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center" }}
+                                    >
+                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
                                     </button>
                                 )}
                             </div>
-                            {/* Vote up — same SVG as feed post engagement row */}
-                            <button onClick={toggleConfirm} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                <svg width="26" height="26" viewBox="0 0 24 24" fill={confirmed ? A.brand : "none"} stroke={confirmed ? A.brand : "#FFF"} strokeWidth="1.5" style={{ filter: confirmed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                            </button>
-                            {/* Vote down — same SVG as feed post engagement row */}
-                            <button onClick={toggleDispute} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                <svg width="26" height="26" viewBox="0 0 24 24" fill={disputed ? A.scoreLo : "none"} stroke={disputed ? A.scoreLo : "#FFF"} strokeWidth="1.5" style={{ filter: disputed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                            </button>
-                            {/* Share — same SVG as feed post engagement row */}
-                            <button onClick={() => { setSharePostId("bc_" + bc.id); setShowShareSheet(true); setShareSearch(""); setSelectedShares(new Set()); }} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                            </button>
+                            {/* Social icons row — collapses when message pill is focused */}
+                            <div style={{ display: "flex", alignItems: "center", gap: 10, overflow: "hidden", maxWidth: broadcastReplyFocused ? 0 : 200, opacity: broadcastReplyFocused ? 0 : 1, transition: "max-width 0.25s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease, gap 0.25s ease", pointerEvents: broadcastReplyFocused ? "none" : "auto" }}>
+                                {/* Vote up */}
+                                <button onClick={toggleConfirm} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="22" height="22" viewBox="0 0 24 24" fill={confirmed ? A.brand : "none"} stroke={confirmed ? A.brand : "#FFF"} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: confirmed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
+                                </button>
+                                {/* Vote down */}
+                                <button onClick={toggleDispute} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="22" height="22" viewBox="0 0 24 24" fill={disputed ? A.scoreLo : "none"} stroke={disputed ? A.scoreLo : "#FFF"} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: disputed ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
+                                </button>
+                                {/* Share */}
+                                <button onClick={() => { setSharePostId("bc_" + bc.id); setShowShareSheet(true); setShareSearch(""); setSelectedShares(new Set()); }} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
+                                </button>
+                                {/* Save */}
+                                <button onClick={(e) => toggleSave(bc.id, e)} style={{ all: "unset", cursor: "pointer", width: 38, height: 38, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="22" height="22" viewBox="0 0 24 24" fill={savedIds.has(bc.id) ? "#FFF" : "none"} stroke="#FFF" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ filter: savedIds.has(bc.id) ? "none" : "drop-shadow(0 1px 3px rgba(0,0,0,0.55))" }}><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+                                </button>
+                            </div>
                         </div>
                     </div>
                 );
