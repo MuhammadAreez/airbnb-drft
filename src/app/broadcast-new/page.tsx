@@ -62,11 +62,6 @@ const FEED = [
         ], scores: { forYou: 92, network: 88, public: 85 }, likes: 512, comments: 89, shares: 34, endorsedBy: [2, 4, 5], tags: { people: ["@nina.disney", "@jordaneats", "@sarahk", "@chrisb"], places: ["Be Our Guest Restaurant", "Big Thunder Mountain", "Cosmic Ray's Starlight Cafe", "Space 220", "Gideon's Bakehouse", "Sanaa at Kidani"], products: [{ name: "Grey Stuff", price: "$5.99" }, { name: "Tomorrowland Burger", price: "$12.99" }, { name: "Centauri Burger", price: "$28.00" }, { name: "Chocolate Chip Cookie", price: "$6.00" }, { name: "Bread Service", price: "$14.00" }] }
     },
     { id: 2, postType: "video", userId: 3, time: "3d", place: "Space Mountain", location: "Bay Lake, FL", caption: "The numbers are in. We look at wait times, rider satisfaction, and how it stacks up against the competition.", img: "https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=800&q=80", isVideo: true, videoDuration: "4:32", videoViews: "18.3k", scores: { forYou: 75, network: 82, public: 88 }, likes: 198, comments: 63, shares: 12, endorsedBy: [5], tags: { places: ["Space Mountain", "Tomorrowland"] } },
-    { id: 101, postType: "article", userId: 2, time: "1d", place: "Polynesian Village Resort", location: "Bay Lake, FL", title: "Why the New Polynesian Bungalows Are Worth Every Penny", excerpt: "After spending three nights overwater, here's an honest breakdown of what you get, what you don't, and whether the $3,500/night price tag actually makes sense for the average Disney family.", readMinutes: 8, body: "When I first heard the Polynesian was reimagining the Bora Bora Bungalows, my skepticism was at an all-time high. The original opened in 2015 to mixed reviews — beautiful, sure, but at a starting rate north of $3,000 a night, the value math was nearly impossible to justify for most families.\n\nThen I stayed three nights. Here's what changed my mind.\n\n> The view from the private plunge deck at sunset is the closest thing to genuine magic I've experienced at any Disney property in fifteen years of visits.\n\nThe newly refurbished bungalows feel less like a hotel room and more like a private island retreat. Disney has done something rare in the hospitality space — they made luxury feel personal again.\n\n![Sunset over the lagoon from the bungalow deck](https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80)\n\n## What you actually get\n\nThe square footage hasn't changed, but the use of space has been completely rethought. Where before you had a slightly cramped dining nook, you now have a fully appointed kitchenette with a wine fridge stocked daily. The bedrooms each have private outdoor showers — yes, **plural**.\n\nBut the headline upgrade is the deck. The new pull-out daybed converts to a queen with a touch, and the deck itself extends 4 feet further over the lagoon than the original design. I spent more time on that deck than inside the bungalow itself.\n\n![The reimagined kitchenette with custom millwork](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80)\nThe kitchenette comes pre-stocked with Kona coffee and locally-sourced snacks.\n\n## The little things that add up\n\nIt's the details that justify the price. Twice-daily housekeeping. A dedicated concierge who texts you for dinner reservations. Plush bathrobes in three sizes including child. A welcome basket with curated items from @sarahk's favorite local artisans — I'd never have found half of these on my own.\n\nThe morning coffee delivery alone (poured fresh and brought to your deck at your requested time) feels like a tiny luxury that completely transforms how you start your day.\n\n## The honest tradeoffs\n\nLet's be real. $3,500 a night is *a lot* of money. For that price, the WiFi could be faster. The fitness center is a 12-minute walk away. There's no in-room espresso machine, which feels wrong at this price point.\n\nIf you have very young kids who'll nap most of the day, you'll feel the cost. The bungalows shine when you're actually using them — sunsets, mornings on the deck, late-night swims off the back ladder.\n\n## So who is this for?\n\nThis is a milestone trip. Anniversary, retirement, post-wedding decompression — those are the right occasions. It's not a \"first family trip\" choice. Save it for when you want to actually *experience* the space, not just sleep in it.\n\nFor more on which Disney resorts genuinely earn their keep, see [my full deluxe resort ranking](https://drft.app/r/disney-deluxe-ranking) and the [Grand Floridian comparison piece](https://drft.app/r/gf-vs-poly). And shoutout to @chrisb whose original review pushed me to give the renovation a fair shot — he was right.\n\n> Worth every penny? For the right trip, the right couple, and the right reason — absolutely. For anyone else, save the money and stay at the Polynesian's standard rooms. They're still magical, just $2,800 less so.", articlePlaces: ["Polynesian Village Resort", "Bora Bora Bungalows"], img: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80"], scores: { forYou: 88, network: 84, public: 79 }, likes: 312, comments: 47, shares: 28, endorsedBy: [1, 4, 5], tags: { places: ["Polynesian Village Resort", "Bora Bora Bungalows"] } },
-    { id: 102, postType: "article", userId: 4, time: "5h", place: "Walt Disney World", location: "Lake Buena Vista, FL", title: "A Field Guide to Eating Cheap (and Well) at Disney", excerpt: "Park food doesn't have to drain your savings. After 30 days on property eating only quick service, I ranked every option under $15 and found the ten meals genuinely worth your money.", readMinutes: 12, body: "Let me start with a confession: I once spent $87 on a single lunch at EPCOT. Three people. One \"shareable\" cheese plate, two adult beverages, and a sandwich that arrived at the table looking like it lost a fight. Never again.\n\nThis guide is for the rest of us — the families who refuse to spend table-service money on a meal we'd rather forget. After thirty days on property eating exclusively quick service, I have notes.\n\n> The single best meal I had on this trip cost $11.79. The single worst cost $34.\n\n## The methodology\n\nThirty days. Quick service only. Maximum spend per meal: $15. I rated each on three axes: **flavor**, **portion size**, and **how it held up if you ate it on a bench 20 minutes later** — because that's what actually happens at Disney.\n\nI tipped @mike.annual on a few hidden gems too — he's been doing this longer than me and pointed me toward two places I'd never have considered.\n\n## The top 10, ranked\n\n**1. Pecos Bill's beef nachos** — $11.79. The fixings bar is the secret weapon. Pile high, eat fast. Magic Kingdom's best-kept value.\n\n**2. Satu'li Canteen bowls** — $13.49. Animal Kingdom's quick service that should be table service. Build your own. The slaw is genuinely good.\n\n![The Satu'li bowl, properly assembled](https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1200&q=80)\nThe move: chimichurri base, beef, all the toppings, double slaw.\n\n**3. Docking Bay 7 Fried Endorian Chicken Tip-Yip** — $13.99. Yes the name is ridiculous. Yes it's basically fried chicken. Yes it's *excellent*.\n\n**4. Casey's Corner hot dog with chili-cheese** — $10.99. The hot dog has improved dramatically over the last two years. I'm not sure why. I'm not asking questions.\n\n**5. Columbia Harbour House lobster roll** — $14.49. This one might actually break the value-meal ceiling. Get the combo with fries.\n\n## What to absolutely skip\n\n*Anything* that says \"specialty burger\" at a quick-service location. They're always $14+, they're always disappointing, and you'll always wish you'd ordered the regular cheeseburger for $10.\n\nThe Boardwalk Joe's. Never. Just no. Walk the extra ten minutes to BoardWalk Deli.\n\n> If a quick service line is longer than 8 people deep at off-peak hours, the food isn't worth the wait. Trust me on this one.\n\n## The hidden gems\n\nA few spots that don't get the credit they deserve:\n\n- **Sunshine Seasons at EPCOT's Land pavilion** — rotisserie chicken plate for $13. Better than half the table service in EPCOT, full stop.\n- **Woody's Lunch Box at Toy Story Land** — the totchos are real. Skip the lines by going at 2:45 PM.\n- **Liberty Square Market** — fresh fruit and turkey legs. Underrated combo.\n\nFor more food-specific deep dives, check out the [EPCOT Food & Wine ranking](https://drft.app/r/food-wine-booths-ranked) and my [Snack Stand Power Rankings](https://drft.app/r/disney-snack-rankings). Honest reviews, no Disney-PR speak.\n\nAnd if you disagree with anything here, fight me in the comments. Especially about Casey's. People have opinions about Casey's.", articlePlaces: ["EPCOT", "Magic Kingdom", "Hollywood Studios", "Animal Kingdom"], img: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80"], scores: { forYou: 82, network: 89, public: 81 }, likes: 489, comments: 78, shares: 56, endorsedBy: [1, 3, 5], tags: { places: ["EPCOT", "Magic Kingdom", "Hollywood Studios", "Animal Kingdom"] } },
-    { id: 103, postType: "article", userId: 5, time: "2d", place: "Magic Kingdom", location: "Bay Lake, FL", title: "The Smartest Way to Do Magic Kingdom in a Single Day", excerpt: "After 47 trips to MK over the last decade, I built a touring plan that consistently knocks out every E-ticket attraction by 3 PM — even on peak crowd days. Here's the route, ride by ride.", readMinutes: 9, body: "Most one-day Magic Kingdom strategies online are wrong. They assume you'll be in the park by 8 AM with the energy of a CrossFit instructor. Real families with real kids need a plan that survives a 3-year-old's nap protest.\n\nThis is that plan.\n\n## The core principle\n\nThe game is won before you arrive. Park reservations, [Genie+ purchases](https://drft.app/r/genie-plus-guide), and morning logistics matter more than any in-park decision you'll make.\n\n> Rope drop one ride. Lightning Lane the rest. Don't argue with the math.\n\nIf you arrive after 9:30 AM, the entire plan collapses. The window between official park opening and the first major wait spike is your single most valuable resource.\n\n![The view down Main Street before crowds arrive — earn this view](https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?w=1200&q=80)\n\n## The exact route\n\n**Hour 1 (rope drop to 10 AM):** Hit @sarahk's golden rule — *one* ride at rope drop, max. For us, that's TRON Lightcycle Run. The virtual queue opens at 7 AM sharp. Set an alarm, don't miss it.\n\n**Hour 2:** Sweep through Fantasyland counterclockwise. Seven Dwarfs Mine Train, Peter Pan, Winnie the Pooh. Use Lightning Lane for the first, walk-on the others if you move fast.\n\n**Hour 3:** Pirates of the Caribbean, then Haunted Mansion. These are the two least-volatile waits in the park — you can hit them at any time, but the early afternoon is when wait times for everything else peak.\n\n## The lunch window matters more than you think\n\nEat at 11:15 AM. Not noon. Not 11:30. **11:15.**\n\nEvery quick service line in the park spikes between 11:45 and 1:00. By 11:15 you'll be 8th in line at Pecos Bill's. By 11:50 you'll be 40th. Same food, 35 minutes of your life saved.\n\nI cover this in more depth in the [Disney Quick Service Field Guide](https://drft.app/r/disney-quick-service) — read it the night before your trip.\n\n## The afternoon collapse\n\nHere's the part most plans get wrong. Between 1 PM and 3 PM, **leave the park**. Go back to your resort. Swim. Nap. Watch a movie. Yes, even if you only have one day.\n\nYou'll come back at 4 PM with renewed energy for a magic-hour run through Adventureland and Tomorrowland. The wait times drop slightly after the lunch rush, and the lighting transforms the entire park.\n\n> The single best three hours at Magic Kingdom are between 4 PM and 7 PM. If you spend that window exhausted because you didn't break, you wasted the day.\n\n## The night run\n\nDinner reservation at 6:15 PM somewhere on the monorail loop. Crystal Palace or Tony's Town Square if you want to walk back. After dinner: Space Mountain, Buzz Lightyear, one more loop through Fantasyland for whatever you missed.\n\nFireworks at 9 PM. Watch from the Tomorrowland Terrace if you can. The angle is criminally underrated.\n\n## What this plan costs\n\n- Genie+ for the party: $25-$35/person\n- Strategic Lightning Lane Individual purchases: $15-$25/ride for ~2 rides\n- The mental energy of executing it: significant\n\nThe payoff: you'll ride every E-ticket by 3 PM and have *time* to enjoy the park, not just survive it. Worth it.\n\nQuestions? Drop them below. Want a Hollywood Studios version? @jordaneats is working on one — link soon.", articlePlaces: ["Magic Kingdom", "Space Mountain", "TRON Lightcycle Run", "Haunted Mansion", "Pirates of the Caribbean"], scores: { forYou: 91, network: 87, public: 83 }, likes: 624, comments: 92, shares: 71, endorsedBy: [1, 2, 4], img: "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?w=800&q=80"], tags: { places: ["Magic Kingdom"] } },
-    { id: 104, postType: "article", userId: 3, time: "4d", place: "EPCOT", location: "Lake Buena Vista, FL", title: "Every Food & Wine Festival Booth, Honestly Ranked", excerpt: "I ate at all 35 booths so you don't have to. Some were transcendent. Some were criminal. Here's the definitive ranking with what to order and what to walk past.", readMinutes: 14, body: "Look — the Food & Wine Festival is the best three months on Disney's calendar if you know what you're doing. It's also a $400 mistake waiting to happen if you don't.\n\nAfter 35 booths over a single weekend (and probably some long-term cardiovascular damage), I'm here to save you from yourself.\n\n> Of the 35 booths, 11 are genuinely worth your stomach space. 7 are good. 12 are forgettable. 5 are actively bad. Here's how to know which is which.\n\n![The Festival map, marked up with my actual ranking](https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=80)\nMy actual marked-up map after the weekend. Green = go. Red = avoid. Yellow = if the line is short.\n\n## The methodology\n\nI ate one item from every booth. Some items were better than others — I tried to pick the most popular or featured item at each, except where the line told me otherwise. Each got a score on **flavor**, **value**, and **photo-worthiness** (because we all know that matters).\n\nI also tipped @alexplores along the way to make sure I wasn't insane about the bad ones. Confirmation bias is real.\n\n## The top 5 (absolute must-eats)\n\n**1. Hawai'i — Kālua Pork Slider with sweet-and-sour Dole Whip slaw — $7.50**\nThis shouldn't work. It does. The slaw cuts the richness perfectly and the slider bun is dangerously good.\n\n**2. Belgium — Beef Stew with Belgian Waffle — $8.25**\nDon't skip this because it sounds weird. The waffle is the carb you didn't know you needed. Get it for breakfast at 11 AM. Trust me.\n\n**3. India — Madras Red Curry with Roasted Cauliflower — $6.75**\nThe best vegetarian item in the festival, by miles. Even meat eaters should detour for this one.\n\n**4. Greece — Spanakopita and Greek Salad combo — $9.00**\nThe spanakopita could go up against any sit-down Greek restaurant in Orlando. Pair with the salad for the whole picture.\n\n**5. Mexico — Taco de Lengua — $8.50**\nThe ox tongue taco is *the* connoisseur's pick this year. If that's not your thing, get the al pastor instead. Both are excellent.\n\n## The hidden gem\n\n**Coastal Eats — Lobster Roll — $11.95.** This is technically more expensive than the festival's usual price ceiling, but for a New England-quality lobster roll inside a theme park? Stunning. Get it before 1 PM because they run out.\n\nFor my full breakdown of EPCOT dining outside of festival season, check the [EPCOT Restaurant Guide](https://drft.app/r/epcot-restaurant-guide).\n\n## The five booths to absolutely skip\n\nI'm naming names.\n\n1. **Wine and Dine Studios** — soggy, overpriced, vibes of a hotel banquet from 2003.\n2. **Active Eats** — every \"healthy\" item tastes like punishment for fun.\n3. **Brew-Wing Lab** — the wings have improved but the booth is in the worst spot in EPCOT.\n4. **Funnel Cake** — sorry but the festival funnel cake is significantly worse than any state fair funnel cake you've had.\n5. **The Donut Box** — the donuts are *fine* but for $7 they should be life-changing. They are not.\n\n> A bad booth at Food & Wine isn't tragic on its own. A bad booth at Food & Wine that you waited 25 minutes for is.\n\n## How to actually do the festival\n\nThe move is simple:\n\n- Arrive at 11 AM, eat your way around World Showcase counter-clockwise\n- Pace yourself — *every* item is shareable\n- Drink a beverage at every third booth, not every booth\n- Sit down for 15 minutes at the Japan pavilion fountain at the halfway point\n- Be done by 3 PM. The booths get worse as the day goes on (truly)\n\nThe whole experience runs about $80-120 per person if you're sharing properly. For comparison, a single Le Cellier dinner is $90+ per person. Math checks out.\n\nMore festival coverage coming — drop a comment if you want me to do the same breakdown for the [Holiday Festival](https://drft.app/r/holiday-festival) next month.", articlePlaces: ["EPCOT"], scores: { forYou: 86, network: 82, public: 88 }, likes: 712, comments: 134, shares: 98, endorsedBy: [1, 2, 4, 5], img: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80"], tags: { places: ["EPCOT"] } },
-    { id: 105, postType: "article", userId: 1, time: "1w", place: "Disney Springs", location: "Lake Buena Vista, FL", title: "The Disney Springs Restaurants Locals Actually Recommend", excerpt: "Cast members tipped me off to the spots they go to on their off days. None of them have lines on Disney's app. All of them are worth your reservation slot.", readMinutes: 7, body: "Disney Springs has 60+ dining options, and roughly 50 of them are aimed at tourists who don't know better. The remaining 10 are where cast members actually eat on their nights off.\n\nI spent a year asking the question every chance I got: \"Where do *you* eat?\" Here's what they actually said.\n\n## The locals' favorites\n\n**Morimoto Asia** isn't a secret, but the lounge menu is. Skip the dining room. Sit at the bar, order the [duck tacos and the pork buns](https://drft.app/r/morimoto-bar-menu), and you've had a $40 meal that would cost $80 in the main room.\n\n![The bar at Morimoto — where the food is the same but the energy is better](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80)\nThe bar after 8 PM is the play. Same kitchen. Half the wait.\n\n**The BOATHOUSE** gets the most cast-member recommendations of any restaurant in the Springs. Not for the obvious reasons. The steak is good but expensive. The *Cobb salad with shrimp* is the move — $24, enormous portion, somehow better than any salad has a right to be.\n\n> The BOATHOUSE Cobb is the only Disney Springs item I've eaten more than four times. It's that good. — @sarahk, who has eaten everything at Disney Springs\n\n## The actual hidden gem\n\n**Paddlefish** is right there in the middle of everything and somehow gets overlooked. The lobster mac and cheese is exactly as good as you want it to be. They take walk-ups at the bar even on Saturday night. This is criminally underrated.\n\nGet a window seat upstairs at sunset. The view does most of the work.\n\n## The breakfast move nobody talks about\n\n**Wine Bar George** opens at 11 AM and most people don't know about brunch. The croissant sandwich with bacon and gruyère is *transcendent*. Pair with a $9 mimosa. Out the door at $30 with no kids around. Quietly the best meal at Disney Springs.\n\n## What to absolutely skip\n\n- **Anything with \"Earl of\" in the name.** I'm sorry to those of you who feel strongly. The food is mediocre and the prices aren't.\n- **The Polite Pig.** Look — barbecue in Florida has standards. This is not those standards.\n- **Frontera Cocina.** When it opened it was great. It has not been great in three years.\n\n## The cast-member lifehacks\n\n- **Pizza Ponte** does the same pizza as Maria & Enzo's Ristorante but quick-service style. Same chef, same oven, same dough. *Half the price.*\n- **Wolfgang Puck Bar & Grill** has the best happy hour — half off appetizers and house wines from 3-5 PM daily.\n- **D-Luxe Burger** if you have a kid having a meltdown and need food in 8 minutes. Best fast option in the Springs.\n\n## Reservations strategy\n\nBook on the [OpenTable app](https://drft.app/r/disney-opentable-trick), not the Disney app. Disney's site lists only ~40% of actual availability — cast members confirmed this directly. You'll consistently find tables on OpenTable that don't show up on Disney's reservation system.\n\nFor a full Disney Springs deep dive (shops, entertainment, the works), see my [Disney Springs Field Guide](https://drft.app/r/disney-springs-guide). And huge thanks to @chrisb for the Morimoto tip — life-changing.", articlePlaces: ["Disney Springs", "The BOATHOUSE", "Morimoto Asia", "Paddlefish"], img: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"], scores: { forYou: 79, network: 81, public: 76 }, likes: 286, comments: 41, shares: 22, endorsedBy: [3, 5], tags: { places: ["Disney Springs"] } },
     { id: 21, postType: "review", userId: 2, time: "1d", place: "'Ohana Restaurant", location: "Polynesian Village Resort", aspectRatio: "4/5", caption: "The all-you-can-eat family style dinner is back and better than ever. The noodles are addictive, the skewers are perfectly seasoned, and the bread pudding dessert is the best ending to any Disney meal. Only downside: 2-hour wait even with a reservation.", img: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80", "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80", "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800&q=80"], reviewVote: "up", scores: { forYou: 90, network: 93, public: 87 }, likes: 389, comments: 64, shares: 33, endorsedBy: [1, 3, 5], tags: { places: ["'Ohana", "Polynesian Village Resort"] } },
     { id: 4, postType: "ask", userId: 4, time: "3h", place: "Magic Kingdom", location: "Bay Lake, FL", question: "First trip with a 3-year-old and 5-year-old. Which park should we do first day -- Magic Kingdom or Hollywood Studios?", askBody: "We're staying at Pop Century for 4 nights and want to start the trip strong. The kids have never been before so I want to make sure the first day is magical. Should I prioritize Magic Kingdom for the classic Disney experience or Hollywood Studios for the rides?", scores: { forYou: 88, network: 92, public: 78 }, likes: 178, comments: 31, shares: 8, askAnswers: 31, askTopAnswer: { userId: 1, text: "Magic Kingdom, no question. Rope drop it, hit Fantasyland first while the kids have energy. Save Hollywood Studios for day 2 -- the waits at Slinky Dog will test a 3-year-old's patience." }, endorsedBy: [1, 5] },
     { id: 5, postType: "post", userId: 5, time: "4h", place: "Animal Kingdom", location: "Bay Lake, FL", aspectRatio: "4/5", caption: "The kids' new favorite: portable clip-on fans from Amazon. Game changer for Florida heat. Lasted all day on one charge.", img: "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=800&q=80", imgs: ["https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=800&q=80", "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800&q=80", "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&q=80"], scores: { forYou: 85, network: 78, public: 72 }, likes: 342, comments: 56, shares: 28, endorsedBy: [1, 2], tags: { products: [{ name: "SkyGenius Clip Fan", price: "$15.99" }] } },
@@ -330,7 +325,6 @@ const IMAGE_GRID = [
     { id: "ig4", userId: 2, place: "Boardwalk Inn", imgs: 4, img: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80" },
 ];
 // === MOCK ROUTES GRID ===
-// Variations of the DAY_SUMMARY trace pattern. Each "route" has per-segment polylines so the grid cards can animate identically.
 const ROUTES_GRID = [
     {
         id: "rt1", userId: 5, park: "Magic Kingdom", distance_mi: 5.2, duration: "7h 45m", posted_ago: "2h", stops: 9, segments: [
@@ -825,90 +819,11 @@ const PROFILE_TAGGED = {
         { id: "pt6-6", userId: 1, place: "Contemporary Resort", img: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80", imgs: 2 },
     ],
 };
-const CATS = ["All", "Broadcasts", "Routes", "Ask", "Videos", "Images", "List", "Reviews", "Articles", "Places", "Accounts"];
+const CATS = ["All", "Broadcasts", "Ask", "Videos", "Images", "List", "Reviews", "Places", "Accounts"];
 
 // === MOCK DAY SUMMARY — Magic Kingdom ===
 // The backend will eventually populate this from activity_segments + wait_time_snapshots.
 // For the prototype we hard-code a realistic-looking day so the UI can be demoed end-to-end.
-const DAY_SUMMARY = {
-    park: "Magic Kingdom",
-    date: "July 4, 2026",
-    entered_at: "8:47 AM",
-    exited_at: "6:00 PM",
-    narrative: "You conquered Tomorrowland early, beat TRON's posted wait by 15 minutes, and logged 4.8 miles before most guests had finished breakfast.",
-    stats: {
-        distance_mi: 4.8,
-        steps: 8812,
-        rides: 5,
-        wait_saved_pct: 40,
-        dining_stops: 2,
-        hours_in_park: 7.2,
-        calories: 612,
-    },
-    // SVG-space polyline coordinates (viewBox 0 0 320 360). Segments are ordered chronologically.
-    // Each segment carries an activity_type that maps to a color in the legend.
-    route_segments: [
-        { type: "walking", points: "40,320 60,300 80,285 110,270" },
-        { type: "queueing", points: "110,270 115,260 118,250" },
-        { type: "riding", points: "118,250 160,230 200,218" },
-        { type: "walking", points: "200,218 220,210 240,195 250,175" },
-        { type: "queueing", points: "250,175 252,165 254,158" },
-        { type: "riding", points: "254,158 240,140 220,128" },
-        { type: "walking", points: "220,128 190,120 160,115 135,118" },
-        { type: "dining", points: "135,118 132,118" },
-        { type: "walking", points: "135,118 110,125 85,140 70,160" },
-        { type: "queueing", points: "70,160 68,168 66,175" },
-        { type: "riding", points: "66,175 80,190 100,200" },
-        { type: "walking", points: "100,200 140,215 180,225 215,235" },
-        { type: "queueing", points: "215,235 217,245 219,252" },
-        { type: "riding", points: "219,252 230,265 245,272" },
-        { type: "walking", points: "245,272 220,290 180,298 140,305" },
-        { type: "dining", points: "140,305 138,305" },
-        { type: "walking", points: "140,305 110,315 80,320 50,325" },
-        { type: "queueing", points: "50,325 48,320 46,314" },
-        { type: "riding", points: "46,314 55,305 68,298" },
-        { type: "walking", points: "68,298 95,292 125,288 155,285" },
-    ],
-    // POI stamps for the map — labels appear over the route.
-    poi_stamps: [
-        { x: 40, y: 320, label: "Entry", icon: "entry" },
-        { x: 118, y: 250, label: "TRON", icon: "ride" },
-        { x: 254, y: 158, label: "Space Mtn", icon: "ride" },
-        { x: 133, y: 118, label: "Cosmic Ray's", icon: "dining" },
-        { x: 66, y: 175, label: "Haunted Mansion", icon: "ride" },
-        { x: 219, y: 252, label: "Pirates", icon: "ride" },
-        { x: 139, y: 305, label: "Main St Bakery", icon: "dining" },
-        { x: 46, y: 314, label: "Seven Dwarfs", icon: "ride" },
-        { x: 155, y: 285, label: "Exit", icon: "exit" },
-    ],
-    rides: [
-        { name: "TRON Lightcycle Run", entered: "9:14 AM", boarded: "9:47 AM", exited: "9:51 AM", posted_min: 45, actual_min: 33, ride_min: 4 },
-        { name: "Space Mountain", entered: "10:52 AM", boarded: "11:20 AM", exited: "11:23 AM", posted_min: 40, actual_min: 28, ride_min: 3 },
-        { name: "Haunted Mansion", entered: "1:18 PM", boarded: "1:33 PM", exited: "1:41 PM", posted_min: 20, actual_min: 15, ride_min: 8 },
-        { name: "Pirates of the Caribbean", entered: "3:04 PM", boarded: "3:16 PM", exited: "3:24 PM", posted_min: 15, actual_min: 12, ride_min: 8 },
-        { name: "Seven Dwarfs Mine Train", entered: "4:46 PM", boarded: "5:19 PM", exited: "5:23 PM", posted_min: 50, actual_min: 33, ride_min: 4 },
-    ],
-    dining: [
-        { name: "Cosmic Ray's Starlight Cafe", time: "12:30 PM", dwell_min: 47 },
-        { name: "Main Street Bakery", time: "4:08 PM", dwell_min: 23 },
-    ],
-    // Media captured during the session — photos and videos mixed.
-    moments: [
-        { type: "photo", url: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=300&q=80", time: "9:12 AM", location: "TRON Plaza" },
-        { type: "photo", url: "https://images.unsplash.com/photo-1580835446637-3eff7bb41b7b?w=300&q=80", time: "10:05 AM", location: "Tomorrowland" },
-        { type: "video", url: "https://images.unsplash.com/photo-1608889335941-32ac5f2041b9?w=300&q=80", time: "11:21 AM", location: "Space Mountain", duration: "0:18" },
-        { type: "photo", url: "https://images.unsplash.com/photo-1575334718017-41f7b85d87d7?w=300&q=80", time: "12:45 PM", location: "Cosmic Ray's" },
-        { type: "photo", url: "https://images.unsplash.com/photo-1512633657089-cc94d5a68bca?w=300&q=80", time: "2:14 PM", location: "Liberty Square" },
-        { type: "video", url: "https://images.unsplash.com/photo-1534531173927-aeb928d54385?w=300&q=80", time: "3:20 PM", location: "Pirates", duration: "0:42" },
-        { type: "photo", url: "https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9?w=300&q=80", time: "5:22 PM", location: "Fantasyland" },
-    ],
-    // Broadcasts the user submitted during the session.
-    broadcasts: [
-        { cat: "Headsup", venue: "Space Mountain", time: "10:47 AM", note: "Lightning Lane line is backed up into Tomorrowland — allow extra time." },
-        { cat: "Food", venue: "Cosmic Ray's", time: "12:58 PM", note: "Mobile order wait only 4 min right now, shortest all morning." },
-        { cat: "Crowds", venue: "Fantasyland", time: "2:32 PM", note: "Starting to thin out — parade crowds heading to Main St." },
-    ],
-};
 const F = "'Circular','Cereal',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif";
 const MOMENTS = [
     { userId: 1, img: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=200&q=60", seen: false },
@@ -918,30 +833,6 @@ const MOMENTS = [
     { userId: 5, img: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=200&q=60", seen: true },
     { userId: 6, img: "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=200&q=60", seen: false },
 ];
-const MOMENT_STORIES = {
-    1: [
-        { img: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=800&q=80", caption: "Just found the best hidden spot in Magic Kingdom. The fireworks view from here is absolutely unreal and nobody knows about it yet.", location: "Magic Kingdom", city: "Bay Lake, FL", time: "2h", likes: 84, tags: 3, comments: 12, shares: 5 },
-        { img: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80", caption: "This new menu item at Be Our Guest is a game changer. Get the filet before word gets out.", location: "Be Our Guest Restaurant", city: "Bay Lake, FL", time: "4h", likes: 126, tags: 1, comments: 8, shares: 3 },
-        { img: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80", caption: "Date night done right.", location: "Victoria & Albert's", city: "Bay Lake, FL", time: "6h", likes: 203, tags: 2, comments: 24, shares: 9 },
-    ],
-    2: [{ img: "https://images.unsplash.com/photo-1580477667995-2b94f01c9516?w=800&q=80", caption: "EPCOT Food & Wine is hitting different this year. The new Brazil booth is incredible.", location: "EPCOT", city: "Lake Buena Vista, FL", time: "1h", likes: 167, tags: 4, comments: 31, shares: 14 },
-    { img: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80", caption: "Okay this dessert though. Festival favorites are back and better than ever.", location: "World Showcase", city: "Lake Buena Vista, FL", time: "3h", likes: 95, tags: 0, comments: 6, shares: 2 },
-    ],
-    3: [
-        { img: "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=800&q=80", caption: "Golden hour at Hollywood Studios never gets old. This park has the best vibes after 6pm.", location: "Hollywood Studios", city: "Bay Lake, FL", time: "5h", likes: 72, tags: 2, comments: 24, shares: 9 },
-    ],
-    4: [
-        { img: "https://images.unsplash.com/photo-1613109526778-27605f1f27d2?w=800&q=80", caption: "Early morning run through the boardwalk. Disney before the crowds is a different world entirely.", location: "Disney Boardwalk", city: "Bay Lake, FL", time: "8h", likes: 58, tags: 1, comments: 8, shares: 3 },
-        { img: "https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=800&q=80", caption: "Pool day at the Grand Floridian. Sometimes the best Disney day is not going to the parks at all.", location: "Grand Floridian Resort", city: "Bay Lake, FL", time: "10h", likes: 141, tags: 0, comments: 6, shares: 2 },
-    ],
-    5: [
-        { img: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80", caption: "Resort hopping is underrated. Each lobby has its own vibe and the monorail loop is free.", location: "Polynesian Village Resort", city: "Bay Lake, FL", time: "3h", likes: 89, tags: 3, comments: 12, shares: 5 },
-    ],
-    6: [
-        { img: "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800&q=80", caption: "The Dole Whip line was 45 minutes but honestly worth every second. Added macadamia nuts this time.", location: "Aloha Isle", city: "Bay Lake, FL", time: "2h", likes: 112, tags: 2, comments: 24, shares: 9 },
-        { img: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80", caption: "Late night pizza at Via Napoli. The individual is the move, not the large.", location: "Via Napoli", city: "Lake Buena Vista, FL", time: "7h", likes: 67, tags: 1, comments: 8, shares: 3 },
-    ],
-};
 // === AIRBNB PALETTE ===
 const A = {
     brand: "#556270", // DRFT navy -- primary accent
@@ -966,7 +857,6 @@ export default function AirbnbDRFT() {
     const [showImageFeed, setShowImageFeed] = useState(false);
     const [showListFeed, setShowListFeed] = useState(false);
     // Route feed — dedicated overlay screen for routes, mirrors the Lists feed pattern
-    const [showRouteFeed, setShowRouteFeed] = useState(false);
     const [showRouteFilterSheet, setShowRouteFilterSheet] = useState(false);
     const [showRouteSortSheet, setShowRouteSortSheet] = useState(false);
     const [routeFeedSort, setRouteFeedSort] = useState("trending");
@@ -974,13 +864,6 @@ export default function AirbnbDRFT() {
     const [routeFeedNetwork, setRouteFeedNetwork] = useState(false);
     const [routeFeedNearby, setRouteFeedNearby] = useState(false);
     const [showReviewFeed, setShowReviewFeed] = useState(false);
-    const [showArticlesFeed, setShowArticlesFeed] = useState(false);
-    const [viewingArticle, setViewingArticle] = useState(null);
-    const [articleScrolled, setArticleScrolled] = useState(false);
-    const [articleFollowed, setArticleFollowed] = useState(new Set());
-    const [showArticleMenu, setShowArticleMenu] = useState(false);
-    const [articleComments, setArticleComments] = useState({}); // { [articleId]: [{ id, userId, text, time }] }
-    const [articleCommentDraft, setArticleCommentDraft] = useState("");
     const [showPlacesFeed, setShowPlacesFeed] = useState(false);
     const [showAccountsFeed, setShowAccountsFeed] = useState(false);
     const [feedNavHidden, setFeedNavHidden] = useState(false);
@@ -1084,17 +967,17 @@ export default function AirbnbDRFT() {
     const [userConfirmed, setUserConfirmed] = useState(new Set());
     const [userDisputed, setUserDisputed] = useState(new Set());
     const LIVE_BROADCASTS = [
-        { id: "lb1", catId: "rides", catColor: A.brand, catLabel: "Rides", subLabel: "60 min wait", note: "Posted is showing 75 min but we waited 58. Single rider line is barely shorter at 45. Right side of the queue moves faster. Worth it if you can grab a virtual queue spot at the 7am drop.", venue: "TRON Lightcycle Run", userId: 1, ago: "1m", confirms: 4, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?w=800&q=80" } },
-        { id: "lb2", catId: "food", catColor: A.brand, catLabel: "Food & Drink", subLabel: "Walk-ups available", note: "Just got seated as a walk-up at 11:15am, 10 min wait max at the bar. They're being generous today since it's slow. Get the croque monsieur — chef's running a tasting menu version through 2pm.", venue: "Be Our Guest Restaurant", userId: 2, ago: "3m", confirms: 7, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80" } },
-        { id: "lb3", catId: "shops", catColor: A.brand, catLabel: "Shops", subLabel: "Back in stock", note: "Mickey 50th anniversary ears just got restocked in the back display near the registers. There's about 15 pairs left and they always sell out by lunch. Cast member said no more shipments this week.", venue: "Emporium", userId: 3, ago: "5m", confirms: 14 },
+        { id: "lb1", catId: "wait", catColor: A.brand, catLabel: "Wait", subLabel: "60 min wait", note: "Posted is showing 75 min but we waited 58. Single rider line is barely shorter at 45. Right side of the queue moves faster. Worth it if you can grab a virtual queue spot at the 7am drop.", venue: "TRON Lightcycle Run", userId: 1, ago: "1m", confirms: 4, helpedCount: 178, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?w=800&q=80" } },
+        { id: "lb2", catId: "wait", catColor: A.brand, catLabel: "Wait", subLabel: "Walk-ups available", note: "Just got seated as a walk-up at 11:15am, 10 min wait max at the bar. They're being generous today since it's slow. Get the croque monsieur — chef's running a tasting menu version through 2pm.", venue: "Be Our Guest Restaurant", userId: 2, ago: "3m", confirms: 7, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80" } },
+        { id: "lb3", catId: "find", catColor: A.brand, catLabel: "Find", subLabel: "Back in stock", note: "Mickey 50th anniversary ears just got restocked in the back display near the registers. There's about 15 pairs left and they always sell out by lunch. Cast member said no more shipments this week.", venue: "Emporium", userId: 3, ago: "5m", confirms: 14 },
         { id: "lb4", catId: "crowds", catColor: A.brand, catLabel: "Crowds", subLabel: "Busy", note: "Main walkways through Fantasyland are packed shoulder to shoulder right now, especially around Mine Train. Side path behind Pinocchio Village Haus is wide open. Take that if you're heading to Pirates.", venue: "Fantasyland", userId: 4, ago: "8m", confirms: 12, attachment: { type: "video", url: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80", durationSec: 12 } },
-        { id: "lb5", catId: "live", catColor: A.brand, catLabel: "Live", subLabel: "Characters", note: "Mickey and Minnie are out doing a meet-and-greet in front of Cinderella Castle. No line yet but the photopass photographers just showed up so it'll fill fast. They're staying until at least 11:30.", venue: "Main Street U.S.A.", userId: 5, ago: "11m", confirms: 19, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1551033541-baf2bbcb15ce?w=800&q=80" } },
-        { id: "lb6", catId: "weather", catColor: A.brand, catLabel: "Weather", subLabel: "Rain starting", note: "Light drizzle started about 5 min ago and the radar shows it picking up next 20 min. Covered seating at Casey's and Pecos Bill is filling fast. Ponchos still in stock at the Emporium for $14.", venue: "Magic Kingdom — General", userId: 6, ago: "14m", confirms: 8 },
+        { id: "lb5", catId: "live", catColor: A.brand, catLabel: "Live now", subLabel: "Character sighting", note: "Mickey and Minnie are out doing a meet-and-greet in front of Cinderella Castle. No line yet but the photopass photographers just showed up so it'll fill fast. They're staying until at least 11:30.", venue: "Main Street U.S.A.", userId: 5, ago: "11m", confirms: 19, attachment: { type: "photo", url: "https://images.unsplash.com/photo-1551033541-baf2bbcb15ce?w=800&q=80" } },
+        { id: "lb6", catId: "conditions", catColor: A.brand, catLabel: "Conditions", subLabel: "Rain", note: "Light drizzle started about 5 min ago and the radar shows it picking up next 20 min. Covered seating at Casey's and Pecos Bill is filling fast. Ponchos still in stock at the Emporium for $14.", venue: "Magic Kingdom — General", userId: 6, ago: "Posted 4h ago", isLive: false, confirms: 8 },
     ];
     const [inlineBroadcastId] = useState(() => LIVE_BROADCASTS[Math.floor(Math.random() * LIVE_BROADCASTS.length)].id);
     const [inlineMsgText, setInlineMsgText] = useState("");
     const [inlineMsgFocused, setInlineMsgFocused] = useState(false);
-    const [inlineBroadcastCollapsed, setInlineBroadcastCollapsed] = useState(false);
+    const [inlineBroadcastCollapsedIds, setInlineBroadcastCollapsedIds] = useState(new Set());
     const inlineMsgRef = React.useRef(null);
     const [broadcastPlace, setBroadcastPlace] = useState("Magic Kingdom");
     const [activeBroadcasts, setActiveBroadcasts] = useState([]);
@@ -1102,13 +985,11 @@ export default function AirbnbDRFT() {
     const broadcastBannerTimer = useRef(null);
     const BROADCAST_VENUES = {
         "Magic Kingdom": {
-            rides: ["Space Mountain", "TRON Lightcycle Run", "Haunted Mansion", "Big Thunder Mountain", "Pirates of the Caribbean", "Jungle Cruise", "Seven Dwarfs Mine Train", "Peter Pan's Flight", "Splash Mountain", "Buzz Lightyear", "It's a Small World", "The Barnstormer", "Dumbo the Flying Elephant", "Magic Carpets of Aladdin", "Tomorrowland Speedway"],
-            food: ["Be Our Guest Restaurant", "Cinderella's Royal Table", "Liberty Tree Tavern", "Cosmic Ray's Starlight Café", "Pecos Bill Tall Tale Inn", "The Friar's Nook", "Storybook Treats", "Casey's Corner", "Columbia Harbour House", "Tortuga Tavern", "Aloha Isle", "Main Street Bakery"],
-            shops: ["Emporium", "Ye Olde Christmas Shoppe", "Bibbidi Bobbidi Boutique", "The Chapeau", "Fantasyland merchandise", "Tomorrowland merchandise"],
-            transport: ["Monorail", "Ferry Boat", "Resort Bus", "Minnie Van"],
+            wait: ["Space Mountain", "TRON Lightcycle Run", "Haunted Mansion", "Big Thunder Mountain", "Pirates of the Caribbean", "Jungle Cruise", "Seven Dwarfs Mine Train", "Peter Pan's Flight", "Splash Mountain", "Buzz Lightyear", "It's a Small World", "The Barnstormer", "Dumbo the Flying Elephant", "Magic Carpets of Aladdin", "Tomorrowland Speedway", "Be Our Guest Restaurant", "Cinderella's Royal Table", "Liberty Tree Tavern", "Cosmic Ray's Starlight Café", "Pecos Bill Tall Tale Inn", "The Friar's Nook", "Storybook Treats", "Casey's Corner", "Columbia Harbour House", "Tortuga Tavern", "Aloha Isle", "Main Street Bakery"],
+            find: ["Emporium", "Ye Olde Christmas Shoppe", "Bibbidi Bobbidi Boutique", "The Chapeau", "Fantasyland merchandise", "Tomorrowland merchandise"],
             crowds: ["Main Street U.S.A.", "Fantasyland", "Tomorrowland", "Adventureland", "Liberty Square", "Frontierland"],
-            headsup: ["Main Entrance", "Main Street U.S.A.", "Fantasyland", "Tomorrowland", "Adventureland", "Liberty Square", "Frontierland", "Restrooms"],
-            weather: ["Magic Kingdom — General", "Outdoor Seating Areas", "Parade Route"],
+            headsup: ["Main Entrance", "Main Street U.S.A.", "Fantasyland", "Tomorrowland", "Adventureland", "Liberty Square", "Frontierland", "Restrooms", "Monorail", "Ferry Boat", "Resort Bus", "Minnie Van"],
+            conditions: ["Magic Kingdom — General", "Outdoor Seating Areas", "Parade Route"],
             live: ["Main Street U.S.A.", "Castle Forecourt Stage", "Tomorrowland Terrace", "Fantasyland", "Festival of Fantasy Parade Route"],
         },
     };
@@ -1123,16 +1004,75 @@ export default function AirbnbDRFT() {
         const miles = (feet / 5280).toFixed(1);
         return { feet, label: miles + " mi" };
     };
+    // Universal broadcast taxonomy — scales to any venue type (theme parks, restaurants, airports,
+    // retail, events, transit, outdoor recreation, etc.). Subcategories stay generic for launch;
+    // later they can branch by venue type for venue-specific precision (e.g., "Standby line" at a
+    // theme park, "Counter wait" at a DMV — both under the same universal "Wait" parent).
     const BROADCAST_CATS = [
-        { id: "rides", label: "Rides", color: A.brand, bg: A.brand + "12", subs: [{ id: "r1", label: "Wait Time" }, { id: "r3", label: "Ride is down" }, { id: "r4", label: "Running again" }, { id: "r5", label: "Weather delay" }] },
-        { id: "crowds", label: "Crowds", color: A.brand, bg: A.brand + "12", subs: [{ id: "c1", label: "Quiet" }, { id: "c2", label: "Normal" }, { id: "c3", label: "Busy" }] },
-        { id: "shops", label: "Shops", color: A.brand, bg: A.brand + "12", subs: [{ id: "s1", label: "Limited edition drop" }, { id: "s2", label: "New merch in stock" }, { id: "s3", label: "Selling out fast" }, { id: "s4", label: "Back in stock" }, { id: "s5", label: "Rare find" }, { id: "s6", label: "Great deal" }] },
-        { id: "food", label: "Food & Drink", color: A.brand, bg: A.brand + "12", subs: [{ id: "f1", label: "Reservations available" }, { id: "f2", label: "Walk-ups available" }, { id: "f3", label: "Fully booked" }, { id: "f4", label: "Long wait" }, { id: "f5", label: "Item sold out" }, { id: "f6", label: "Happy hour" }] },
-        { id: "headsup", label: "Heads Up", color: A.brand, bg: A.brand + "12", subs: [{ id: "h1", label: "Spill or mess" }, { id: "h2", label: "Construction" }, { id: "h3", label: "Long security line" }, { id: "h4", label: "Closed unexpectedly" }] },
-        { id: "weather", label: "Weather", color: A.brand, bg: A.brand + "12", subs: [{ id: "w1", label: "Rain" }, { id: "w2", label: "Lightning nearby" }, { id: "w4", label: "Clearing up" }] },
-        { id: "live", label: "Live", color: A.brand, bg: A.brand + "12", subs: [{ id: "l1", label: "Live music" }, { id: "l2", label: "Pop-up event" }, { id: "l3", label: "Street show" }, { id: "l4", label: "Character sighting" }, { id: "l5", label: "Fireworks starting" }, { id: "l6", label: "Parade starting" }] },
-        { id: "transport", label: "Transportation", color: A.brand, bg: A.brand + "12", subs: [{ id: "t1", label: "Delayed" }, { id: "t2", label: "Down / not operating" }, { id: "t3", label: "Running again" }, { id: "t4", label: "Long queue at stop" }] },
+        { id: "wait", label: "Wait", color: A.brand, bg: A.brand + "12", subs: [{ id: "wa0", label: "Wait time" }, { id: "wa4", label: "Reservations available" }, { id: "wa5", label: "Walk-ups available" }, { id: "wa6", label: "Fully booked / Sold out" }, { id: "wa7", label: "Express / fast lane open" }] },
+        { id: "crowds", label: "Crowds", color: A.brand, bg: A.brand + "12", subs: [{ id: "cr1", label: "Empty" }, { id: "cr2", label: "Quiet" }, { id: "cr3", label: "Normal" }, { id: "cr4", label: "Busy" }, { id: "cr5", label: "Packed" }, { id: "cr6", label: "Surge expected" }] },
+        { id: "headsup", label: "Heads Up", color: A.brand, bg: A.brand + "12", subs: [{ id: "hu1", label: "Closed unexpectedly" }, { id: "hu2", label: "Reopened" }, { id: "hu3", label: "Delay or disruption" }, { id: "hu4", label: "Hazard or spill" }, { id: "hu5", label: "Long entry / security line" }, { id: "hu6", label: "Construction or detour" }, { id: "hu7", label: "Service issue" }] },
+        { id: "conditions", label: "Conditions", color: A.brand, bg: A.brand + "12", subs: [{ id: "co1", label: "Rain" }, { id: "co2", label: "Storm / Lightning nearby" }, { id: "co3", label: "Clearing" }, { id: "co4", label: "Heat advisory" }, { id: "co5", label: "Cold / Snow" }, { id: "co6", label: "Fog / Poor visibility" }, { id: "co7", label: "Windy" }, { id: "co8", label: "Excellent conditions" }] },
+        { id: "live", label: "Live now", color: A.brand, bg: A.brand + "12", subs: [{ id: "ln1", label: "Performance or show" }, { id: "ln2", label: "Special event" }, { id: "ln3", label: "Pop-up or appearance" }, { id: "ln4", label: "Sale or drop" }, { id: "ln5", label: "Happy hour" }, { id: "ln6", label: "Limited-time offer" }, { id: "ln7", label: "Character or celebrity sighting" }] },
+        { id: "find", label: "Find", color: A.brand, bg: A.brand + "12", subs: [{ id: "fi1", label: "In stock / Restocked" }, { id: "fi2", label: "Selling out fast" }, { id: "fi3", label: "Rare find" }, { id: "fi4", label: "Hidden gem" }, { id: "fi5", label: "Great deal" }, { id: "fi6", label: "Worth the trip" }] },
     ];
+    const renderCatIcon = (catId, size = 28, color = A.dark) => {
+        const stroke = color;
+        switch (catId) {
+            case "wait": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>;
+            case "crowds": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>;
+            case "headsup": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>;
+            case "conditions": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>;
+            case "live": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="2.6" fill={stroke} stroke="none" /><path d="M7.76 7.76a6 6 0 0 0 0 8.49" /><path d="M16.24 7.76a6 6 0 0 1 0 8.49" /><path d="M4.93 4.93a10 10 0 0 0 0 14.14" /><path d="M19.07 4.93a10 10 0 0 1 0 14.14" /></svg>;
+            case "find": return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg>;
+            default: return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={stroke} strokeWidth="1.5" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>;
+        }
+    };
+    const renderSubIcon = (subId, isSelected) => {
+        const c = isSelected ? A.brand : A.hof;
+        switch (subId) {
+            case "wa0": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="2" /><path d="M12 2v4M12 18v4M2 12h4M18 12h4" /><path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /></svg>;
+            case "wa4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>;
+            case "wa5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M3 12h18M3 6h18M3 18h12" /><polyline points="17 14 21 18 17 22" /></svg>;
+            case "wa6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="3" width="18" height="18" rx="2" /><line x1="8" y1="8" x2="16" y2="16" /><line x1="16" y1="8" x2="8" y2="16" /></svg>;
+            case "wa7": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M13 2l-9 12h7l-2 8 10-12h-7l1-8z" /></svg>;
+            case "cr1": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>;
+            case "cr2": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>;
+            case "cr3": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>;
+            case "cr4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /><line x1="18" y1="14" x2="23" y2="14" /></svg>;
+            case "cr5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="6" cy="8" r="2.5" /><circle cx="12" cy="6" r="2.5" /><circle cx="18" cy="8" r="2.5" /><circle cx="6" cy="16" r="2.5" /><circle cx="12" cy="18" r="2.5" /><circle cx="18" cy="16" r="2.5" /></svg>;
+            case "cr6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18" /><polyline points="17 6 23 6 23 12" /></svg>;
+            case "hu1": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>;
+            case "hu2": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>;
+            case "hu3": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>;
+            case "hu4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" /></svg>;
+            case "hu5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><rect x="2" y="6" width="20" height="14" rx="2" /><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" /><line x1="6" y1="11" x2="18" y2="11" /></svg>;
+            case "hu6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M2 20h20" /><path d="M4 20V10l8-8 8 8v10" /><line x1="4" y1="14" x2="20" y2="14" /></svg>;
+            case "hu7": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" /></svg>;
+            case "co1": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>;
+            case "co2": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M19 16.9A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25" /><polyline points="13 11 11 15 14 15 12 19" /></svg>;
+            case "co3": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" /></svg>;
+            case "co4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M12 9a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0v-6a3 3 0 0 0-3-3z" /><line x1="12" y1="2" x2="12" y2="5" /><line x1="12" y1="15" x2="12" y2="20" /></svg>;
+            case "co5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><line x1="2" y1="12" x2="22" y2="12" /><line x1="12" y1="2" x2="12" y2="22" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /><line x1="4.93" y1="19.07" x2="19.07" y2="4.93" /></svg>;
+            case "co6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M3 8h18M3 12h18M3 16h18" /></svg>;
+            case "co7": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2" /><path d="M9.6 4.6A2 2 0 1 1 11 8H2" /><path d="M12.6 19.4A2 2 0 1 0 14 16H2" /></svg>;
+            case "co8": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
+            case "ln1": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>;
+            case "ln2": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
+            case "ln3": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>;
+            case "ln4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" /><line x1="7" y1="7" x2="7.01" y2="7" /></svg>;
+            case "ln5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M8 22h8" /><path d="M12 11v11" /><path d="M5 3h14l-4 8H9L5 3z" /></svg>;
+            case "ln6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="12" y1="8" x2="12" y2="12" /><line x1="12" y1="16" x2="12.01" y2="16" /></svg>;
+            case "ln7": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="8" r="4" /><path d="M6 20v-2a6 6 0 0 1 12 0v2" /><path d="M9 13l1 2 2-3 2 3 1-2" /></svg>;
+            case "fi1": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>;
+            case "fi2": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2c0 6-6 8-6 14a6 6 0 0 0 12 0c0-6-6-8-6-14z" /></svg>;
+            case "fi3": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M6 3h12l4 6-10 13L2 9z" /><path d="M11 3L8 9l4 13 4-13-3-6" /><line x1="2" y1="9" x2="22" y2="9" /></svg>;
+            case "fi4": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /><line x1="11" y1="8" x2="11" y2="14" /><line x1="8" y1="11" x2="14" y2="11" /></svg>;
+            case "fi5": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><line x1="12" y1="1" x2="12" y2="23" /><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>;
+            case "fi6": return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>;
+            default: return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>;
+        }
+    };
     const [profileUserId, setProfileUserId] = useState(null);
     const [profileReturnTo, setProfileReturnTo] = useState(null);
     const [profileTab, setProfileTab] = useState("Posts");
@@ -1167,8 +1107,7 @@ export default function AirbnbDRFT() {
     const [followersSearch, setFollowersSearch] = useState("");
     const [followersSheetContext, setFollowersSheetContext] = useState("profile"); // "profile" | "menu"
     const [followingUsers, setFollowingUsers] = useState(new Set());
-    const ACTIVE_MOMENTS = new Set([1, 3, 5]);
-    const [viewingMoment, setViewingMoment] = useState(null);
+    const ACTIVE_MOMENTS = new Set(); // trace removed; kept as empty Set for backward-compat with avatar callsites
     // Broadcast detail viewer (story-style fullscreen for a single broadcast)
     const [viewingBroadcastId, setViewingBroadcastId] = useState(null);
     // DM-style reply text (persistent message bar at the bottom of broadcast detail)
@@ -1200,8 +1139,6 @@ export default function AirbnbDRFT() {
     const [reviewSubjectSearch, setReviewSubjectSearch] = useState("");
     const [showReviewVotePicker, setShowReviewVotePicker] = useState(false);
     const [quickRates, setQuickRates] = useState({});
-    const [momentIndex, setMomentIndex] = useState(0);
-    const [momentCaptionExpanded, setMomentCaptionExpanded] = useState(false);
     const momentTimerRef = useRef(null);
     const momentLastTap = useRef(0);
     const alertDateRef = useRef(null);
@@ -1654,35 +1591,61 @@ export default function AirbnbDRFT() {
     const [showNewPost, setShowNewPost] = useState(false);
     const [newPostType, setNewPostType] = useState("Broadcast");
     const [newPostFlash, setNewPostFlash] = useState(false);
+    // === Post flow (Instagram-style media select → Facebook-style compose) ===
+    // postStep: "grid" = camera roll selection screen, "edit" = compose with caption/tags
+    // selectedPostPhotos: array of photo URLs the user picked (in selection order)
+    // Mock camera roll — would be replaced by real photo library access in production.
+    const [postStep, setPostStep] = useState("grid");
+    const [selectedPostPhotos, setSelectedPostPhotos] = useState([]);
+    const MOCK_CAMERA_ROLL = [
+        "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=400&q=80",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+        "https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=400&q=80",
+        "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=400&q=80",
+        "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=400&q=80",
+        "https://images.unsplash.com/photo-1551033541-baf2bbcb15ce?w=400&q=80",
+        "https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?w=400&q=80",
+        "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&q=80",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400&q=80",
+        "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400&q=80",
+        "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80",
+        "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=400&q=80",
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=400&q=80",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=400&q=80",
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&q=80",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=400&q=80",
+        "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80",
+        "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400&q=80",
+        "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=400&q=80",
+        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=400&q=80",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400&q=80",
+    ];
+    // New Post composer state — single link + horizontal carousel index + which inline picker is expanded.
+    // activePicker is one of: null | "link" | "people" | "place"
+    const [postLink, setPostLink] = useState("");
+    const [postCarouselIdx, setPostCarouselIdx] = useState(0);
+    const [activePicker, setActivePicker] = useState(null);
+    const [pickerSearch, setPickerSearch] = useState("");
+    // Per-photo overrides — Facebook-style edit page. Tap any photo in the mosaic to add specific
+    // caption/places/people/link to just that photo. Inherits from post-level values when empty.
+    // Shape: { [photoUrl]: { caption, places, people, link } }
+    const [photoOverrides, setPhotoOverrides] = useState({});
+    const [showPhotoEditPage, setShowPhotoEditPage] = useState(false);
+    // Per-row inline picker — which photo's picker is currently expanded (so only one shows at a time)
+    const [perPhotoActivePicker, setPerPhotoActivePicker] = useState(null); // { photoUrl, type } or null
+    const [perPhotoPickerSearch, setPerPhotoPickerSearch] = useState("");
     // === Day Summary / Trace It flow ===
-    const [isTracing, setIsTracing] = useState(false);
-    const [showTraceControlSheet, setShowTraceControlSheet] = useState(false);
-    const [showTraceStartScreen, setShowTraceStartScreen] = useState(false);
-    const [traceStartedAt, setTraceStartedAt] = useState(null);
-    const [traceElapsed, setTraceElapsed] = useState(0);
-    const [showSummaryReadySheet, setShowSummaryReadySheet] = useState(false);
-    const [showDaySummary, setShowDaySummary] = useState(false);
     const [summaryHeroPast, setSummaryHeroPast] = useState(false);
     // === Edit My Summary (curation) ===
-    // When the user opens Edit, we swap views from showDaySummary → showEditSummary.
     // The "draft" state holds which items are included in the shareable version.
     // If the user taps Save, draft is committed; Back discards unsaved changes.
-    const [showEditSummary, setShowEditSummary] = useState(false);
     const [editTab, setEditTab] = useState("Places"); // "Places" | "Photos" | "Broadcasts" | "Stats"
     // Included-by-default: all items are on when the screen first opens.
-    const [includedPlaces, setIncludedPlaces] = useState(null);     // Set<string> of POI ids
-    const [includedMoments, setIncludedMoments] = useState(null);   // Set<number> of indices
-    const [includedBroadcasts, setIncludedBroadcasts] = useState(null); // Set<number> of indices
-    const [includedStats, setIncludedStats] = useState(null);       // Set<string> of stat keys
     // Draft copies (working state while editing). Committed to the "included" state on Save.
-    const [draftPlaces, setDraftPlaces] = useState(null);
-    const [draftMoments, setDraftMoments] = useState(null);
-    const [draftBroadcasts, setDraftBroadcasts] = useState(null);
-    const [draftStats, setDraftStats] = useState(null);
     // === Publish Flow (Strava-style share screen) ===
     // Opens when user taps "Share this day" from Edit. Lets the user add a caption,
     // tag people, pick visibility, and publish to the DRFT feed (or externally).
-    const [showPublishScreen, setShowPublishScreen] = useState(false);
     const [publishCaption, setPublishCaption] = useState("");
     const [publishTaggedUsers, setPublishTaggedUsers] = useState([]); // array of user ids
     const [publishVisibility, setPublishVisibility] = useState("Followers"); // "Followers" | "Public" | "Private"
@@ -1690,26 +1653,14 @@ export default function AirbnbDRFT() {
     const [publishTagSearch, setPublishTagSearch] = useState("");
     // Published summary posts — when a user publishes, we prepend a synthetic post to this
     // list. The home feed renders these alongside FEED posts.
-    const [publishedSummaries, setPublishedSummaries] = useState([
-        // Fixed demo Day Summary so testers can tap into the trace detail without going through the create flow.
-        {
-            id: "summary_demo_1",
-            userId: 5,
-            caption: "9-hour open to close day with the kids. Rope dropped TRON, crushed Fantasyland before noon, grabbed 'Ohana reservations for dinner. The virtual queue is clutch — got on TRON twice.",
-            tagged: [2, 3],
-            visibility: "Public",
-            publishedAt: "4h",
-        },
-    ]);
-    // === Shared-summary viewer ===
-    // When a user taps a Day Summary post in the feed, we open a read-only detail page
-    // (not the owner's editable Day Summary). Holds the summary object being viewed.
-    const [viewingSharedSummary, setViewingSharedSummary] = useState(null);
-    const [sharedSummaryHeroPast, setSharedSummaryHeroPast] = useState(false);
-    const [sharedSumCaptionExpanded, setSharedSumCaptionExpanded] = useState(false);
-    const [followingAuthor, setFollowingAuthor] = useState(false);
-    // Bottom-sheet drag state — Strava-style pull-up card over the fullscreen trace.
-    // sheetY is the current bottom-offset in px; higher Y = more of the card visible.
+    // Trace removed — these hooks remain as no-op placeholders because some callsites still reference the setters in dead branches (ACTIVE_MOMENTS is now empty, so they never fire).
+    const [viewingMoment, setViewingMoment] = useState(null);
+    const [momentIndex, setMomentIndex] = useState(0);
+    const [momentCaptionExpanded, setMomentCaptionExpanded] = useState(false);
+    const [isTracing] = useState(false);
+    const [traceStartedAt] = useState(null);
+    const [traceElapsed, setTraceElapsed] = useState(0);
+    // Bottom-sheet drag state — kept for other sheets that may use these refs.
     const [sheetY, setSheetY] = useState(280); // peek default
     const [sheetDragging, setSheetDragging] = useState(false);
     const [showPhotoEdit, setShowPhotoEdit] = useState(false);
@@ -1728,90 +1679,6 @@ export default function AirbnbDRFT() {
     const [askMentionSearch, setAskMentionSearch] = useState("");
     const [showAskFormatBar, setShowAskFormatBar] = useState(false);
     const [askFontSize, setAskFontSize] = useState("M");
-    // Article compose state — mirrors Ask but supports multi-place
-    const [articleTitle, setArticleTitle] = useState("");
-    const [articleBlocks, setArticleBlocks] = useState([{ id: "b0", type: "text", value: "" }]);
-    const [articleFocusedBlockId, setArticleFocusedBlockId] = useState("b0");
-    const articleBlockRefs = React.useRef({});
-    // Derived: full body as a single string (used for parsing mentions/links in preview)
-    const articleBody = articleBlocks.filter(b => b.type === "text").map(b => b.value).join("\n\n");
-    // Helper: update a single block's text value
-    const setBlockValue = (blockId, value) => {
-        setArticleBlocks(prev => prev.map(b => b.id === blockId ? { ...b, value } : b));
-    };
-    // Helper: get focused text block's textarea (for format bar ops)
-    const getFocusedTextarea = () => articleBlockRefs.current[articleFocusedBlockId];
-    // Helper: insert text at cursor in focused block
-    const insertAtCursor = (text) => {
-        const ta = getFocusedTextarea();
-        if (!ta) return;
-        const block = articleBlocks.find(b => b.id === articleFocusedBlockId);
-        if (!block || block.type !== "text") return;
-        const s = ta.selectionStart, e = ta.selectionEnd;
-        const before = block.value.slice(0, s), after = block.value.slice(e);
-        const next = before + text + after;
-        setBlockValue(block.id, next);
-        setTimeout(() => { ta.focus(); ta.selectionStart = ta.selectionEnd = s + text.length; }, 0);
-    };
-    // Helper: wrap selection in focused block (for bold/italic/strike)
-    const wrapInFocused = (left, right) => {
-        const ta = getFocusedTextarea();
-        if (!ta) return;
-        const block = articleBlocks.find(b => b.id === articleFocusedBlockId);
-        if (!block || block.type !== "text") return;
-        const s = ta.selectionStart, e = ta.selectionEnd;
-        const before = block.value.slice(0, s), sel = block.value.slice(s, e), after = block.value.slice(e);
-        const next = before + left + sel + right + after;
-        setBlockValue(block.id, next);
-        setTimeout(() => { ta.focus(); ta.selectionStart = s + left.length; ta.selectionEnd = e + left.length; }, 0);
-    };
-    // Helper: insert an image block at the cursor in the focused text block
-    const insertImageAtCursor = (src) => {
-        const ta = getFocusedTextarea();
-        const focusedIdx = articleBlocks.findIndex(b => b.id === articleFocusedBlockId);
-        if (focusedIdx === -1) return;
-        const block = articleBlocks[focusedIdx];
-        const newImgId = "img" + Date.now();
-        const newTextId = "t" + Date.now();
-        if (block.type === "text" && ta) {
-            const s = ta.selectionStart;
-            const before = block.value.slice(0, s);
-            const after = block.value.slice(s);
-            // Replace the focused block with: [before-text, image, after-text]
-            const newBlocks = [
-                ...articleBlocks.slice(0, focusedIdx),
-                { ...block, value: before },
-                { id: newImgId, type: "image", value: src },
-                { id: newTextId, type: "text", value: after },
-                ...articleBlocks.slice(focusedIdx + 1),
-            ];
-            setArticleBlocks(newBlocks);
-            setArticleFocusedBlockId(newTextId);
-            setTimeout(() => {
-                const newTa = articleBlockRefs.current[newTextId];
-                if (newTa) { newTa.focus(); newTa.selectionStart = newTa.selectionEnd = 0; }
-            }, 50);
-        } else {
-            // Append at end
-            setArticleBlocks([...articleBlocks, { id: newImgId, type: "image", value: src }, { id: newTextId, type: "text", value: "" }]);
-            setArticleFocusedBlockId(newTextId);
-        }
-    };
-    const [articlePlaces, setArticlePlaces] = useState([]);
-    const [articleMedia, setArticleMedia] = useState([]);
-    const [showArticleLinkSheet, setShowArticleLinkSheet] = useState(false);
-    const [articleLinkUrl, setArticleLinkUrl] = useState("");
-    const [showArticleMediaSheet, setShowArticleMediaSheet] = useState(false);
-    const [showArticlePublishModal, setShowArticlePublishModal] = useState(false);
-    const [articlePreviewBodyExpanded, setArticlePreviewBodyExpanded] = useState(false);
-    const [articleCover, setArticleCover] = useState(null);
-    const [showArticleMentionSheet, setShowArticleMentionSheet] = useState(false);
-    const [articleMentionSearch, setArticleMentionSearch] = useState("");
-    const [showArticleFormatBar, setShowArticleFormatBar] = useState(false);
-    const [articleFontSize, setArticleFontSize] = useState("M");
-    const [showArticlePlacePicker, setShowArticlePlacePicker] = useState(false);
-    const [articlePlaceSearch, setArticlePlaceSearch] = useState("");
-    const articleBodyRef = React.useRef(null);
     const askBodyRef = React.useRef(null);
     const [askTopic, setAskTopic] = useState(null);
     const [showAskTopicPicker, setShowAskTopicPicker] = useState(false);
@@ -1992,12 +1859,6 @@ export default function AirbnbDRFT() {
         }, 3000);
         return () => clearTimeout(t);
     }, [bookingAgentAssigned]);
-    // Ticks elapsed seconds while Trace It is active so the indicator updates live.
-    useEffect(() => {
-        if (!isTracing || !traceStartedAt) { setTraceElapsed(0); return; }
-        const id = setInterval(() => { setTraceElapsed(Math.floor((Date.now() - traceStartedAt) / 1000)); }, 1000);
-        return () => clearInterval(id);
-    }, [isTracing, traceStartedAt]);
     // Drives the animated walking puck along the route during active navigation.
     // Advances progress 0 → 1 over ~60 seconds of walking time (prototype pacing). Loops back on complete so demos keep running.
     useEffect(() => {
@@ -2230,52 +2091,6 @@ export default function AirbnbDRFT() {
         const uv = userVotes[post.id];
         const endorsers = (post.endorsedBy || []).map(id => getUser(id)).filter(Boolean); const imgs = post.imgs || (post.img ? [post.img] : []);
         const loc = post.location || (post.perImageTags && post.perImageTags[0] && post.perImageTags[0].location) || "";
-        // --- ARTICLE ---
-        if (post.postType === "article") {
-            const hasImage = imgs.length > 0;
-            return (
-                <div key={post.id} onClick={() => { setArticleScrolled(false); setViewingArticle(post); }} style={{ paddingBottom: 24, cursor: "pointer", background: "transparent" }}>
-                    {hasImage ? (
-                        <div style={{ position: "relative", width: "100%", aspectRatio: "16/9", overflow: "hidden", background: A.bgPage }}>
-                            <img src={imgs[0]} alt="" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                            {/* Bottom gradient for legibility */}
-                            <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: "65%", background: "linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.88) 100%)", pointerEvents: "none" }} />
-                            {/* Top: ARTICLE pill */}
-                            <div style={{ position: "absolute", top: 14, left: 14 }}>
-                                <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 11px", borderRadius: 100, background: "rgba(255,255,255,0.18)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", border: "1px solid rgba(255,255,255,0.3)" }}>
-                                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                                    <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Article</span>
-                                </div>
-                            </div>
-                            {/* Bottom-left: title — editorial style */}
-                            <div style={{ position: "absolute", left: 16, right: 16, bottom: 14 }}>
-                                <div style={{ fontSize: 22, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.18, letterSpacing: -0.4, textShadow: "0 2px 8px rgba(0,0,0,0.4)", display: "-webkit-box", WebkitLineClamp: 3, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{post.title}</div>
-                            </div>
-                        </div>
-                    ) : (
-                        <div style={{ position: "relative", width: "100%", aspectRatio: "16/9", overflow: "hidden", background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)" }}>
-                            {/* Decorative ambient light */}
-                            <div style={{ position: "absolute", top: "-30%", right: "-15%", width: "55%", aspectRatio: "1/1", borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.10) 0%, transparent 60%)", pointerEvents: "none" }} />
-                            {/* Watermark book icon */}
-                            <svg width="110" height="110" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" style={{ position: "absolute", top: "50%", right: 24, transform: "translateY(-50%)" }}><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                            {/* Top: ARTICLE pill */}
-                            <div style={{ position: "absolute", top: 14, left: 14 }}>
-                                <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 11px", borderRadius: 100, background: "rgba(255,255,255,0.18)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", border: "1px solid rgba(255,255,255,0.3)" }}>
-                                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                                    <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Article</span>
-                                </div>
-                            </div>
-                            {/* Bottom-left: title */}
-                            <div style={{ position: "absolute", left: 16, right: 16, bottom: 14 }}>
-                                <div style={{ fontSize: 22, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.18, letterSpacing: -0.4, display: "-webkit-box", WebkitLineClamp: 3, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{post.title}</div>
-                            </div>
-                        </div>
-                    )}
-                    {renderBanner(post, user, endorsers, loc, null, 0)}
-                    {renderEngagement(post, uv, saved)}
-                </div>
-            );
-        }
         // --- ASK ---
         if (post.postType === "ask") {
             const answerer = post.askTopAnswer ? getUser(post.askTopAnswer.userId) : null;
@@ -2358,20 +2173,20 @@ export default function AirbnbDRFT() {
                                         <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
                                     </div>
                                 )}
-                                {/* Top-left: avatar + handle pill (glass-blur) */}
-                                <button onClick={(e) => { e.stopPropagation(); setProfileUserId(user.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: 14, left: 14, display: "inline-flex", alignItems: "center", gap: 8, padding: "5px 12px 5px 5px", borderRadius: 100, background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", zIndex: 2 }}>
-                                    <div style={{ width: 22, height: 22, borderRadius: "50%", overflow: "hidden", background: A.brand, flexShrink: 0 }}>
+                                {/* Top-left: avatar + handle (no pill — white text with shadow on top gradient) */}
+                                <button onClick={(e) => { e.stopPropagation(); setProfileUserId(user.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); setProfileNavHidden(false); setLastScrollTop(0); }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: 14, left: 14, display: "inline-flex", alignItems: "center", gap: 8, zIndex: 2 }}>
+                                    <div style={{ width: 26, height: 26, borderRadius: "50%", overflow: "hidden", background: A.brand, flexShrink: 0, border: "1.5px solid rgba(255,255,255,0.7)", boxShadow: "0 1px 4px rgba(0,0,0,0.4)" }}>
                                         {user?.img ? <img src={user.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} /> : null}
                                     </div>
-                                    <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F }}>{user?.handle || "@user"}</span>
+                                    <span style={{ fontSize: 14, fontWeight: 700, color: "#FFF", fontFamily: F, textShadow: "0 1px 3px rgba(0,0,0,0.6)" }}>{user?.handle || "@user"}</span>
                                 </button>
-                                {/* Top-right: slide counter (multi-image only) + 3-dot menu */}
-                                <div style={{ position: "absolute", top: 14, right: 14, display: "flex", alignItems: "center", gap: 8, zIndex: 2 }}>
+                                {/* Top-right: slide counter (multi-image only) + 3-dot menu — no pills, just white text/icons with shadow */}
+                                <div style={{ position: "absolute", top: 14, right: 14, display: "flex", alignItems: "center", gap: 10, zIndex: 2 }}>
                                     {imgs.length > 1 && !post.isVideo && (
-                                        <div style={{ padding: "5px 10px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F }}>{idx + 1}/{imgs.length}</div>
+                                        <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 3px rgba(0,0,0,0.6)" }}>{idx + 1}/{imgs.length}</span>
                                     )}
-                                    <button onClick={(e) => { e.stopPropagation(); setPostMoreId(post.id); setShowPostMore(true); }} style={{ all: "unset", cursor: "pointer", width: 34, height: 34, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.6" /><circle cx="12" cy="12" r="1.6" /><circle cx="19" cy="12" r="1.6" /></svg>
+                                    <button onClick={(e) => { e.stopPropagation(); setPostMoreId(post.id); setShowPostMore(true); }} style={{ all: "unset", cursor: "pointer", width: 28, height: 28, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="#FFF" style={{ filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.6))" }}><circle cx="5" cy="12" r="1.8" /><circle cx="12" cy="12" r="1.8" /><circle cx="19" cy="12" r="1.8" /></svg>
                                     </button>
                                 </div>
                                 {/* Bottom-right group: tag pill + video pills */}
@@ -2443,34 +2258,19 @@ export default function AirbnbDRFT() {
                                 {CATS.map(cat => {
                                     const active = activeCat === cat;
                                     return (
-                                        <button key={cat} onClick={() => { if (cat === "Ask") { setShowAskFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Broadcasts") { setShowBroadcastsFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Videos") { setShowVideoFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Images") { setShowImageFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "List") { setShowListFeed(true); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Routes") { setShowRouteFeed(true); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Reviews") { setShowReviewFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Articles") { setShowArticlesFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Places") { setShowPlacesFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Accounts") { setShowAccountsFeed(true); } else { setActiveCat(cat); } }} style={{ padding: "9px 18px", borderRadius: 24, border: active ? "1.5px solid " + A.brand : "1.5px solid rgba(0,0,0,0.10)", background: active ? A.brand : "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, transition: "all 0.15s", boxSizing: "border-box" }}>
+                                        <button key={cat} onClick={() => { if (cat === "Ask") { setShowAskFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Broadcasts") { setShowBroadcastsFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Videos") { setShowVideoFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Images") { setShowImageFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "List") { setShowListFeed(true); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Reviews") { setShowReviewFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Places") { setShowPlacesFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); } else if (cat === "Accounts") { setShowAccountsFeed(true); } else { setActiveCat(cat); } }} style={{ padding: "9px 18px", borderRadius: 24, border: active ? "1.5px solid " + A.brand : "1.5px solid rgba(0,0,0,0.10)", background: active ? A.brand : "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, transition: "all 0.15s", boxSizing: "border-box" }}>
                                             <span style={{ fontSize: 14, fontWeight: 500, color: active ? "#FFF" : A.dark }}>{cat}</span>
                                         </button>
                                     );
                                 })}
                             </div>
-                            {/* Trace pill — attached to the collapsible header so it collapses with scroll. Live timer + tap to open control sheet. */}
-                            {isTracing && !showDaySummary && !showSummaryReadySheet && (
-                                <div style={{ padding: "6px 12px 10px" }}>
-                                    <button onClick={() => setShowTraceControlSheet(true)} style={{ all: "unset", cursor: "pointer", width: "100%", boxSizing: "border-box", padding: "10px 14px 10px 12px", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)", display: "flex", alignItems: "center", gap: 10, boxShadow: "0 4px 16px rgba(85,98,112,0.28)" }}>
-                                        <div style={{ position: "relative", width: 10, height: 10, flexShrink: 0 }}>
-                                            <div style={{ position: "absolute", inset: 0, borderRadius: "50%", background: "#FF5A5F" }} />
-                                            <div style={{ position: "absolute", inset: -4, borderRadius: "50%", background: "#FF5A5F", opacity: 0.35, animation: "tracePulse 1.6s ease-out infinite" }} />
-                                        </div>
-                                        <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1 }}>Tracing your day</span>
-                                        <div style={{ flex: 1 }} />
-                                        <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1, fontVariantNumeric: "tabular-nums", letterSpacing: 0.2 }}>{Math.floor(traceElapsed / 3600)}:{String(Math.floor((traceElapsed % 3600) / 60)).padStart(2, '0')}:{String(traceElapsed % 60).padStart(2, '0')}</span>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, marginLeft: 4 }}><polyline points="9 18 15 12 9 6" /></svg>
-                                    </button>
-                                </div>
-                            )}
                         </div>
                         {/* Broadcasts strip — replaces Moments. Horizontal scroll of live reports. */}
                         <div style={{ display: "flex", gap: 10, padding: "10px 16px 14px", overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
                             {/* + Broadcast CTA card — first slot */}
                             <div onClick={() => { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); setShowNewPost(true); }} style={{ width: 180, flexShrink: 0, cursor: "pointer", borderRadius: 18, overflow: "hidden", position: "relative", boxShadow: "0 4px 16px rgba(0,0,0,0.08)", aspectRatio: "3/4", background: "linear-gradient(135deg, #5B6473 0%, #3F4754 100%)", padding: 16, boxSizing: "border-box", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
                                 <div style={{ width: 56, height: 56, borderRadius: "50%", background: "rgba(255,255,255,0.18)", display: "flex", alignItems: "center", justifyContent: "center", marginBottom: 14, border: "1px solid rgba(255,255,255,0.25)" }}>
-                                    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="2" fill="#FFF" /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /><path d="M9.17 9.17a4 4 0 0 0 0 5.66" /><path d="M14.83 9.17a4 4 0 0 1 0 5.66" /></svg>
+                                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="2.6" fill="#FFF" stroke="none" /><path d="M7.76 7.76a6 6 0 0 0 0 8.49" /><path d="M16.24 7.76a6 6 0 0 1 0 8.49" /><path d="M4.93 4.93a10 10 0 0 0 0 14.14" /><path d="M19.07 4.93a10 10 0 0 1 0 14.14" /></svg>
                                 </div>
                                 <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, textAlign: "center", marginBottom: 6 }}>Broadcast</span>
                                 <span style={{ fontSize: 11.5, fontWeight: 500, color: "rgba(255,255,255,0.78)", fontFamily: F, textAlign: "center", lineHeight: 1.35, letterSpacing: 0.1 }}>Share what's happening near you</span>
@@ -2504,7 +2304,15 @@ export default function AirbnbDRFT() {
                                         </div>
                                         {/* Content */}
                                         <div style={{ position: "relative", zIndex: 2, flex: 1, display: "flex", flexDirection: "column", minHeight: 0 }}>
-                                            <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 4, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
+                                                <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                                {bc.isLive !== false && (
+                                                    <span style={{ display: "inline-flex", alignItems: "center", gap: 4, padding: "2px 6px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)" }}>
+                                                        <div style={{ width: 5, height: 5, borderRadius: "50%", background: "#FF3B30" }} />
+                                                        <span style={{ fontSize: 9, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.7 }}>LIVE</span>
+                                                    </span>
+                                                )}
+                                            </div>
                                             <div style={{ fontSize: 19, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.15, letterSpacing: -0.4, marginBottom: 6, textShadow: hasMedia ? "0 1px 4px rgba(0,0,0,0.5)" : "none" }}>{bc.subLabel}</div>
                                             {bc.note && (
                                                 <div style={{ fontSize: 13, fontWeight: 400, color: "rgba(255,255,255,0.78)", fontFamily: F, lineHeight: 1.4, display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden", textShadow: hasMedia ? "0 1px 3px rgba(0,0,0,0.55)" : "none" }}>{bc.note}</div>
@@ -2677,191 +2485,10 @@ export default function AirbnbDRFT() {
                                     {renderPost(post)}
                                 </div>
                             ))}
-                            {/* Published Day Summaries — render after the first feed post. Includes the seeded demo
-so testers can tap into the trace detail without going through the create flow. */}
-                            {publishedSummaries.length > 0 && activeCat === "All" && publishedSummaries.map((sum) => {
-                                const author = getUser(sum.userId);
-                                if (!author) return null;
-                                const SEG_COLORS = { walking: "#4A90E2", queueing: "#C2712A", riding: "#22A84A", dining: "#E0A84A", idle: A.foggy };
-                                // Visibility icon + label — shown as a subtle chip next to the timestamp.
-                                const VIS_ICON = sum.visibility === "Public" ? <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg> : sum.visibility === "Private" ? <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg> : <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>;
-                                // Carousel slides — trace first, then each kept moment. Hoisted so both the media and the banner can read the current slide's location.
-                                const keptMoments = DAY_SUMMARY.moments.filter((_, i) => !includedMoments || includedMoments.has(i));
-                                const slides = [{ type: "trace" }, ...keptMoments.map(m => ({ type: "moment", moment: m }))];
-                                const idx = Math.min(imgIndex[sum.id] || 0, slides.length - 1);
-                                const curSlide = slides[idx];
-                                return (
-                                    <div key={sum.id} style={{ paddingBottom: 24, background: "transparent" }}>
-                                        <div>
-
-                                            {(() => {
-                                                // Slide data hoisted to outer scope; just wire up the swipe handler here.
-                                                const swipe = (e) => { const dx = e.changedTouches[0].clientX - (e.currentTarget._touchX || 0); if (Math.abs(dx) > 40) { setImgIndex(prev => { const cur = prev[sum.id] || 0; const next = dx < 0 ? Math.min(cur + 1, slides.length - 1) : Math.max(cur - 1, 0); return { ...prev, [sum.id]: next }; }); } };
-
-                                                return (
-                                                    <div style={{ aspectRatio: "1/1", position: "relative", overflow: "hidden", cursor: "pointer" }}
-                                                        onClick={() => { setSharedSummaryHeroPast(false); setFollowingAuthor(false); setSheetY(0); setViewingSharedSummary(sum); }}
-                                                        onTouchStart={e => { e.currentTarget._touchX = e.touches[0].clientX; }}
-                                                        onTouchEnd={swipe}
-                                                    >
-
-                                                        {/* === SLIDE 1: TRACE === */}
-                                                        {curSlide.type === "trace" && (
-                                                            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)" }}>
-                                                                <div style={{ position: "absolute", top: -50, right: -50, width: 200, height: 200, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                                                                <div style={{ position: "absolute", bottom: -60, left: -60, width: 180, height: 180, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.12) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-
-                                                                {/* Animated trace — viewBox tightened around route bounds (content spans x=40-254, y=115-325) so trace centers in 1:1 container */}
-                                                                <svg viewBox="15 90 265 260" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                                                    <defs>
-                                                                        <filter id={"feed-glow-" + sum.id} x="-20%" y="-20%" width="140%" height="140%">
-                                                                            <feGaussianBlur stdDeviation="1.2" result="blur" />
-                                                                            <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                                                        </filter>
-                                                                    </defs>
-                                                                    {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => (
-                                                                        <polyline key={"bg-" + i} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
-                                                                    ))}
-                                                                    {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => {
-                                                                        const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                                                        return <polyline key={i} points={seg.points} fill="none" stroke={color} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" filter={"url(#feed-glow-" + sum.id + ")"} style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (i * 0.1) + "s infinite" }} />;
-                                                                    })}
-                                                                    {DAY_SUMMARY.poi_stamps.filter(p => p.icon === "ride").slice(0, 5).map((poi, i) => (
-                                                                        <g key={i} style={{ animation: "fadeInDot 0.4s ease-out " + (2 + i * 0.2) + "s backwards" }}>
-                                                                            <circle cx={poi.x} cy={poi.y} r="5" fill="#FFF" opacity="0.95" />
-                                                                            <circle cx={poi.x} cy={poi.y} r="2" fill={A.brand} />
-                                                                        </g>
-                                                                    ))}
-                                                                </svg>
-
-                                                                {/* Day Summary chip removed per design direction */}
-
-                                                                {/* DRFT watermark — top-left, only on trace */}
-                                                                <div style={{ position: "absolute", top: 14, left: 14, pointerEvents: "none", zIndex: 2 }}>
-                                                                    <span style={{ fontSize: 18, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 1.2, lineHeight: 1, textShadow: "0 1px 6px rgba(0,0,0,0.35)" }}>DRFT</span>
-                                                                </div>
-                                                            </div>
-                                                        )}
-
-                                                        {/* === SLIDE 2+: MOMENTS === */}
-                                                        {curSlide.type === "moment" && (
-                                                            <div style={{ position: "absolute", inset: 0, background: A.bgPage }}>
-                                                                <img src={curSlide.moment.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                                {/* Video play button */}
-                                                                {curSlide.moment.type === "video" && (
-                                                                    <>
-                                                                        <div style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%,-50%)", width: 56, height: 56, borderRadius: "50%", background: "rgba(0,0,0,0.5)", backdropFilter: "blur(4px)", display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "none" }}>
-                                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
-                                                                        </div>
-                                                                        <div style={{ position: "absolute", bottom: 14, left: 14, display: "inline-flex", alignItems: "center", justifyContent: "center", padding: "4px 12px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)" }}>
-                                                                            <span style={{ fontSize: 12, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1.2 }}>{curSlide.moment.duration}</span>
-                                                                        </div>
-                                                                    </>
-                                                                )}
-                                                                {/* Location pill removed — location is now shown under the media in the banner */}
-                                                            </div>
-                                                        )}
-
-                                                        {/* Slide counter — top-right, shows when there's more than one slide */}
-                                                        {slides.length > 1 && (
-                                                            <div style={{ position: "absolute", top: 14, right: 14, padding: "3px 9px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)", fontSize: 11, fontWeight: 600, color: "#FFF", zIndex: 2 }}>{idx + 1}/{slides.length}</div>
-                                                        )}
-
-                                                        {/* Venue overlay — bottom-left of media (IG-style) */}
-                                                        <div style={{ position: "absolute", bottom: 14, left: 14, right: 14, display: "flex", alignItems: "center", gap: 6, zIndex: 2 }}>
-                                                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, filter: "drop-shadow(0 1px 3px rgba(0,0,0,0.6))" }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                            <span style={{ fontSize: 14, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1.2, textShadow: "0 1px 3px rgba(0,0,0,0.6)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{curSlide.type === "moment" ? curSlide.moment.location : DAY_SUMMARY.park}</span>
-                                                        </div>
-
-                                                    </div>
-                                                );
-                                            })()}
-
-                                            {/* --- BANNER: mirrors renderBanner() for regular posts --- */}
-                                            <div style={{ padding: "12px 16px 12px" }}>
-
-                                                {/* Network callout — stacked avatars + "Sarah +N in your network ..." (mirrors regular post pattern exactly) */}
-                                                {(() => {
-                                                    const taggedUsers = sum.tagged.map(id => getUser(id)).filter(Boolean);
-                                                    // Prefer tagged friends; fallback to a generic "also visited" signal if no tags
-                                                    const myNetworkAlsoVisited = [2, 3, 5].map(uid => getUser(uid)).filter(Boolean);
-                                                    const users = taggedUsers.length > 0 ? taggedUsers : myNetworkAlsoVisited;
-                                                    if (users.length === 0) return null;
-                                                    const first = users[0].name.split(" ")[0];
-                                                    const verb = taggedUsers.length > 0 ? "joined them" : "also visited";
-                                                    const label = users.length === 1 ? first + " in your network " + verb : first + " +" + (users.length - 1) + " in your network " + verb;
-                                                    return (
-                                                        <div style={{ overflow: "hidden", paddingBottom: 10, marginBottom: 2 }}>
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 8, padding: "6px 0 0" }}>
-                                                                <div style={{ display: "flex", flexShrink: 0 }}>
-                                                                    {users.slice(0, 4).map((tu, ei) => <img key={tu.id} src={tu.img} alt="" style={{ width: 22, height: 22, borderRadius: "50%", objectFit: "cover", border: "1.5px solid " + A.bg, marginLeft: ei > 0 ? -7 : 0, boxShadow: "0 1px 3px rgba(0,0,0,0.15)" }} />)}
-                                                                </div>
-                                                                <span style={{ fontSize: 13, color: A.foggy, fontFamily: F, lineHeight: 1.3 }}>{label}</span>
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })()}
-
-                                                {/* User row — avatar + @handle · time, location below (like "Lake Buena Vista, FL"), 3-dot menu */}
-                                                <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-                                                    <img src={author.img} alt="" style={{ width: 40, height: 40, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                                        <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
-                                                            <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F }}>{author.handle}</span>
-                                                            <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}>· {sum.publishedAt}</span>
-                                                        </div>
-                                                        <div style={{ marginTop: 2 }}>
-                                                            <span style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>Walt Disney World, FL</span>
-                                                        </div>
-                                                    </div>
-                                                    <button onClick={(e) => { e.stopPropagation(); }} style={{ background: "none", border: "none", cursor: "pointer", flexShrink: 0, padding: "8px 0 8px 8px", display: "flex", alignItems: "center" }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill={A.foggy}><circle cx="12" cy="5" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="12" cy="19" r="2" /></svg>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            {/* --- ENGAGEMENT: identical to renderEngagement() --- */}
-                                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "0px 14px 8px" }}>
-                                                <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                                    <button onClick={(e) => { e.stopPropagation(); setToastMsg("Liked"); setTimeout(() => setToastMsg(null), 1200); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px 8px 8px 2px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                                    </button>
-                                                    <button onClick={(e) => { e.stopPropagation(); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                                                    </button>
-                                                    <button onClick={(e) => { e.stopPropagation(); setToastMsg("Comments — coming soon"); setTimeout(() => setToastMsg(null), 1500); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                                    </button>
-                                                    <button onClick={(e) => { e.stopPropagation(); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                                                    </button>
-                                                </div>
-                                                <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                                    <button onClick={(e) => { e.stopPropagation(); }} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px 2px 8px 8px", display: "flex", alignItems: "center" }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            {/* --- CAPTION: below engagement, matches renderCaption() pattern --- */}
-                                            {sum.caption && (
-                                                <div style={{ padding: "0 16px" }}>
-                                                    <div style={{ position: "relative", maxHeight: "3.05em", overflow: "hidden", fontSize: 15, color: A.dark, lineHeight: 1.55, fontFamily: F }}>
-                                                        {sum.caption}
-                                                        {sum.caption.length > 70 && <span style={{ position: "absolute", bottom: 0, right: 0, paddingLeft: 40, background: "linear-gradient(to right, transparent, " + A.bgPage + " 40%)", fontWeight: 600, color: A.foggy, fontSize: 14 }}>more</span>}
-                                                    </div>
-                                                </div>
-                                            )}
-
-                                        </div>
-                                    </div>
-                                );
-                            })}
-                            {/* === INLINE BROADCAST POST (position 2 in feed) === */}
-                            {activeCat === "All" && (() => {
-                                const bc = LIVE_BROADCASTS.find(b => b.id === inlineBroadcastId) || LIVE_BROADCASTS[0];
+                            {/* === INLINE BROADCAST POSTS (position 2 + 3 in feed) === */}
+                            {/* Two examples: one with media (9:16) followed by one text-only (4:5) so both aspect-ratio variants are visible side-by-side. */}
+                            {activeCat === "All" && ["lb1", "lb3"].map(bcId => {
+                                const bc = LIVE_BROADCASTS.find(b => b.id === bcId) || LIVE_BROADCASTS[0];
                                 const samePlaceCount = [...LIVE_BROADCASTS, ...activeBroadcasts.map(b => ({ venue: b.place }))].filter(b => b.venue === bc.venue).length;
                                 const bu = getUser(bc.userId);
                                 const hasMedia = !!bc.attachment?.url;
@@ -2869,6 +2496,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                 const isConfirmed = userConfirmed.has(bc.id);
                                 const isDisputed = userDisputed.has(bc.id);
                                 const isSaved = savedIds.has(bc.id);
+                                const collapsed = inlineBroadcastCollapsedIds.has(bc.id);
                                 const toggleConfirm = (e) => {
                                     e.stopPropagation();
                                     if (isDisputed) setUserDisputed(prev => { const n = new Set(prev); n.delete(bc.id); return n; });
@@ -2882,18 +2510,18 @@ so testers can tap into the trace detail without going through the create flow. 
                                 };
                                 return (
                                     <div key={"inline-bc-" + bc.id} style={{ marginBottom: 12 }}>
-                                        <div onClick={() => setViewingBroadcastId(bc.id)} style={{ position: "relative", aspectRatio: "9 / 16", overflow: "hidden", cursor: "pointer", background: "#0a0c0f", display: "flex", flexDirection: "column" }}>
+                                        <div onClick={() => setViewingBroadcastId(bc.id)} style={{ position: "relative", aspectRatio: hasMedia ? "9 / 16" : "1 / 1", overflow: "hidden", cursor: "pointer", background: "#0a0c0f", display: "flex", flexDirection: "column" }}>
                                             {/* Backdrop */}
                                             {hasMedia ? (
                                                 <img src={bc.attachment.url} alt="" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
                                             ) : (
                                                 <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, #2A2E36 0%, #16181C 100%)" }}>
                                                     <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center", opacity: 0.07 }}>
-                                                        {bc.catId === "rides" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /></svg>}
+                                                        {bc.catId === "wait" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="9" /><polyline points="12 7 12 12 15 14" /></svg>}
                                                         {bc.catId === "crowds" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                                        {bc.catId === "shops" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
-                                                        {bc.catId === "food" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                        {bc.catId === "weather" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
+                                                        {bc.catId === "find" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                                        {bc.catId === "headsup" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" /></svg>}
+                                                        {bc.catId === "conditions" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
                                                         {bc.catId === "live" && <svg width="180" height="180" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill="#FFF" /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
                                                     </div>
                                                 </div>
@@ -2910,11 +2538,13 @@ so testers can tap into the trace detail without going through the create flow. 
                                                     <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F }}>{bu?.handle || "@user"}</span>
                                                 </button>
                                                 <div style={{ flex: 1 }} />
-                                                {/* LIVE badge — red dot + LIVE text, livestream-style indicator */}
-                                                <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
-                                                    <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
-                                                    <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
-                                                </div>
+                                                {/* LIVE badge — red dot + LIVE text, livestream-style indicator. Hidden on archived broadcasts. */}
+                                                {bc.isLive !== false && (
+                                                    <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
+                                                        <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
+                                                        <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
+                                                    </div>
+                                                )}
                                                 <button onClick={(e) => e.stopPropagation()} style={{ all: "unset", cursor: "pointer", width: 34, height: 34, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.6" /><circle cx="12" cy="12" r="1.6" /><circle cx="19" cy="12" r="1.6" /></svg>
                                                 </button>
@@ -2924,7 +2554,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                             {/* Content overlay — collapsible content stacks above venue row */}
                                             <div style={{ position: "relative", zIndex: 5, padding: "0 18px 14px" }}>
                                                 {/* Collapsible content — CATEGORY · ago, headline, note */}
-                                                <div style={{ overflow: "hidden", maxHeight: inlineBroadcastCollapsed ? 0 : 400, opacity: inlineBroadcastCollapsed ? 0 : 1, transform: inlineBroadcastCollapsed ? "translateY(8px)" : "translateY(0)", transition: "max-height 0.28s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.22s ease, transform 0.25s ease", pointerEvents: inlineBroadcastCollapsed ? "none" : "auto", marginBottom: inlineBroadcastCollapsed ? 0 : 10 }}>
+                                                <div style={{ overflow: "hidden", maxHeight: collapsed ? 0 : 400, opacity: collapsed ? 0 : 1, transform: collapsed ? "translateY(8px)" : "translateY(0)", transition: "max-height 0.28s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.22s ease, transform 0.25s ease", pointerEvents: collapsed ? "none" : "auto", marginBottom: collapsed ? 0 : 10 }}>
                                                     {/* CATEGORY · ago */}
                                                     <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 6 }}>
                                                         <span style={{ fontSize: 11, fontWeight: 800, color: "rgba(255,255,255,0.7)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8, textShadow: "0 1px 2px rgba(0,0,0,0.5)" }}>{bc.catLabel}</span>
@@ -2949,8 +2579,8 @@ so testers can tap into the trace detail without going through the create flow. 
                                                         </span>
                                                     </div>
                                                     {/* Chevron — collapses/expands content for unobstructed media view */}
-                                                    <button onClick={(e) => { e.stopPropagation(); setInlineBroadcastCollapsed(c => !c); }} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ transform: inlineBroadcastCollapsed ? "rotate(180deg)" : "rotate(0deg)", transition: "transform 0.25s ease" }}>
+                                                    <button onClick={(e) => { e.stopPropagation(); setInlineBroadcastCollapsedIds(prev => { const next = new Set(prev); if (next.has(bc.id)) next.delete(bc.id); else next.add(bc.id); return next; }); }} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ transform: collapsed ? "rotate(180deg)" : "rotate(0deg)", transition: "transform 0.25s ease" }}>
                                                             <polyline points="6 9 12 15 18 9" />
                                                         </svg>
                                                     </button>
@@ -3034,7 +2664,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                         </div>
                                     </div>
                                 );
-                            })()}
+                            })}
                             {feedFiltered.slice(1).map((post, i) => (
                                 <div key={post.id} style={{ marginBottom: 12 }}>
                                     {renderPost(post)}
@@ -3219,7 +2849,15 @@ so testers can tap into the trace detail without going through the create flow. 
                                                             </div>
                                                             {/* Content */}
                                                             <div style={{ position: "relative", zIndex: 2, flex: 1, display: "flex", flexDirection: "column", minHeight: 0, marginBottom: 10 }}>
-                                                                <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 4, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                                                <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
+                                                                    <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                                                    {bc.isLive !== false && (
+                                                                        <span style={{ display: "inline-flex", alignItems: "center", gap: 4, padding: "2px 6px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)" }}>
+                                                                            <div style={{ width: 5, height: 5, borderRadius: "50%", background: "#FF3B30" }} />
+                                                                            <span style={{ fontSize: 9, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.7 }}>LIVE</span>
+                                                                        </span>
+                                                                    )}
+                                                                </div>
                                                                 <div style={{ fontSize: 19, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.15, letterSpacing: -0.4, marginBottom: 6, textShadow: hasMedia ? "0 1px 4px rgba(0,0,0,0.5)" : "none" }}>{bc.subLabel}</div>
                                                                 {bc.note && (
                                                                     <div style={{ fontSize: 13, fontWeight: 400, color: "rgba(255,255,255,0.78)", fontFamily: F, lineHeight: 1.4, display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden", textShadow: hasMedia ? "0 1px 3px rgba(0,0,0,0.55)" : "none" }}>{bc.note}</div>
@@ -3320,39 +2958,6 @@ so testers can tap into the trace detail without going through the create flow. 
                                                                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.55))" }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
                                                                 <span style={{ fontSize: 12, fontWeight: 600, color: "rgba(255,255,255,0.78)", fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", textShadow: "0 1px 3px rgba(0,0,0,0.55)" }}>{rev.place}</span>
                                                             </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    )}
-                                    {/* Articles grid after 12th post */}
-                                    {i === 10 && activeCat === "All" && (
-                                        <div style={{ padding: "8px 0 16px" }}>
-                                            <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 12, padding: "0 16px" }}>
-                                                <div style={{ fontSize: 20, fontWeight: 700, color: A.dark, fontFamily: F }}>Articles</div>
-                                                <span onClick={() => { setShowArticlesFeed(true); setFeedNavHidden(false); setFeedLastScrollPos(0); }} style={{ fontSize: 14, fontWeight: 600, color: A.brand, cursor: "pointer", padding: "10px 4px 10px 16px", display: "inline-block" }}>See all</span>
-                                            </div>
-                                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, padding: "0 10px" }}>
-                                                {FEED.filter(p => p.postType === "article").slice(0, 4).map(art => {
-                                                    const au = getUser(art.userId);
-                                                    return (
-                                                        <div key={art.id} onClick={() => { setArticleScrolled(false); setViewingArticle(art); }} className="pps-card" style={{ cursor: "pointer", borderRadius: 18, overflow: "hidden", position: "relative", aspectRatio: "3 / 4", background: "#1a1d22", padding: 14, boxSizing: "border-box", display: "flex", flexDirection: "column" }}>
-                                                            {/* Decorative ambient light */}
-                                                            <div style={{ position: "absolute", top: "-20%", right: "-20%", width: "70%", aspectRatio: "1/1", borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 60%)", pointerEvents: "none" }} />
-                                                            {/* Avatar + handle row */}
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 8, position: "relative", zIndex: 2, marginBottom: 10 }}>
-                                                                <div style={{ width: 28, height: 28, borderRadius: "50%", padding: 1.5, background: A.brand, flexShrink: 0 }}>
-                                                                    {au?.img ? <img src={au.img} alt="" style={{ width: "100%", height: "100%", borderRadius: "50%", objectFit: "cover", display: "block" }} /> : <div style={{ width: "100%", height: "100%", borderRadius: "50%", background: "rgba(255,255,255,0.2)" }} />}
-                                                                </div>
-                                                                <span style={{ fontSize: 12, fontWeight: 500, color: "rgba(255,255,255,0.82)", fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", minWidth: 0 }}>{au?.handle || "@user"}</span>
-                                                            </div>
-                                                            {/* Content area (spacer pushing title to bottom) */}
-                                                            <div style={{ position: "relative", zIndex: 2, flex: 1, display: "flex", flexDirection: "column", minHeight: 0 }}>
-                                                                <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7 }}>Article</span>
-                                                            </div>
-                                                            {/* Title — anchored to bottom, grows upward to fit full text */}
-                                                            <div style={{ position: "relative", zIndex: 2, fontSize: 19, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.15, letterSpacing: -0.4 }}>{art.title}</div>
                                                         </div>
                                                     );
                                                 })}
@@ -3515,17 +3120,17 @@ so testers can tap into the trace detail without going through the create flow. 
                                 const side = labelSide(pin);
                                 const iconColor = pin.icon === "food" ? "#1B7340" : pin.icon === "shop" ? "#C2712A" : pin.icon === "hotel" ? "#556270" : "#556270";
                                 const pinBroadcasts = [
-                                    { id: "lb1", catId: "rides", catLabel: "Rides", subLabel: "60 min wait", venue: "TRON Lightcycle Run", ago: "1m", confirms: 4, user: "@mike.annual", poiName: "TRON Lightcycle" },
+                                    { id: "lb1", catId: "wait", catLabel: "Wait", subLabel: "60 min wait", venue: "TRON Lightcycle Run", ago: "1m", confirms: 4, user: "@mike.annual", poiName: "TRON Lightcycle" },
                                     { id: "lb1b", catId: "headsup", catLabel: "Heads Up", subLabel: "Closed unexpectedly", venue: "TRON Lightcycle Run", ago: "4m", confirms: 11, user: "@disneydan", poiName: "TRON Lightcycle" },
                                     { id: "lb1c", catId: "crowds", catLabel: "Crowds", subLabel: "Busy", venue: "TRON Lightcycle Run", ago: "7m", confirms: 6, user: "@travelwithkids", poiName: "TRON Lightcycle" },
-                                    { id: "lb1d", catId: "rides", catLabel: "Rides", subLabel: "Back up and running", venue: "TRON Lightcycle Run", ago: "9m", confirms: 18, user: "@sarahk", poiName: "TRON Lightcycle", note: "Just got off — ride is smooth, wait dropped fast" },
-                                    { id: "lb1e", catId: "live", catLabel: "Live", subLabel: "Virtual queue open", venue: "TRON Lightcycle Run", ago: "12m", confirms: 24, user: "@jordaneats", poiName: "TRON Lightcycle" },
-                                    { id: "lb1f", catId: "weather", catLabel: "Weather", subLabel: "Brief hold — lightning", venue: "TRON Lightcycle Run", ago: "18m", confirms: 9, user: "@parkplannerpro", poiName: "TRON Lightcycle" },
+                                    { id: "lb1d", catId: "wait", catLabel: "Wait", subLabel: "Back up and running", venue: "TRON Lightcycle Run", ago: "9m", confirms: 18, user: "@sarahk", poiName: "TRON Lightcycle", note: "Just got off — ride is smooth, wait dropped fast" },
+                                    { id: "lb1e", catId: "live", catLabel: "Live now", subLabel: "Virtual queue open", venue: "TRON Lightcycle Run", ago: "12m", confirms: 24, user: "@jordaneats", poiName: "TRON Lightcycle" },
+                                    { id: "lb1f", catId: "conditions", catLabel: "Conditions", subLabel: "Brief hold — lightning", venue: "TRON Lightcycle Run", ago: "18m", confirms: 9, user: "@parkplannerpro", poiName: "TRON Lightcycle" },
                                     { id: "lb1g", catId: "headsup", catLabel: "Heads Up", subLabel: "Single rider line fast", venue: "TRON Lightcycle Run", ago: "22m", confirms: 14, user: "@alexplores", poiName: "TRON Lightcycle", note: "Walked on in under 10 min through single rider" },
                                     { id: "lb1h", catId: "crowds", catLabel: "Crowds", subLabel: "Moderate", venue: "TRON Lightcycle Run", ago: "28m", confirms: 5, user: "@maya.magic", poiName: "TRON Lightcycle" },
-                                    { id: "lb1i", catId: "transport", catLabel: "Transport", subLabel: "PeopleMover delay", venue: "TRON Lightcycle Run", ago: "34m", confirms: 3, user: "@emilyc", poiName: "TRON Lightcycle" },
-                                    { id: "lb1j", catId: "rides", catLabel: "Rides", subLabel: "Lightning Lane opened", venue: "TRON Lightcycle Run", ago: "42m", confirms: 21, user: "@disneydad42", poiName: "TRON Lightcycle", note: "New LL slots just dropped for 4-6pm window" },
-                                    { id: "lb2", catId: "food", catLabel: "Food & Drink", subLabel: "Walk-ups available", venue: "Be Our Guest", ago: "3m", confirms: 7, user: "@sarahk", poiName: "Be Our Guest" },
+                                    { id: "lb1i", catId: "headsup", catLabel: "Heads Up", subLabel: "PeopleMover delay", venue: "TRON Lightcycle Run", ago: "34m", confirms: 3, user: "@emilyc", poiName: "TRON Lightcycle" },
+                                    { id: "lb1j", catId: "wait", catLabel: "Wait", subLabel: "Lightning Lane opened", venue: "TRON Lightcycle Run", ago: "42m", confirms: 21, user: "@disneydad42", poiName: "TRON Lightcycle", note: "New LL slots just dropped for 4-6pm window" },
+                                    { id: "lb2", catId: "wait", catLabel: "Wait", subLabel: "Walk-ups available", venue: "Be Our Guest", ago: "3m", confirms: 7, user: "@sarahk", poiName: "Be Our Guest" },
                                     ...activeBroadcasts.filter(b => b.place === pin.name).map(b => ({ id: b.id, catId: b.catId, catLabel: BROADCAST_CATS.find(c => c.id === b.catId)?.label || b.catId, subLabel: b.subLabel, note: b.note, venue: b.place, ago: b.ago, confirms: 0, user: "@" + b.user, poiName: pin.name }))
                                 ].filter(b => b.poiName === pin.name);
                                 const hasBroadcast = pinBroadcasts.length > 0;
@@ -3563,10 +3168,10 @@ so testers can tap into the trace detail without going through the create flow. 
                         {/* === BROADCAST PINS ON MAP === */}
                         {(() => {
                             const allBroadcasts = [
-                                { id: "lb1", catId: "rides", catLabel: "Rides", subLabel: "60 min wait", venue: "TRON Lightcycle Run", ago: "1m", confirms: 4, user: "@mike.annual", poiName: "TRON Lightcycle", x: 210, y: 155 },
-                                { id: "lb2", catId: "food", catLabel: "Food & Drink", subLabel: "Walk-ups available", venue: "Be Our Guest", ago: "3m", confirms: 7, user: "@sarahk", poiName: "Be Our Guest", x: 148, y: 228 },
-                                { id: "lb3", catId: "shops", catLabel: "Shops", subLabel: "Back in stock", venue: "Emporium", ago: "5m", confirms: 14, user: "@alexplores", note: "Mickey 50th anniversary ears restocked", poiName: null, x: 172, y: 310 },
-                                { id: "lb4", catId: "live", catLabel: "Live", subLabel: "Characters", venue: "Main Street U.S.A.", ago: "9m", confirms: 19, user: "@jordaneats", poiName: null, x: 255, y: 275 },
+                                { id: "lb1", catId: "wait", catLabel: "Wait", subLabel: "60 min wait", venue: "TRON Lightcycle Run", ago: "1m", confirms: 4, user: "@mike.annual", poiName: "TRON Lightcycle", x: 210, y: 155 },
+                                { id: "lb2", catId: "wait", catLabel: "Wait", subLabel: "Walk-ups available", venue: "Be Our Guest", ago: "3m", confirms: 7, user: "@sarahk", poiName: "Be Our Guest", x: 148, y: 228 },
+                                { id: "lb3", catId: "find", catLabel: "Find", subLabel: "Back in stock", venue: "Emporium", ago: "5m", confirms: 14, user: "@alexplores", note: "Mickey 50th anniversary ears restocked", poiName: null, x: 172, y: 310 },
+                                { id: "lb4", catId: "live", catLabel: "Live now", subLabel: "Characters", venue: "Main Street U.S.A.", ago: "9m", confirms: 19, user: "@jordaneats", poiName: null, x: 255, y: 275 },
                                 ...activeBroadcasts.map(b => ({ id: b.id, catId: b.catId, catLabel: BROADCAST_CATS.find(c => c.id === b.catId)?.label || b.catId, subLabel: b.subLabel, note: b.note, venue: b.place, ago: b.ago, confirms: 0, user: "@" + b.user, poiName: null, x: b.x, y: b.y }))
                             ];
                             // Standalone pins (not attached to a POI)
@@ -3574,12 +3179,12 @@ so testers can tap into the trace detail without going through the create flow. 
                             return standalonePins.map(bc => (
                                 <div key={bc.id} onClick={() => setSelectedBroadcastPin(selectedBroadcastPin?.id === bc.id ? null : { ...bc, broadcasts: [bc] })} style={{ position: "absolute", left: bc.x + mapOffset.x + "px", top: bc.y + mapOffset.y + "px", transform: "translate(-50%, -50%)", cursor: "pointer", zIndex: selectedBroadcastPin?.id === bc.id ? 12 : 7, animation: "pinDrop 0.4s cubic-bezier(0.34,1.56,0.64,1)" }}>
                                     <div style={{ width: 28, height: 28, borderRadius: "50%", background: A.brand, border: "2px solid #FFF", boxShadow: selectedBroadcastPin?.id === bc.id ? "0 0 0 3px " + A.brand + "50, 0 3px 10px rgba(0,0,0,0.25)" : "0 2px 8px rgba(0,0,0,0.22)", display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s ease" }}>
-                                        {bc.catId === "shops" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                        {bc.catId === "wait" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><circle cx="12" cy="12" r="9" /><polyline points="12 7 12 12 15 14" /></svg>}
+                                        {bc.catId === "find" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
                                         {bc.catId === "live" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill="#FFF" /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
-                                        {bc.catId === "weather" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
+                                        {bc.catId === "conditions" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
                                         {bc.catId === "headsup" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>}
                                         {bc.catId === "crowds" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>}
-                                        {bc.catId === "transport" && <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round"><path d="M2 14h20v3H2z" /><path d="M2 14l3-5h14l3 5" /><circle cx="6.5" cy="18.5" r="1.5" /><circle cx="17.5" cy="18.5" r="1.5" /></svg>}
                                     </div>
                                 </div>
                             ));
@@ -3608,14 +3213,12 @@ so testers can tap into the trace detail without going through the create flow. 
                                             <div key={bc.id}>
                                                 <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 16px" }}>
                                                     <div style={{ width: 40, height: 40, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                        {bc.catId === "rides" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
-                                                        {bc.catId === "food" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                        {bc.catId === "shops" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                                        {bc.catId === "wait" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
+                                                        {bc.catId === "find" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
                                                         {bc.catId === "live" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.brand} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /><path d="M9.17 9.17a4 4 0 0 0 0 5.66" /><path d="M14.83 9.17a4 4 0 0 1 0 5.66" /></svg>}
                                                         {bc.catId === "crowds" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                                        {bc.catId === "weather" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
+                                                        {bc.catId === "conditions" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
                                                         {bc.catId === "headsup" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>}
-                                                        {bc.catId === "transport" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><circle cx="6.5" cy="18.5" r="1.8" /><circle cx="17.5" cy="18.5" r="1.8" /></svg>}
                                                     </div>
                                                     <div style={{ flex: 1, minWidth: 0 }}>
                                                         <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
@@ -3851,14 +3454,12 @@ so testers can tap into the trace detail without going through the create flow. 
                                                                     <div key={bc.id}>
                                                                         <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 16px" }}>
                                                                             <div style={{ width: 40, height: 40, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                                                {bc.catId === "rides" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
-                                                                                {bc.catId === "food" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                                                {bc.catId === "shops" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                                                                {bc.catId === "wait" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
+                                                                                {bc.catId === "find" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
                                                                                 {bc.catId === "live" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.brand} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
                                                                                 {bc.catId === "crowds" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>}
-                                                                                {bc.catId === "weather" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /></svg>}
+                                                                                {bc.catId === "conditions" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /></svg>}
                                                                                 {bc.catId === "headsup" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>}
-                                                                                {bc.catId === "transport" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><circle cx="6.5" cy="18.5" r="1.8" /><circle cx="17.5" cy="18.5" r="1.8" /></svg>}
                                                                             </div>
                                                                             <div style={{ flex: 1, minWidth: 0 }}>
                                                                                 <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
@@ -4850,7 +4451,7 @@ so testers can tap into the trace detail without going through the create flow. 
                             <span style={{ position: "absolute", left: "50%", transform: "translateX(-50%)", fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap" }}>
                                 {broadcastStep === "cat" ? "Broadcast" : broadcastCat.label}
                             </span>
-                            <button onClick={() => setShowBroadcastSheet(false)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, marginLeft: "auto" }}>
+                            <button onClick={() => { if (broadcastStep === "sub") { setBroadcastStep("cat"); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setBroadcastNote(""); setSelectedWaitTime(null); setBroadcastAttachment(null); } else { setShowBroadcastSheet(false); } }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, marginLeft: "auto" }}>
                                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
                             </button>
                         </div>
@@ -4861,14 +4462,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                     {BROADCAST_CATS.map(cat => (
                                         <button key={cat.id} onClick={() => { setBroadcastCat(cat); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setBroadcastStep("sub"); }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "14px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box", transition: "opacity 0.12s" }}>
                                             <div style={{ width: 64, height: 64, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, border: "1.5px solid " + A.border }}>
-                                                {cat.id === "rides" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><line x1="4.5" y1="6.5" x2="7.7" y2="8.35" /><line x1="4.5" y1="13.5" x2="7.7" y2="11.65" /><line x1="19.5" y1="6.5" x2="16.3" y2="8.35" /><line x1="19.5" y1="13.5" x2="16.3" y2="11.65" /><circle cx="12" cy="10" r="1.2" fill={A.dark} stroke="none" /><rect x="10.75" y="1.5" width="2.5" height="2" rx="0.4" /><rect x="10.75" y="16.5" width="2.5" height="2" rx="0.4" /><rect x="18" y="8.75" width="2" height="2.5" rx="0.4" /><rect x="4" y="8.75" width="2" height="2.5" rx="0.4" /><line x1="9.5" y1="18.5" x2="7.5" y2="22" /><line x1="14.5" y1="18.5" x2="16.5" y2="22" /><line x1="7" y1="22" x2="17" y2="22" /></svg>}
-                                                {cat.id === "crowds" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                                {cat.id === "shops" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
-                                                {cat.id === "food" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                {cat.id === "headsup" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>}
-                                                {cat.id === "weather" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
-                                                {cat.id === "live" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.dark} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /><path d="M9.17 9.17a4 4 0 0 0 0 5.66" /><path d="M14.83 9.17a4 4 0 0 1 0 5.66" /></svg>}
-                                                {cat.id === "transport" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><path d="M6 9l1.5-3h9L18 9" /><line x1="12" y1="9" x2="12" y2="14" /><circle cx="6.5" cy="18.5" r="2" /><circle cx="17.5" cy="18.5" r="2" /></svg>}
+                                                {renderCatIcon(cat.id)}
                                             </div>
                                             <span style={{ fontSize: 12, fontWeight: 500, color: A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>{cat.label}</span>
                                         </button>
@@ -4880,7 +4474,7 @@ so testers can tap into the trace detail without going through the create flow. 
                         {broadcastStep === "sub" && broadcastCat && (() => {
                             const venueList = (BROADCAST_VENUES[broadcastPlace]?.[broadcastCat.id] || BROADCAST_VENUES["Magic Kingdom"][broadcastCat.id] || []);
                             const filteredVenues = broadcastVenueSearch.trim() ? venueList.filter(v => v.toLowerCase().includes(broadcastVenueSearch.toLowerCase())) : venueList;
-                            const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub.id !== "r1" || selectedWaitTime !== null);
+                            const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub.id !== "wa0" || selectedWaitTime !== null);
                             const inCompose = !!broadcastSub;
                             return (
                                 <>
@@ -4891,52 +4485,11 @@ so testers can tap into the trace detail without going through the create flow. 
                                                 <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 8 }}>
                                                     {broadcastCat.subs.map(sub => (
                                                         <button key={sub.id} onClick={() => {
-                                                            if (sub.id === "r1") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
+                                                            if (sub.id === "wa0") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
                                                             setBroadcastSub(sub);
                                                         }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "16px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box" }}>
                                                             <div style={{ width: 68, height: 68, borderRadius: "50%", background: broadcastSub?.id === sub.id ? A.brand + "12" : A.bgPage, border: broadcastSub?.id === sub.id ? "2.5px solid " + A.brand : "2.5px solid transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, position: "relative", transition: "all 0.15s ease", boxSizing: "border-box" }}>
-                                                                {sub.id === "r1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="2" /><path d="M12 2v4M12 18v4M2 12h4M18 12h4" /><path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /></svg>
-                                                                    : sub.id === "r2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                        : sub.id === "r3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                            : sub.id === "r4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                : sub.id === "r5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /><line x1="12" y1="14" x2="12" y2="18" /><line x1="10" y1="16" x2="14" y2="16" /></svg>
-                                                                                    : sub.id === "c1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>
-                                                                                        : sub.id === "c2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>
-                                                                                            : sub.id === "c3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /><line x1="18" y1="14" x2="23" y2="14" /></svg>
-                                                                                                : sub.id === "c4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                                    : sub.id === "c5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                        : sub.id === "s1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-                                                                                                            : sub.id === "s2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>
-                                                                                                                : sub.id === "s3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2c0 6-6 8-6 14a6 6 0 0 0 12 0c0-6-6-8-6-14z" /><path d="M12 12c0 3-2 4-2 6a2 2 0 0 0 4 0c0-2-2-3-2-6z" /></svg>
-                                                                                                                    : sub.id === "s4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                        : sub.id === "s5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 3h12l4 6-10 13L2 9z" /><path d="M11 3L8 9l4 13 4-13-3-6" /><line x1="2" y1="9" x2="22" y2="9" /></svg>
-                                                                                                                            : sub.id === "s6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="12" y1="1" x2="12" y2="23" /><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>
-                                                                                                                                : sub.id === "f1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-                                                                                                                                    : sub.id === "f2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                        : sub.id === "f3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                            : sub.id === "f4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                                : sub.id === "f5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                                                                                    : sub.id === "f6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M8 22h8" /><path d="M12 11v11" /><path d="M5 3h14l-4 8H9L5 3z" /></svg>
-                                                                                                                                                        : sub.id === "h1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 3h18v4H3zM3 7l2 14h14l2-14" /><line x1="9" y1="11" x2="15" y2="11" /></svg>
-                                                                                                                                                            : sub.id === "h2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M2 20h20" /><path d="M4 20V10l8-8 8 8v10" /><line x1="4" y1="14" x2="20" y2="14" /><line x1="9" y1="10" x2="15" y2="10" /></svg>
-                                                                                                                                                                : sub.id === "h3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="2" y="6" width="20" height="14" rx="2" /><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" /><line x1="12" y1="11" x2="12" y2="16" /><line x1="12" y1="11" x2="12" y2="11" strokeWidth="2.5" /></svg>
-                                                                                                                                                                    : sub.id === "h4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="3" width="18" height="18" rx="2" /><line x1="8" y1="8" x2="16" y2="16" /><line x1="16" y1="8" x2="8" y2="16" /></svg>
-                                                                                                                                                                        : sub.id === "w1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>
-                                                                                                                                                                            : sub.id === "w2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M19 16.9A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25" /><polyline points="13 11 11 15 14 15 12 19" /></svg>
-
-                                                                                                                                                                                : sub.id === "w4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" /></svg>
-
-                                                                                                                                                                                    : sub.id === "l1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>
-                                                                                                                                                                                        : sub.id === "l2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                                                                                                                                                            : sub.id === "l3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="9" cy="12" r="6" /><circle cx="15" cy="12" r="6" /><path d="M7 11.5c.5-.5 1-.5 2 0" /><path d="M7 13.5c.5.5 1 .5 2 0" /><path d="M15 11.5c.5-.5 1-.5 2 0" /><path d="M15 14c.5-.5 1-.5 2-.5" /></svg>
-                                                                                                                                                                                                : sub.id === "l4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="8" r="4" /><path d="M6 20v-2a6 6 0 0 1 12 0v2" /><path d="M9 13l1 2 2-3 2 3 1-2" /></svg>
-                                                                                                                                                                                                    : sub.id === "l5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /><circle cx="12" cy="12" r="3" fill={broadcastSub?.id === sub.id ? A.brand : A.hof} /></svg>
-                                                                                                                                                                                                        : sub.id === "t1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                                                                                            : sub.id === "t2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                                                                                                : sub.id === "t3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                                                                                                                    : sub.id === "t4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" /></svg>
-                                                                                                                                                                                                                        : sub.id === "l6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 17l4-8 4 4 4-6 4 10" /><line x1="3" y1="21" x2="21" y2="21" /></svg>
-                                                                                                                                                                                                                            : <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>}
+                                                                {renderSubIcon(sub.id, broadcastSub?.id === sub.id)}
                                                                 {broadcastSub?.id === sub.id && (
                                                                     <div style={{ position: "absolute", top: 0, right: 0, width: 22, height: 22, borderRadius: "50%", background: A.brand, border: "2px solid " + A.bg, display: "flex", alignItems: "center", justifyContent: "center" }}>
                                                                         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
@@ -4944,7 +4497,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                                 )}
                                                             </div>
                                                             <span style={{ fontSize: 12, fontWeight: 500, color: broadcastSub?.id === sub.id ? A.brand : A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>
-                                                                {sub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
+                                                                {sub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
                                                             </span>
                                                         </button>
                                                     ))}
@@ -4959,7 +4512,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                     <div style={{ width: 22, height: 22, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                                         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
                                                     </div>
-                                                    <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
+                                                    <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
                                                     <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.4" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                                                 </button>
                                                 {/* Threads-style compose row — avatar + text area. Grows to fill available space. */}
@@ -5424,251 +4977,6 @@ so testers can tap into the trace detail without going through the create flow. 
                 );
             })()}
             {/* === ROUTE FEED PAGE — mirrors List feed: search bar, Routes/Filter/Sort pills, 2-col grid of trace cards === */}
-            {showRouteFeed && (() => {
-                const hasAnyFilter = routeFeedCategories.size > 0 || routeFeedNetwork || routeFeedNearby;
-                const filterCount = routeFeedCategories.size + (routeFeedNetwork ? 1 : 0) + (routeFeedNearby ? 1 : 0);
-                const allRoutes = ROUTES_GRID;
-                return (
-                    <div style={{ position: "absolute", inset: 0, background: A.bgPage, zIndex: 81, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        <div onScroll={(e) => { const st = e.target.scrollTop; const diff = st - feedLastScrollPos; if (diff > 0 && st > 40) { setFeedNavHidden(true); setBottomNavHidden(true); } else if (diff < 0) { setFeedNavHidden(false); setBottomNavHidden(false); } if (st <= 5) { setFeedNavHidden(false); setBottomNavHidden(false); } setFeedLastScrollPos(st); }} style={{ flex: 1, overflowY: "auto", paddingBottom: 90, WebkitOverflowScrolling: "touch", background: A.bgPage }}>
-                            <div style={{ position: "sticky", top: 0, zIndex: 10, background: "transparent", transform: feedNavHidden ? "translateY(-110%)" : "translateY(0)", opacity: feedNavHidden ? 0 : 1, transition: "transform 0.45s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.35s ease", pointerEvents: feedNavHidden ? "none" : "auto" }}>
-                                {/* Search row */}
-                                <div style={{ padding: "calc(env(safe-area-inset-top, 12px) + 14px) 16px 0", display: "flex", alignItems: "center", gap: 10 }}>
-                                    <button onClick={() => { setShowRouteFeed(false); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", flexShrink: 0 }}>
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
-                                    </button>
-                                    <div onClick={() => { setShowSearchPage(true); setSearchQuery(""); }} style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 18px", borderRadius: 40, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", flex: 1, cursor: "pointer" }}>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
-                                        <span style={{ fontSize: 15, fontWeight: 500, color: A.foggy, flex: 1, fontFamily: F }}>Search routes</span>
-                                    </div>
-                                </div>
-                                {/* Filter/Sort bar — identical to List feed */}
-                                <div style={{ display: "flex", gap: 8, padding: "6px 20px 8px", overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch", background: "transparent" }}>
-                                    <button style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid " + A.brand, background: A.brand, backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box" }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF" }}>Routes</span>
-                                    </button>
-                                    <button onClick={() => setShowRouteFilterSheet(true)} style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid " + (hasAnyFilter ? A.brand : "rgba(0,0,0,0.1)"), background: hasAnyFilter ? A.brand + "15" : "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box", display: "flex", alignItems: "center", gap: 6 }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: hasAnyFilter ? A.brand : A.dark }}>Filter{filterCount > 0 ? " (" + filterCount + ")" : ""}</span>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={hasAnyFilter ? A.brand : A.dark} strokeWidth="2"><line x1="4" y1="6" x2="20" y2="6" /><line x1="8" y1="12" x2="16" y2="12" /><line x1="11" y1="18" x2="13" y2="18" /></svg>
-                                    </button>
-                                    <button onClick={() => setShowRouteSortSheet(true)} style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid " + (routeFeedSort !== "trending" ? A.brand : "rgba(0,0,0,0.1)"), background: routeFeedSort !== "trending" ? A.brand + "15" : "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box", display: "flex", alignItems: "center", gap: 6 }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: routeFeedSort !== "trending" ? A.brand : A.dark }}>Sort by</span>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={routeFeedSort !== "trending" ? A.brand : A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 12 15 18 9" /></svg>
-                                    </button>
-                                </div>
-                            </div>
-                            {/* Full-width post cards — single column, matches video/regular post layout */}
-                            <div style={{ paddingTop: 8 }}>
-                                {allRoutes.length === 0 ? (
-                                    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "80px 32px", gap: 12 }}>
-                                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke={A.border} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="3" /><path d="M12 2a8 8 0 0 0-8 8c0 4.5 8 12 8 12s8-7.5 8-12a8 8 0 0 0-8-8z" /></svg>
-                                        <span style={{ fontSize: 16, fontWeight: 600, color: A.foggy, fontFamily: F }}>No routes yet</span>
-                                        <span style={{ fontSize: 14, color: A.foggy, fontFamily: F, textAlign: "center" }}>Routes from the community will appear here</span>
-                                    </div>
-                                ) : allRoutes.map(rt => {
-                                    const ru = getUser(rt.userId);
-                                    if (!ru) return null;
-                                    // Mock network recommenders for callout — pull up to 2 network users who aren't the author
-                                    const netRecs = [2, 3, 5].filter(uid => uid !== rt.userId).slice(0, 2).map(uid => getUser(uid)).filter(Boolean);
-                                    return (
-                                        <div key={rt.id} style={{ marginBottom: 12 }}>
-                                            <div style={{ paddingBottom: 8, margin: "0 10px", borderRadius: 22, overflow: "hidden", background: "linear-gradient(135deg, rgba(255,255,255,0.72) 0%, rgba(255,255,255,0.52) 50%, rgba(255,255,255,0.64) 100%)", backdropFilter: "blur(28px) saturate(180%) brightness(1.06)", WebkitBackdropFilter: "blur(28px) saturate(180%) brightness(1.06)", boxShadow: "inset 0 1.5px 0 rgba(255,255,255,0.85), inset 1.5px 0 0 rgba(255,255,255,0.4), inset -1.5px 0 0 rgba(255,255,255,0.2), 0 4px 24px rgba(0,0,0,0.08), 0 1px 4px rgba(0,0,0,0.04)" }}>
-
-                                                {/* 1:1 trace tile — full width, navy gradient + animated route */}
-                                                <div onClick={() => setToastMsg("Route preview — coming soon")} style={{ aspectRatio: "1/1", position: "relative", overflow: "hidden", background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)", cursor: "pointer" }}>
-                                                    <div style={{ position: "absolute", top: -50, right: -50, width: 200, height: 200, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                                                    <div style={{ position: "absolute", bottom: -60, left: -60, width: 180, height: 180, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.12) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-                                                    <svg viewBox="0 0 320 360" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                                        <defs>
-                                                            <filter id={"routefeed-glow-" + rt.id} x="-20%" y="-20%" width="140%" height="140%">
-                                                                <feGaussianBlur stdDeviation="1.2" result="blur" />
-                                                                <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                                            </filter>
-                                                        </defs>
-                                                        {rt.segments.map((seg, i) => (
-                                                            <polyline key={"bg-" + i} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
-                                                        ))}
-                                                        {rt.segments.map((seg, i) => {
-                                                            const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                                            return <polyline key={i} points={seg.points} fill="none" stroke={color} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" filter={"url(#routefeed-glow-" + rt.id + ")"} style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (i * 0.1) + "s infinite" }} />;
-                                                        })}
-                                                        {rt.pois.map((p, i) => (
-                                                            <g key={i} style={{ animation: "fadeInDot 0.4s ease-out " + (2 + i * 0.2) + "s backwards" }}>
-                                                                <circle cx={p.x} cy={p.y} r="5" fill="#FFF" opacity="0.95" />
-                                                                <circle cx={p.x} cy={p.y} r="2" fill={A.brand} />
-                                                            </g>
-                                                        ))}
-                                                    </svg>
-                                                    {/* Distance + place count pills — bottom-right cluster */}
-                                                    <div style={{ position: "absolute", bottom: 14, right: 14, display: "flex", alignItems: "center", gap: 6 }}>
-                                                        <div style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", padding: "4px 12px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)" }}>
-                                                            <span style={{ fontSize: 12, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1.2 }}>{rt.distance_mi} mi</span>
-                                                        </div>
-                                                        <div style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", padding: "4px 12px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)" }}>
-                                                            <span style={{ fontSize: 12, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1.2 }}>{rt.stops} places</span>
-                                                        </div>
-                                                    </div>
-                                                    {/* DRFT watermark — bottom-left */}
-                                                    <div style={{ position: "absolute", bottom: 16, left: 18, pointerEvents: "none" }}>
-                                                        <span style={{ fontSize: 18, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 1.2, lineHeight: 1, textShadow: "0 1px 6px rgba(0,0,0,0.35)" }}>DRFT</span>
-                                                    </div>
-                                                </div>
-
-                                                {/* Banner — matches regular post renderBanner */}
-                                                <div style={{ padding: "12px 16px 12px", background: A.bg, borderTop: "1px solid " + A.border }}>
-                                                    {/* Title — park name */}
-                                                    <div style={{ paddingBottom: 4, marginBottom: 2 }}>
-                                                        <span style={{ fontSize: 18, fontWeight: 600, color: A.dark, fontFamily: F, lineHeight: 1.35, display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{rt.park}</span>
-                                                    </div>
-                                                    {/* Network callout */}
-                                                    {netRecs.length > 0 && (
-                                                        <div style={{ overflow: "hidden", paddingBottom: 10, marginBottom: 2 }}>
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 8, padding: "6px 0 0" }}>
-                                                                <div style={{ display: "flex", flexShrink: 0 }}>
-                                                                    {netRecs.map((nu, ei) => <img key={nu.id} src={nu.img} alt="" style={{ width: 22, height: 22, borderRadius: "50%", objectFit: "cover", border: "1.5px solid " + A.bg, marginLeft: ei > 0 ? -7 : 0, boxShadow: "0 1px 3px rgba(0,0,0,0.15)" }} />)}
-                                                                </div>
-                                                                <span style={{ fontSize: 13, color: A.foggy, fontFamily: F, lineHeight: 1.3 }}>{netRecs[0].name.split(" ")[0]} {netRecs.length > 1 ? "+" + (netRecs.length - 1) + " " : ""}in your network also visited</span>
-                                                            </div>
-                                                        </div>
-                                                    )}
-                                                    {/* User row */}
-                                                    <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-                                                        <img src={ru.img} alt="" onClick={() => { setShowRouteFeed(false); setProfileUserId(ru.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ width: 40, height: 40, borderRadius: "50%", objectFit: "cover", flexShrink: 0, cursor: "pointer" }} />
-                                                        <div style={{ flex: 1, minWidth: 0 }}>
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
-                                                                <span onClick={() => { setShowRouteFeed(false); setProfileUserId(ru.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, cursor: "pointer" }}>{ru.handle}</span>
-                                                                <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}>· {rt.posted_ago}</span>
-                                                            </div>
-                                                            <div style={{ marginTop: 2 }}>
-                                                                <span style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>Bay Lake, FL</span>
-                                                            </div>
-                                                        </div>
-                                                        <button style={{ background: "none", border: "none", cursor: "pointer", flexShrink: 0, padding: 8, display: "flex", alignItems: "center" }}>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill={A.foggy}><circle cx="12" cy="5" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="12" cy="19" r="2" /></svg>
-                                                        </button>
-                                                    </div>
-                                                </div>
-
-                                                {/* Engagement row */}
-                                                <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "0px 14px 8px" }}>
-                                                    <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                                        <button style={{ background: "none", border: "none", cursor: "pointer", padding: "8px 8px 8px 2px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                                        </button>
-                                                        <button style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                                                        </button>
-                                                        <button onClick={() => setToastMsg("Comments — coming soon")} style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                                        </button>
-                                                        <button style={{ background: "none", border: "none", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                                                        </button>
-                                                    </div>
-                                                    <button style={{ background: "none", border: "none", cursor: "pointer", padding: "8px 2px 8px 8px", display: "flex", alignItems: "center" }}>
-                                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
-                                                    </button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    );
-                                })}
-                            </div>
-                        </div>
-                        {/* Bottom nav — matches List feed pattern */}
-                        <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: A.bg, borderTop: "1px solid " + A.border, zIndex: 82, paddingBottom: "env(safe-area-inset-bottom, 8px)", transform: (bottomNavHidden || showNewPost) ? "translateY(100%)" : "translateY(0)", transition: "transform 0.45s cubic-bezier(0.4, 0, 0.2, 1)" }}>
-                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr 1fr", alignItems: "center", justifyItems: "center", height: 56 }}>
-                                <button onClick={() => { setShowRouteFeed(false); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); setActiveCat("All"); setShowDMPage(false); setOpenThread(null); setShowMenu(false); setShowNotifPage(false); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 48, height: 48 }}>
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M3 9.5L12 3l9 6.5V20a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9.5z" /><polyline points="9 22 9 12 15 12 15 22" /></svg>
-                                </button>
-                                <button onClick={() => { setActiveCat("Map"); setShowRouteFeed(false); setBottomNavHidden(false); setFeedLastScrollPos(0); if (activeSearch && activeSearch.card && activeSearch.card.type === "place") { setSelectedPin(activeSearch.card.data.name); setLocationSheetBroadcasts([]); setLocationSheetExpanded(false); setLocationSheetState("peek"); } }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 48, height: 48 }}>
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6" /><line x1="8" y1="2" x2="8" y2="18" /><line x1="16" y1="6" x2="16" y2="22" /></svg>
-                                </button>
-                                <button onClick={() => { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); setShowNewPost(true); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 48, height: 48 }}>
-                                    <div style={{ width: 26, height: 26, borderRadius: 8, background: "linear-gradient(145deg, " + A.brand + ", #2A4F7A)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 2px 6px " + A.brand + "25" }}>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><line x1="12" y1="5" x2="12" y2="19" /><line x1="5" y1="12" x2="19" y2="12" /></svg>
-                                    </div>
-                                </button>
-                                <button onClick={() => { setShowRouteFeed(false); setShowDMPage(true); setBottomNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 48, height: 48, position: "relative" }}>
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                </button>
-                                <button onClick={() => { setShowRouteFeed(false); setShowMenu(true); setBottomNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 48, height: 48 }}>
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5" strokeLinecap="round"><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" /></svg>
-                                </button>
-                            </div>
-                        </div>
-                        {/* Route Filter sheet */}
-                        {showRouteFilterSheet && (
-                            <>
-                                <div onClick={() => setShowRouteFilterSheet(false)} style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 91, background: A.bg, borderRadius: "20px 20px 0 0", paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 12px)", animation: "sheetUp 0.25s ease" }}>
-                                    <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 0" }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "16px 20px 8px" }}>
-                                        <span style={{ fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F }}>Filter</span>
-                                        {hasAnyFilter && <button onClick={() => { setRouteFeedCategories(new Set()); setRouteFeedNetwork(false); setRouteFeedNearby(false); }} style={{ all: "unset", cursor: "pointer", fontSize: 14, fontWeight: 600, color: A.brand, fontFamily: F }}>Clear all</button>}
-                                    </div>
-                                    {/* Parks */}
-                                    <div style={{ padding: "4px 20px 0" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 600, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.4 }}>Park</span>
-                                    </div>
-                                    {["Magic Kingdom", "EPCOT", "Hollywood Studios", "Animal Kingdom"].map((park, i) => {
-                                        const on = routeFeedCategories.has(park);
-                                        return (
-                                            <button key={park} onClick={() => { setRouteFeedCategories(prev => { const n = new Set(prev); if (on) n.delete(park); else n.add(park); return n; }); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "space-between", width: "100%", boxSizing: "border-box", padding: "16px 20px", borderBottom: "1px solid " + A.border, background: on ? A.brand + "08" : "transparent" }}>
-                                                <span style={{ fontSize: 16, fontWeight: on ? 600 : 400, color: on ? A.brand : A.dark, fontFamily: F }}>{park}</span>
-                                                <div style={{ width: 22, height: 22, borderRadius: 6, border: "1.5px solid " + (on ? A.brand : A.border), background: on ? A.brand : "transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                    {on && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                                </div>
-                                            </button>
-                                        );
-                                    })}
-                                    <div style={{ padding: "16px 20px 0" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 600, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.4 }}>More</span>
-                                    </div>
-                                    <button onClick={() => setRouteFeedNetwork(v => !v)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "space-between", width: "100%", boxSizing: "border-box", padding: "16px 20px", borderBottom: "1px solid " + A.border, background: routeFeedNetwork ? A.brand + "08" : "transparent" }}>
-                                        <span style={{ fontSize: 16, fontWeight: routeFeedNetwork ? 600 : 400, color: routeFeedNetwork ? A.brand : A.dark, fontFamily: F }}>From my network</span>
-                                        <div style={{ width: 22, height: 22, borderRadius: 6, border: "1.5px solid " + (routeFeedNetwork ? A.brand : A.border), background: routeFeedNetwork ? A.brand : "transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                            {routeFeedNetwork && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                        </div>
-                                    </button>
-                                    <button onClick={() => setRouteFeedNearby(v => !v)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "space-between", width: "100%", boxSizing: "border-box", padding: "16px 20px", background: routeFeedNearby ? A.brand + "08" : "transparent" }}>
-                                        <span style={{ fontSize: 16, fontWeight: routeFeedNearby ? 600 : 400, color: routeFeedNearby ? A.brand : A.dark, fontFamily: F }}>Nearby</span>
-                                        <div style={{ width: 22, height: 22, borderRadius: 6, border: "1.5px solid " + (routeFeedNearby ? A.brand : A.border), background: routeFeedNearby ? A.brand : "transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                            {routeFeedNearby && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                        </div>
-                                    </button>
-                                    <div style={{ display: "flex", gap: 10, padding: "12px 20px 0" }}>
-                                        <button onClick={() => { setRouteFeedCategories(new Set()); setRouteFeedNetwork(false); setRouteFeedNearby(false); }} style={{ all: "unset", cursor: "pointer", flex: 1, padding: "14px 0", borderRadius: 100, border: "1.5px solid " + A.border, textAlign: "center", boxSizing: "border-box", background: A.bgPage }}>
-                                            <span style={{ fontSize: 15, fontWeight: 600, color: A.dark, fontFamily: F }}>Clear all</span>
-                                        </button>
-                                        <button onClick={() => setShowRouteFilterSheet(false)} style={{ all: "unset", cursor: "pointer", flex: 2, padding: "14px 0", borderRadius: 100, background: A.brand, textAlign: "center", boxSizing: "border-box" }}>
-                                            <span style={{ fontSize: 15, fontWeight: 600, color: "#FFF", fontFamily: F }}>Apply</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </>
-                        )}
-                        {/* Route Sort sheet */}
-                        {showRouteSortSheet && (
-                            <>
-                                <div onClick={() => setShowRouteSortSheet(false)} style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 91, background: A.bg, borderRadius: "20px 20px 0 0", paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 12px)", animation: "sheetUp 0.25s ease" }}>
-                                    <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 0" }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                    <div style={{ padding: "16px 20px 8px" }}><span style={{ fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F }}>Sort by</span></div>
-                                    {[{ key: "trending", label: "Trending" }, { key: "newest", label: "Newest" }, { key: "longest", label: "Longest distance" }, { key: "most_stops", label: "Most places" }].map((s, i, arr) => (
-                                        <button key={s.key} onClick={() => { setRouteFeedSort(s.key); setShowRouteSortSheet(false); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "space-between", width: "100%", boxSizing: "border-box", padding: "18px 20px", borderBottom: i < arr.length - 1 ? "1px solid " + A.border : "none", background: routeFeedSort === s.key ? A.brand + "08" : "transparent" }}>
-                                            <span style={{ fontSize: 16, fontWeight: routeFeedSort === s.key ? 600 : 400, color: routeFeedSort === s.key ? A.brand : A.dark, fontFamily: F }}>{s.label}</span>
-                                            {routeFeedSort === s.key && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                        </button>
-                                    ))}
-                                </div>
-                            </>
-                        )}
-                    </div>
-                );
-            })()}
             {/* === IMAGE FEED PAGE === */}
             {showImageFeed && (() => {
                 return (
@@ -5841,7 +5149,15 @@ so testers can tap into the trace detail without going through the create flow. 
                                                     </div>
                                                     {/* Content */}
                                                     <div style={{ position: "relative", zIndex: 2, flex: 1, display: "flex", flexDirection: "column", minHeight: 0, marginBottom: 10 }}>
-                                                        <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 4, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                                        <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
+                                                            <span style={{ fontSize: 10.5, fontWeight: 800, color: "rgba(255,255,255,0.55)", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, textShadow: hasMedia ? "0 1px 2px rgba(0,0,0,0.5)" : "none" }}>{bc.catLabel}</span>
+                                                            {bc.isLive !== false && (
+                                                                <span style={{ display: "inline-flex", alignItems: "center", gap: 4, padding: "2px 6px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)" }}>
+                                                                    <div style={{ width: 5, height: 5, borderRadius: "50%", background: "#FF3B30" }} />
+                                                                    <span style={{ fontSize: 9, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.7 }}>LIVE</span>
+                                                                </span>
+                                                            )}
+                                                        </div>
                                                         <div style={{ fontSize: 19, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.15, letterSpacing: -0.4, marginBottom: 6, textShadow: hasMedia ? "0 1px 4px rgba(0,0,0,0.5)" : "none" }}>{bc.subLabel}</div>
                                                         {bc.note && (
                                                             <div style={{ fontSize: 13, fontWeight: 400, color: "rgba(255,255,255,0.78)", fontFamily: F, lineHeight: 1.4, display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden", textShadow: hasMedia ? "0 1px 3px rgba(0,0,0,0.55)" : "none" }}>{bc.note}</div>
@@ -5859,431 +5175,6 @@ so testers can tap into the trace detail without going through the create flow. 
                                 )}
                             </div>
                         </div>
-                    </div>
-                );
-            })()}
-            {showArticlesFeed && (() => {
-                const articles = FEED.filter(p => p.postType === "article");
-                return (
-                    <div style={{ position: "absolute", inset: 0, background: A.bgPage, zIndex: 20, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        <div onScroll={(e) => { const st = e.target.scrollTop; const diff = st - feedLastScrollPos; if (diff > 0 && st > 40) { setFeedNavHidden(true); setBottomNavHidden(true); } else if (diff < 0) { setFeedNavHidden(false); setBottomNavHidden(false); } if (st <= 5) { setFeedNavHidden(false); setBottomNavHidden(false); } setFeedLastScrollPos(st); }} style={{ flex: 1, overflowY: "auto", paddingBottom: 90, WebkitOverflowScrolling: "touch", background: A.bgPage }}>
-                            {/* Header */}
-                            <div style={{ position: "sticky", top: 0, zIndex: 10, background: "transparent", transform: feedNavHidden ? "translateY(-110%)" : "translateY(0)", opacity: feedNavHidden ? 0 : 1, transition: "transform 0.45s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.35s ease", pointerEvents: feedNavHidden ? "none" : "auto" }}>
-                                <div style={{ padding: "calc(env(safe-area-inset-top, 12px) + 14px) 16px 0", display: "flex", alignItems: "center", gap: 10 }}>
-                                    <button onClick={() => { setShowArticlesFeed(false); setFeedNavHidden(false); setBottomNavHidden(false); setFeedLastScrollPos(0); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", flexShrink: 0 }}>
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
-                                    </button>
-                                    <div onClick={() => { setShowSearchPage(true); setSearchQuery(""); }} style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 18px", borderRadius: 40, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", flex: 1, cursor: "pointer" }}>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
-                                        <span style={{ fontSize: 15, fontWeight: 500, color: A.foggy, flex: 1, fontFamily: F }}>Search articles</span>
-                                    </div>
-                                </div>
-                                <div style={{ display: "flex", gap: 8, padding: "6px 20px 8px", overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch", background: "transparent" }}>
-                                    <button style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid " + A.brand, background: A.brand, backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box" }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF" }}>All articles</span>
-                                    </button>
-                                    <button style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid rgba(0,0,0,0.1)", background: "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box", display: "flex", alignItems: "center", gap: 6 }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.dark }}>Filter</span>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2"><line x1="4" y1="6" x2="20" y2="6" /><line x1="8" y1="12" x2="16" y2="12" /><line x1="11" y1="18" x2="13" y2="18" /></svg>
-                                    </button>
-                                    <button style={{ padding: "9px 18px", borderRadius: 24, border: "1.5px solid rgba(0,0,0,0.1)", background: "rgba(255,255,255,0.88)", backdropFilter: "blur(12px)", WebkitBackdropFilter: "blur(12px)", boxShadow: "0 2px 10px rgba(0,0,0,0.10)", cursor: "pointer", fontFamily: F, whiteSpace: "nowrap", flexShrink: 0, boxSizing: "border-box", display: "flex", alignItems: "center", gap: 6 }}>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.dark }}>Sort by</span>
-                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 12 15 18 9" /></svg>
-                                    </button>
-                                </div>
-                            </div>
-                            {/* Articles list */}
-                            <div>
-                                {articles.length === 0 ? (
-                                    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "80px 32px", gap: 12 }}>
-                                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke={A.border} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                                        <span style={{ fontSize: 16, fontWeight: 600, color: A.foggy, fontFamily: F }}>No articles yet</span>
-                                        <span style={{ fontSize: 14, color: A.foggy, fontFamily: F, textAlign: "center" }}>Long-form articles from the community will appear here</span>
-                                    </div>
-                                ) : articles.map(art => renderPost(art))}
-                            </div>
-                        </div>
-                    </div>
-                );
-            })()}
-            {viewingArticle && (() => {
-                const art = viewingArticle;
-                const author = getUser(art.userId) || USERS[0];
-                const articleImages = art.imgs || (art.img ? [art.img] : []);
-                const hasImage = articleImages.length > 0;
-                const endorsers = (art.endorsedBy || []).map(id => getUser(id)).filter(Boolean);
-                // Simple markdown parser for inline + block rendering
-                const renderMarkdown = (text) => {
-                    if (!text) return null;
-                    const blocks = text.split(/\n\n+/);
-                    return blocks.map((block, bi) => {
-                        const trimmed = block.trim();
-                        // Image block — ![alt](url) optionally with caption on next line
-                        const imgMatch = trimmed.match(/^!\[(.*?)\]\((.+?)\)(?:\n([\s\S]+))?$/);
-                        if (imgMatch) {
-                            const [, alt, url, caption] = imgMatch;
-                            return (
-                                <figure key={bi} style={{ margin: "20px -20px 24px" }}>
-                                    <img src={url} alt={alt} style={{ width: "100%", display: "block" }} onClick={(e) => { e.stopPropagation(); }} />
-                                    {(caption || alt) && (
-                                        <figcaption style={{ padding: "10px 20px 0", fontSize: 13, color: A.foggy, fontFamily: F, fontStyle: "italic", lineHeight: 1.45, textAlign: "center" }}>{caption || alt}</figcaption>
-                                    )}
-                                </figure>
-                            );
-                        }
-                        // Header 2
-                        if (trimmed.startsWith("## ")) {
-                            return <h2 key={bi} style={{ fontSize: 22, fontWeight: 800, color: A.dark, fontFamily: F, lineHeight: 1.25, letterSpacing: -0.4, margin: "10px 0 12px" }}>{renderInline(trimmed.slice(3))}</h2>;
-                        }
-                        // Header 1
-                        if (trimmed.startsWith("# ")) {
-                            return <h1 key={bi} style={{ fontSize: 26, fontWeight: 800, color: A.dark, fontFamily: F, lineHeight: 1.22, letterSpacing: -0.5, margin: "14px 0 14px" }}>{renderInline(trimmed.slice(2))}</h1>;
-                        }
-                        // Blockquote
-                        if (trimmed.startsWith("> ")) {
-                            const quoteLines = trimmed.split("\n").map(l => l.startsWith("> ") ? l.slice(2) : l).join(" ");
-                            return (
-                                <blockquote key={bi} style={{ margin: "20px 0", padding: "2px 0 2px 18px", borderLeft: "3px solid " + A.dark, fontSize: 19, fontWeight: 500, fontStyle: "italic", color: A.hof, fontFamily: F, lineHeight: 1.5, letterSpacing: -0.2 }}>
-                                    {renderInline(quoteLines)}
-                                </blockquote>
-                            );
-                        }
-                        // Paragraph
-                        return <p key={bi} style={{ margin: "0 0 18px", fontSize: 17, color: A.dark, lineHeight: 1.7, fontFamily: F, letterSpacing: -0.1 }}>{renderInline(trimmed)}</p>;
-                    });
-                };
-                // Inline: handles **bold**, *italic*, ~~strike~~, [text](url), @mention — bold first, then links, then mentions, then strike, then italic
-                const renderInline = (text) => {
-                    const out = [];
-                    let key = 0;
-                    const handleMentionClick = (handle) => {
-                        const u = USERS.find(usr => usr.handle.replace(/^@/, "") === handle);
-                        if (u) { setViewingArticle(null); setProfileUserId(u.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }
-                    };
-                    const handleLinkClick = (url) => {
-                        setToastMsg("Opening " + url);
-                        setTimeout(() => setToastMsg(null), 1500);
-                    };
-                    // Step 1: bold
-                    const boldParts = text.split(/(\*\*[^*]+\*\*)/g);
-                    boldParts.forEach((bp) => {
-                        if (bp.startsWith("**") && bp.endsWith("**") && bp.length > 4) {
-                            out.push(<strong key={key++} style={{ fontWeight: 700 }}>{bp.slice(2, -2)}</strong>);
-                            return;
-                        }
-                        // Step 2: links [text](url)
-                        const linkParts = bp.split(/(\[[^\]]+\]\([^\)]+\))/g);
-                        linkParts.forEach((lp) => {
-                            const lm = lp.match(/^\[([^\]]+)\]\(([^\)]+)\)$/);
-                            if (lm) {
-                                out.push(<a key={key++} onClick={(e) => { e.stopPropagation(); handleLinkClick(lm[2]); }} style={{ color: A.brand, textDecoration: "underline", textDecorationColor: A.brand + "55", textUnderlineOffset: 2, cursor: "pointer" }}>{lm[1]}</a>);
-                                return;
-                            }
-                            // Step 3: @mention
-                            const mentionParts = lp.split(/(@[a-zA-Z0-9_.]+)/g);
-                            mentionParts.forEach((mp) => {
-                                if (mp.startsWith("@") && mp.length > 1) {
-                                    out.push(<span key={key++} onClick={(e) => { e.stopPropagation(); handleMentionClick(mp.slice(1)); }} style={{ color: A.brand, fontWeight: 600, cursor: "pointer" }}>{mp}</span>);
-                                    return;
-                                }
-                                // Step 4: strike
-                                const strikeParts = mp.split(/(~~[^~]+~~)/g);
-                                strikeParts.forEach((sp) => {
-                                    if (sp.startsWith("~~") && sp.endsWith("~~") && sp.length > 4) {
-                                        out.push(<span key={key++} style={{ textDecoration: "line-through" }}>{sp.slice(2, -2)}</span>);
-                                        return;
-                                    }
-                                    // Step 5: italic
-                                    const italicParts = sp.split(/(\*[^*]+\*)/g);
-                                    italicParts.forEach((ip) => {
-                                        if (ip.startsWith("*") && ip.endsWith("*") && ip.length > 2) {
-                                            out.push(<em key={key++}>{ip.slice(1, -1)}</em>);
-                                        } else if (ip) {
-                                            out.push(<React.Fragment key={key++}>{ip}</React.Fragment>);
-                                        }
-                                    });
-                                });
-                            });
-                        });
-                    });
-                    return out;
-                };
-                return (
-                    <div style={{ position: "absolute", inset: 0, background: A.bg, zIndex: 70, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        <div onScroll={(e) => { const st = e.target.scrollTop; setArticleScrolled(st > 220); }} style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", position: "relative" }}>
-                            {/* Floating top controls — over the cover image, adapt to scroll */}
-                            <div style={{ position: "absolute", top: "calc(env(safe-area-inset-top, 12px) + 12px)", left: 16, right: 16, zIndex: 5, display: "flex", alignItems: "center", justifyContent: "space-between", pointerEvents: "none" }}>
-                                <button onClick={() => setViewingArticle(null)} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: articleScrolled ? A.bg : "rgba(0,0,0,0.4)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", boxShadow: articleScrolled ? "0 2px 12px rgba(0,0,0,0.10)" : "none", display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "auto", transition: "background 0.2s, box-shadow 0.2s" }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={articleScrolled ? A.dark : "#FFF"} strokeWidth="2.5" strokeLinecap="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
-                                </button>
-                                <button onClick={(e) => { e.stopPropagation(); setShowArticleMenu(true); }} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: articleScrolled ? A.bg : "rgba(0,0,0,0.4)", backdropFilter: "blur(14px)", WebkitBackdropFilter: "blur(14px)", boxShadow: articleScrolled ? "0 2px 12px rgba(0,0,0,0.10)" : "none", display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "auto", transition: "background 0.2s, box-shadow 0.2s" }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill={articleScrolled ? A.dark : "#FFF"} stroke="none"><circle cx="12" cy="5" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="12" cy="19" r="2" /></svg>
-                                </button>
-                            </div>
-                            {/* Cover image or gradient header */}
-                            {hasImage ? (
-                                <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", background: A.bgPage }}>
-                                    <img src={articleImages[0]} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                </div>
-                            ) : (
-                                <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)", position: "relative" }}>
-                                    <div style={{ position: "absolute", top: "-20%", right: "-10%", width: "60%", aspectRatio: "1/1", borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 60%)", pointerEvents: "none" }} />
-                                    <svg width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.10)" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -50%)" }}><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                                </div>
-                            )}
-                            {/* Article meta + title */}
-                            <div style={{ padding: "24px 20px 0" }}>
-                                {/* Title */}
-                                <h1 style={{ margin: "0 0 16px", fontSize: 32, fontWeight: 800, color: A.dark, fontFamily: F, lineHeight: 1.15, letterSpacing: -0.7 }}>{art.title}</h1>
-                                {/* Author row */}
-                                <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 20, paddingBottom: 20, borderBottom: "1px solid " + A.border }}>
-                                    <img src={author.img} alt="" onClick={() => { setViewingArticle(null); setProfileUserId(author.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ width: 44, height: 44, borderRadius: "50%", objectFit: "cover", flexShrink: 0, cursor: "pointer" }} />
-                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                        <div onClick={() => { setViewingArticle(null); setProfileUserId(author.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", cursor: "pointer" }}>{author.name}</div>
-                                        <div style={{ display: "flex", alignItems: "center", gap: 4, fontSize: 12, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden" }}>
-                                            <span style={{ overflow: "hidden", textOverflow: "ellipsis", minWidth: 0 }}>{author.handle}</span>
-                                            <span style={{ color: A.border, flexShrink: 0 }}>·</span>
-                                            <span style={{ flexShrink: 0 }}>{art.readMinutes || 5} min read</span>
-                                            <span style={{ color: A.border, flexShrink: 0 }}>·</span>
-                                            <span style={{ flexShrink: 0 }}>{art.time}</span>
-                                        </div>
-                                    </div>
-                                    {author.id !== USERS[0].id && (
-                                        <button onClick={(e) => {
-                                            e.stopPropagation();
-                                            const isFollowing = articleFollowed.has(author.id);
-                                            setArticleFollowed(prev => { const n = new Set(prev); isFollowing ? n.delete(author.id) : n.add(author.id); return n; });
-                                            setToastMsg(isFollowing ? "Unfollowed " + author.handle : "Followed " + author.handle);
-                                            setTimeout(() => setToastMsg(null), 1200);
-                                        }} style={{ all: "unset", cursor: "pointer", padding: "7px 14px", borderRadius: 100, background: articleFollowed.has(author.id) ? "transparent" : A.brand, border: articleFollowed.has(author.id) ? "1.5px solid " + A.border : "none", flexShrink: 0, transition: "background 0.15s, border 0.15s" }}>
-                                            <span style={{ fontSize: 12.5, fontWeight: 700, color: articleFollowed.has(author.id) ? A.foggy : "#FFF", fontFamily: F }}>{articleFollowed.has(author.id) ? "Following" : "Follow"}</span>
-                                        </button>
-                                    )}
-                                </div>
-                            </div>
-                            {/* Body content (markdown rendered) */}
-                            <div style={{ padding: "0 20px" }}>
-                                {renderMarkdown(art.body || art.excerpt || "")}
-                            </div>
-                            {/* Tagged places */}
-                            {art.articlePlaces && art.articlePlaces.length > 0 && (
-                                <div style={{ padding: "24px 20px 0", marginTop: 16, borderTop: "1px solid " + A.border }}>
-                                    <div style={{ fontSize: 11, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8, marginBottom: 12 }}>Places mentioned</div>
-                                    <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
-                                        {art.articlePlaces.map(place => {
-                                            const bizMatch = USERS.find(u => u.isBusiness && place.toLowerCase().includes(u.name.toLowerCase().replace("disney's ", "").split(" ")[0].toLowerCase()));
-                                            if (bizMatch) {
-                                                return (
-                                                    <button key={place} onClick={() => {
-                                                        setViewingArticle(null);
-                                                        setProfileUserId(bizMatch.id);
-                                                        setProfileTab("Posts");
-                                                        setExpandedBio(false);
-                                                        setProfileScrolled(false);
-                                                    }} style={{ all: "unset", cursor: "pointer", display: "inline-flex", alignItems: "center", gap: 6, padding: "7px 12px 7px 10px", borderRadius: 100, background: A.brand + "10", border: "1px solid " + A.brand + "22" }}>
-                                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                        <span style={{ fontSize: 12.5, fontWeight: 600, color: A.brand, fontFamily: F }}>{place}</span>
-                                                    </button>
-                                                );
-                                            }
-                                            return (
-                                                <div key={place} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "7px 12px 7px 10px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border }}>
-                                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                    <span style={{ fontSize: 12.5, fontWeight: 600, color: A.hof, fontFamily: F }}>{place}</span>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                </div>
-                            )}
-                            {/* Network engagement callout */}
-                            {endorsers.length > 0 && (
-                                <div style={{ display: "flex", alignItems: "center", gap: 8, padding: "20px" }}>
-                                    <div style={{ display: "flex", alignItems: "center" }}>
-                                        {endorsers.slice(0, 3).map((e, i) => (
-                                            <img key={e.id} src={e.img} alt="" style={{ width: 22, height: 22, borderRadius: "50%", objectFit: "cover", border: "2px solid " + A.bg, marginLeft: i === 0 ? 0 : -8 }} />
-                                        ))}
-                                    </div>
-                                    <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}>{endorsers[0].name.split(" ")[0]}{endorsers.length > 1 ? " +" + (endorsers.length - 1) : ""} in your network engaged</span>
-                                </div>
-                            )}
-                            {/* What to read next — horizontal scroll */}
-                            {(() => {
-                                const allArticles = FEED.filter(p => p.postType === "article" && p.id !== art.id);
-                                // Score each article: overlap places * 3 + same author * 2 + likes/100
-                                const currentPlaces = art.articlePlaces || [];
-                                const scored = allArticles.map(other => {
-                                    const otherPlaces = other.articlePlaces || [];
-                                    const placeOverlap = otherPlaces.filter(p => currentPlaces.includes(p)).length;
-                                    const sameAuthor = other.userId === art.userId ? 1 : 0;
-                                    return { article: other, score: placeOverlap * 3 + sameAuthor * 2 + (other.likes || 0) / 100 };
-                                }).sort((a, b) => b.score - a.score);
-                                const related = scored.slice(0, 4).map(s => s.article);
-                                if (related.length === 0) return null;
-                                return (
-                                    <div style={{ padding: "24px 0 8px", borderTop: "1px solid " + A.border, marginTop: 24 }}>
-                                        <div style={{ padding: "0 20px 16px" }}>
-                                            <h2 style={{ margin: 0, fontSize: 18, fontWeight: 800, color: A.dark, fontFamily: F, letterSpacing: -0.3 }}>What to read next</h2>
-                                        </div>
-                                        <div style={{ display: "flex", gap: 12, padding: "0 20px 8px", overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch", scrollSnapType: "x mandatory", scrollPaddingLeft: 20 }}>
-                                            {related.map(r => {
-                                                const rImgs = r.imgs || (r.img ? [r.img] : []);
-                                                const rHasImage = rImgs.length > 0;
-                                                const rAuthor = getUser(r.userId);
-                                                return (
-                                                    <div key={r.id} onClick={() => { setArticleScrolled(false); setViewingArticle(r); }} className="pps-card" style={{ flexShrink: 0, width: 220, cursor: "pointer", borderRadius: 16, overflow: "hidden", background: A.bg, border: "1px solid " + A.border, scrollSnapAlign: "start" }}>
-                                                        {/* Cover */}
-                                                        {rHasImage ? (
-                                                            <div style={{ width: "100%", aspectRatio: "1/1", overflow: "hidden", background: A.bgPage, position: "relative" }}>
-                                                                <img src={rImgs[0]} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                                <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: "55%", background: "linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.45) 50%, rgba(0,0,0,0.85) 100%)", pointerEvents: "none" }} />
-                                                                <div style={{ position: "absolute", left: 12, right: 12, bottom: 12 }}>
-                                                                    <div style={{ fontSize: 14, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.22, letterSpacing: -0.2, textShadow: "0 1px 4px rgba(0,0,0,0.4)", display: "-webkit-box", WebkitLineClamp: 3, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{r.title}</div>
-                                                                </div>
-                                                            </div>
-                                                        ) : (
-                                                            <div style={{ width: "100%", aspectRatio: "1/1", overflow: "hidden", background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)", position: "relative", padding: 14, display: "flex", flexDirection: "column", justifyContent: "flex-end" }}>
-                                                                <div style={{ position: "absolute", top: "-20%", right: "-20%", width: "70%", aspectRatio: "1/1", borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.10) 0%, transparent 60%)", pointerEvents: "none" }} />
-                                                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.10)" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" style={{ position: "absolute", top: 14, right: 12 }}><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></svg>
-                                                                <div style={{ fontSize: 14, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1.22, letterSpacing: -0.2, display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden", position: "relative" }}>{r.title}</div>
-                                                            </div>
-                                                        )}
-                                                        {/* Author + meta row */}
-                                                        <div style={{ padding: "10px 12px 12px", display: "flex", alignItems: "center", gap: 7 }}>
-                                                            <img src={rAuthor.img} alt="" style={{ width: 18, height: 18, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                                            <span style={{ fontSize: 11.5, fontWeight: 600, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", minWidth: 0 }}>{rAuthor.handle}</span>
-                                                            <span style={{ fontSize: 10, color: A.border, fontFamily: F }}>·</span>
-                                                            <span style={{ fontSize: 11, color: A.foggy, fontFamily: F, flexShrink: 0 }}>{r.readMinutes || 5} min</span>
-                                                        </div>
-                                                    </div>
-                                                );
-                                            })}
-                                        </div>
-                                    </div>
-                                );
-                            })()}
-                            {/* Comments section */}
-                            {(() => {
-                                const seedComments = {
-                                    101: [
-                                        { id: "c1", userId: 1, text: "This nails it. Stayed there last June and the deck genuinely is the difference maker — worth the upgrade.", time: "4h", likes: 28 },
-                                        { id: "c2", userId: 5, text: "I've been holding off on booking. This convinced me. The kitchenette detail alone is huge for our family.", time: "2h", likes: 12 }
-                                    ],
-                                    102: [
-                                        { id: "c1", userId: 2, text: "Underrated tip: the lobster roll at Lamplight Lounge for $14. Better than half the table service I've had at WDW.", time: "1h", likes: 47 }
-                                    ]
-                                };
-                                const userAdded = articleComments[art.id] || [];
-                                const baseSeeded = seedComments[art.id] || [];
-                                const cmts = [...baseSeeded, ...userAdded];
-                                const totalResponses = cmts.length;
-                                return (
-                                    <div style={{ padding: "16px 20px 24px", borderTop: "1px solid " + A.border, marginTop: 24 }}>
-                                        <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 14 }}>
-                                            <h2 style={{ margin: 0, fontSize: 18, fontWeight: 800, color: A.dark, fontFamily: F, letterSpacing: -0.3 }}>Responses{totalResponses > 0 ? " · " + totalResponses : ""}</h2>
-                                            {totalResponses > 1 && (
-                                                <button onClick={(e) => { e.stopPropagation(); setToastMsg("Sort menu"); setTimeout(() => setToastMsg(null), 1000); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 4, fontSize: 13, fontWeight: 600, color: A.foggy, fontFamily: F }}>
-                                                    <span>Most relevant</span>
-                                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 12 15 18 9" /></svg>
-                                                </button>
-                                            )}
-                                        </div>
-                                        {/* Compose row */}
-                                        <div style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "12px 14px", borderRadius: 18, background: A.bgPage, marginBottom: 18 }}>
-                                            <img src={USERS[0].img} alt="" style={{ width: 28, height: 28, borderRadius: "50%", objectFit: "cover", flexShrink: 0, marginTop: 2 }} />
-                                            <textarea value={articleCommentDraft} onChange={e => setArticleCommentDraft(e.target.value)} onInput={e => { e.target.style.height = "auto"; e.target.style.height = Math.min(e.target.scrollHeight, 120) + "px"; }} placeholder="Share your thoughts…" rows={1} style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F, lineHeight: 1.45, resize: "none", minHeight: 22, maxHeight: 120, overflow: "auto" }} />
-                                            {articleCommentDraft.trim() && (
-                                                <button onClick={() => {
-                                                    const newC = { id: "c" + Date.now(), userId: USERS[0].id, text: articleCommentDraft.trim(), time: "now", likes: 0 };
-                                                    setArticleComments(prev => ({ ...prev, [art.id]: [...(prev[art.id] || []), newC] }));
-                                                    setArticleCommentDraft("");
-                                                    setToastMsg("Response posted");
-                                                    setTimeout(() => setToastMsg(null), 1200);
-                                                }} style={{ all: "unset", cursor: "pointer", padding: "6px 14px", borderRadius: 100, background: A.brand, flexShrink: 0, marginTop: 1 }}>
-                                                    <span style={{ fontSize: 12, fontWeight: 700, color: "#FFF", fontFamily: F }}>Post</span>
-                                                </button>
-                                            )}
-                                        </div>
-                                        {/* Comments list */}
-                                        {totalResponses === 0 ? (
-                                            <div style={{ padding: "24px 0", textAlign: "center" }}>
-                                                <span style={{ fontSize: 14, color: A.foggy, fontFamily: F }}>Be the first to respond</span>
-                                            </div>
-                                        ) : cmts.map((c, i) => {
-                                            const cu = getUser(c.userId);
-                                            return (
-                                                <div key={c.id} style={{ display: "flex", gap: 12, padding: "14px 0", borderBottom: i < cmts.length - 1 ? "1px solid " + A.border : "none" }}>
-                                                    <img src={cu.img} alt="" onClick={(e) => { e.stopPropagation(); setViewingArticle(null); setProfileUserId(cu.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ width: 36, height: 36, borderRadius: "50%", objectFit: "cover", flexShrink: 0, cursor: "pointer" }} />
-                                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                                        <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
-                                                            <span style={{ fontSize: 13, fontWeight: 700, color: A.dark, fontFamily: F }}>{cu.handle}</span>
-                                                            <span style={{ fontSize: 11, color: A.border }}>·</span>
-                                                            <span style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>{c.time}</span>
-                                                        </div>
-                                                        <p style={{ margin: "0 0 8px", fontSize: 14, color: A.dark, lineHeight: 1.5, fontFamily: F, whiteSpace: "pre-wrap", wordBreak: "break-word" }}>{c.text}</p>
-                                                        <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
-                                                            <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 5 }}>
-                                                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /></svg>
-                                                                <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{c.likes || 0}</span>
-                                                            </button>
-                                                            <button onClick={(e) => { e.stopPropagation(); setArticleCommentDraft("@" + cu.handle.replace(/^@/, "") + " "); setToastMsg("Replying to " + cu.handle); setTimeout(() => setToastMsg(null), 1200); }} style={{ all: "unset", cursor: "pointer", fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>Reply</button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                );
-                            })()}
-                            {/* Engagement bar */}
-                            <div style={{ position: "sticky", bottom: 0, background: A.bg, boxShadow: "0 -1px 0 " + A.border + ", 0 -8px 24px rgba(0,0,0,0.04)", padding: "12px 20px calc(env(safe-area-inset-bottom, 12px) + 12px)", display: "flex", alignItems: "center", gap: 22 }}>
-                                <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 6 }}>
-                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                                    <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{art.likes || 0}</span>
-                                </button>
-                                <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                                </button>
-                                <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 6 }}>
-                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                    <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{art.comments || 0}</span>
-                                </button>
-                                <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 6 }}>
-                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M22 2L11 13" /><path d="M22 2l-7 20-4-9-9-4 20-7z" /></svg>
-                                    <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, fontVariantNumeric: "tabular-nums" }}>{art.shares || 0}</span>
-                                </button>
-                                <div style={{ flex: 1 }} />
-                                <button onClick={(e) => { e.stopPropagation(); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
-                                </button>
-                            </div>
-                        </div>
-                        {/* ... menu sheet */}
-                        {showArticleMenu && (
-                            <>
-                                <div onClick={() => setShowArticleMenu(false)} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 95 }} />
-                                <div style={{ position: "fixed", bottom: "calc(env(safe-area-inset-bottom, 10px) + 8px)", left: 16, right: 16, margin: "0 auto", maxWidth: 448, zIndex: 96, background: A.bg, borderRadius: 20, overflow: "hidden", animation: "sheetUp 0.3s ease" }}>
-                                    <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 8px" }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                    {[
-                                        { icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>, label: "Save article", action: () => { setToastMsg("Saved to your library"); setTimeout(() => setToastMsg(null), 1200); } },
-                                        { icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" /><polyline points="16 6 12 2 8 6" /><line x1="12" y1="2" x2="12" y2="15" /></svg>, label: "Share article", action: () => { setToastMsg("Share menu"); setTimeout(() => setToastMsg(null), 1200); } },
-                                        { icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2" /><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" /></svg>, label: "Copy link", action: () => { setToastMsg("Link copied"); setTimeout(() => setToastMsg(null), 1200); } },
-                                        { icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>, label: "Not interested", action: () => { setToastMsg("We'll show fewer like this"); setTimeout(() => setToastMsg(null), 1500); setViewingArticle(null); } },
-                                        { icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#dc2626" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><line x1="4" y1="22" x2="4" y2="15" /><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" /></svg>, label: "Report", color: "#dc2626", action: () => { setToastMsg("Report submitted"); setTimeout(() => setToastMsg(null), 1200); } }
-                                    ].map((item, i, arr) => (
-                                        <button key={i} onClick={() => { setShowArticleMenu(false); item.action(); }} style={{ all: "unset", cursor: "pointer", boxSizing: "border-box", width: "100%", display: "flex", alignItems: "center", gap: 14, padding: "14px 20px", borderBottom: i < arr.length - 1 ? "1px solid " + A.border : "none" }}>
-                                            {item.icon}
-                                            <span style={{ fontSize: 15, fontWeight: 500, color: item.color || A.dark, fontFamily: F }}>{item.label}</span>
-                                        </button>
-                                    ))}
-                                    <div style={{ padding: "8px 20px calc(env(safe-area-inset-bottom, 10px) + 12px)" }}>
-                                        <button onClick={() => setShowArticleMenu(false)} style={{ all: "unset", cursor: "pointer", boxSizing: "border-box", width: "100%", padding: "13px 0", borderRadius: 12, background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                            <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F }}>Cancel</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </>
-                        )}
                     </div>
                 );
             })()}
@@ -6505,7 +5396,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                                     {imgs.map((_, di) => <div key={di} style={{ width: di === 0 ? 6 : 5, height: di === 0 ? 6 : 5, borderRadius: "50%", background: di === 0 ? "#FFF" : "rgba(255,255,255,0.4)" }} />)}
                                                                 </div>
                                                             </>}
-                                                            {/* Article badge */}
+                                                            {/* Review verdict badge */}
                                                             {post.postType === "review" && <div style={{ position: "absolute", bottom: 8, right: 10, padding: "3px 8px", borderRadius: 100, background: post.reviewVote === "up" ? "rgba(30,58,95,0.9)" : "rgba(118,118,118,0.9)", backdropFilter: "blur(4px)", fontSize: 11, fontWeight: 600, color: "#FFF", zIndex: 2 }}>{post.reviewVote === "up" ? "Recommends" : "Not for me"}</div>}
                                                             {/* Gradient into banner */}
 
@@ -9846,114 +8737,6 @@ so testers can tap into the trace detail without going through the create flow. 
                 );
             })()}
             {/* === MOMENTS VIEWER === */}
-            {viewingMoment && (() => {
-                const mu = getUser(viewingMoment);
-                const stories = MOMENT_STORIES[viewingMoment] || []; const story = stories[momentIndex] || stories[0];
-                if (!story || !mu) return null;
-                const totalStories = stories.length;
-                const goNext = () => {
-                    if (momentIndex < totalStories - 1) {
-                        setMomentIndex(prev => prev + 1);
-                        setMomentCaptionExpanded(false);
-                    } else {
-                        setViewingMoment(null);
-                    }
-                };
-                const goPrev = () => {
-                    if (momentIndex > 0) {
-                        setMomentIndex(prev => prev - 1);
-                        setMomentCaptionExpanded(false);
-                    }
-                };
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 60, background: "#000", display: "flex", flexDirection: "column" }}>
-                        <img src={story.img} alt="" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
-                        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.05) 20%, rgba(0,0,0,0.05) 50%, rgba(0,0,0,0.6) 80%, rgba(0,0,0,0.85) 100%)" }} />
-                        {/* Double-tap thumbs up animation */}
-                        {momentDoubleTapLiked && (
-                            <div style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -50%)", zIndex: 65, pointerEvents: "none", animation: "momentLikePop 0.8s ease-out forwards" }}>
-                                <svg width="80" height="80" viewBox="0 0 24 24" fill="#FFF" stroke="none" style={{ filter: "drop-shadow(0 4px 20px rgba(0,0,0,0.4))" }}><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                            </div>
-                        )}
-                        <style>{"@keyframes momentLikePop { 0% { transform: translate(-50%, -50%) scale(0); opacity: 0; } 15% { transform: translate(-50%, -50%) scale(1.3); opacity: 1; } 30% { transform: translate(-50%, -50%) scale(1); opacity: 1; } 80% { transform: translate(-50%, -50%) scale(1); opacity: 1; } 100% { transform: translate(-50%, -50%) scale(1.2); opacity: 0; } }"}</style>
-                        <div onClick={() => { const now = Date.now(); if (now - momentLastTap.current < 300) { setMomentDoubleTapLiked(true); setMomentLikedStories(prev => { const n = new Set(prev); n.add(viewingMoment + "-" + momentIndex); return n; }); setTimeout(() => setMomentDoubleTapLiked(false), 900); momentLastTap.current = 0; return; } momentLastTap.current = now; setTimeout(() => { if (momentLastTap.current === now) { if (momentCaptionExpanded) { setMomentCaptionExpanded(false); } else { goPrev(); } } }, 300); }} style={{ position: "absolute", top: 0, left: 0, width: "30%", height: "70%", zIndex: 62, cursor: "pointer" }} />
-                        <div onClick={() => { const now = Date.now(); if (now - momentLastTap.current < 300) { setMomentDoubleTapLiked(true); setMomentLikedStories(prev => { const n = new Set(prev); n.add(viewingMoment + "-" + momentIndex); return n; }); setTimeout(() => setMomentDoubleTapLiked(false), 900); momentLastTap.current = 0; return; } momentLastTap.current = now; setTimeout(() => { if (momentLastTap.current === now) { if (momentCaptionExpanded) { setMomentCaptionExpanded(false); } else { goNext(); } } }, 300); }} style={{ position: "absolute", top: 0, right: 0, width: "70%", height: "70%", zIndex: 62, cursor: "pointer" }} />
-                        <div style={{ position: "relative", zIndex: 63, padding: "calc(env(safe-area-inset-top, 12px) + 8px) 16px 0" }}>
-                            <div style={{ display: "flex", gap: 3, marginBottom: 12 }}>
-                                {stories.map((_, si) => (
-                                    <div key={si} style={{ flex: 1, height: 2.5, borderRadius: 2, background: "rgba(255,255,255,0.3)", overflow: "hidden" }}>
-                                        <div style={{ height: "100%", borderRadius: 2, background: "#FFF", width: si < momentIndex ? "100%" : si === momentIndex ? "100%" : "0%" }} />
-                                    </div>
-                                ))}
-                            </div>
-                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}><button onClick={() => setViewingMoment(null)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36 }}>
-                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                            </button>
-                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{story.time} ago</span>
-                            </div>
-                        </div>
-                        <div onClick={(e) => { if (momentCaptionExpanded) { setMomentCaptionExpanded(false); } }} style={{ position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 63, padding: "0 16px calc(env(safe-area-inset-bottom, 8px) + 16px)" }}>
-                            <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 10 }}>
-                                <img src={mu.img} alt="" style={{ width: 36, height: 36, borderRadius: "50%", objectFit: "cover", border: "2px solid #FFF" }} />
-                                <div>
-                                    <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
-                                        <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F }}>{mu.handle}</span>
-
-                                    </div>
-                                    {story.city && <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{story.city}</span>}
-                                </div>
-                                {!followingUsers.has(viewingMoment) && (
-                                    <button onClick={(e) => { e.stopPropagation(); setFollowingUsers(prev => { const n = new Set(prev); n.add(viewingMoment); return n; }); }} style={{ all: "unset", cursor: "pointer", padding: "6px 16px", borderRadius: 100, border: "1.5px solid #FFF", marginLeft: 4, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 600, color: "#FFF", fontFamily: F }}>Follow</span>
-                                    </button>
-                                )}
-                            </div>
-                            {story.location && (
-                                <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 8 }}>
-                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" strokeWidth="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                    <span style={{ fontSize: 13, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F }}>{story.location}</span>
-                                </div>
-                            )}
-                            {story.caption && (
-                                <div style={{ marginBottom: 14 }}>
-                                    {momentCaptionExpanded ? (
-                                        <span onClick={(e) => { e.stopPropagation(); setMomentCaptionExpanded(false); }} style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F, lineHeight: 1.45, cursor: "pointer" }}>{story.caption}</span>
-                                    ) : (
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F, lineHeight: 1.45, display: "flex", alignItems: "baseline" }}><span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", flex: 1, minWidth: 0 }}>{story.caption}</span>{story.caption.length > 40 && <span onClick={(e) => { e.stopPropagation(); setMomentCaptionExpanded(true); }} style={{ cursor: "pointer", fontWeight: 600, color: "rgba(255,255,255,0.6)", flexShrink: 0, marginLeft: 4 }}>more</span>}</span>
-                                    )}
-                                </div>
-                            )}
-                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-                                <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                    <button onClick={(e) => { e.stopPropagation(); setMomentLikedStories(prev => { const n = new Set(prev); const key = viewingMoment + "-" + momentIndex; if (n.has(key)) n.delete(key); else n.add(key); return n; }); }} style={{ all: "unset", cursor: "pointer", padding: "8px 8px 8px 2px", display: "flex", alignItems: "center", gap: 5 }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill={momentLikedStories.has(viewingMoment + "-" + momentIndex) ? A.brand : "none"} stroke="#FFF" strokeWidth="1.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F }}>{story.likes + (momentLikedStories.has(viewingMoment + "-" + momentIndex) ? 1 : 0)}</span>
-                                    </button><button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                                    </button>
-                                    <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F }}>{story.comments}</span>
-                                    </button>
-                                    <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                                        <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F }}>{story.shares}</span>
-                                    </button>
-                                </div>
-                                <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                    <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" /><line x1="7" y1="7" x2="7.01" y2="7" /></svg>
-                                        {story.tags > 0 && <span style={{ fontSize: 14, fontWeight: 500, color: "#FFF", fontFamily: F }}>{story.tags}</span>}
-                                    </button>
-                                    <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="19" cy="12" r="2" /></svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                );
-            })()}
             {/* === BROADCAST DETAIL VIEWER — story-style fullscreen for a single broadcast === */}
             {viewingBroadcastId && (() => {
                 // Build the ordered list of all broadcasts (same order as the home strip)
@@ -10017,14 +8800,12 @@ so testers can tap into the trace detail without going through the create flow. 
                             <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, #2A2E36 0%, #16181C 100%)" }}>
                                 {/* Faint centered category icon as visual anchor */}
                                 <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center", opacity: 0.07 }}>
-                                    {bc.catId === "rides" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /></svg>}
+                                    {bc.catId === "wait" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /></svg>}
                                     {bc.catId === "crowds" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                    {bc.catId === "shops" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
-                                    {bc.catId === "food" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
+                                    {bc.catId === "find" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
                                     {bc.catId === "headsup" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>}
-                                    {bc.catId === "weather" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
+                                    {bc.catId === "conditions" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
                                     {bc.catId === "live" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill="#FFF" /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
-                                    {bc.catId === "transport" && <svg width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><circle cx="6.5" cy="18.5" r="2" /><circle cx="17.5" cy="18.5" r="2" /></svg>}
                                 </div>
                             </div>
                         )}
@@ -10047,11 +8828,13 @@ so testers can tap into the trace detail without going through the create flow. 
                                 <span style={{ fontSize: 14, fontWeight: 600, color: "#FFF", fontFamily: F }}>{bu?.handle || "@user"}</span>
                             </button>
                             <div style={{ flex: 1 }} />
-                            {/* LIVE badge — red dot + LIVE text, livestream-style indicator */}
-                            <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
-                                <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
-                                <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
-                            </div>
+                            {/* LIVE badge — red dot + LIVE text, livestream-style indicator. Hidden on archived broadcasts. */}
+                            {bc.isLive !== false && (
+                                <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 9px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", flexShrink: 0 }}>
+                                    <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#FF3B30" }} />
+                                    <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 0.8 }}>LIVE</span>
+                                </div>
+                            )}
                             {/* 3-dot menu (placeholder) */}
                             <button style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="1.8" /><circle cx="12" cy="12" r="1.8" /><circle cx="19" cy="12" r="1.8" /></svg>
@@ -10183,6 +8966,7 @@ so testers can tap into the trace detail without going through the create flow. 
                     { id: "nr7", type: "collab_request", subtype: "event", userId: 5, text: "invited you to co-host", target: "EPCOT Food & Wine Night Out", time: "3h", img: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=200&q=80" },
                 ];
                 const NOTIFS = [
+                    { id: "h1", type: "helped", text: "Your broadcast helped", target: "178 people", detail: "60 min wait at TRON Lightcycle Run", time: "5m", img: "https://images.unsplash.com/photo-1597466765990-64ad1c35dafc?w=200&q=80", unread: true, broadcastId: "lb1" },
                     { id: "n1", type: "like", userId: 2, text: "liked your post", target: "Best hidden spot in Magic Kingdom", time: "2m", img: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=200&q=80", unread: true },
                     { id: "n2", type: "follow", userId: 3, text: "started following you", time: "15m", unread: true },
                     { id: "n3", type: "comment", userId: 5, text: "commented on your post", target: "\"This is so helpful! We're going next month...\"", time: "32m", img: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&q=80", unread: true },
@@ -10209,13 +8993,18 @@ so testers can tap into the trace detail without going through the create flow. 
                         : notifTab === "requests" ? NOTIF_REQUESTS : [];
                 const renderNotifRow = (notif) => {
                     const isAlertType = notif.type.startsWith("alert_");
+                    const isHelped = notif.type === "helped";
                     const nu = notif.userId ? getUser(notif.userId) : null;
-                    if (!isAlertType && !nu) return null;
+                    if (!isAlertType && !isHelped && !nu) return null;
                     const alertIconBg = notif.type === "alert_price" ? "#1B7340" : notif.type === "alert_wait" ? "#C2712A" : notif.type === "alert_reservation" ? A.brand : notif.type === "alert_restock" ? "#1B7340" : notif.type === "alert_event" ? "#8B5CF6" : A.foggy;
                     return (
-                        <div key={notif.id} onClick={() => { if (nu) { setShowNotifPage(false); setProfileUserId(nu.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); } }} style={{ display: "flex", gap: 12, padding: "14px 20px", cursor: "pointer", background: notif.unread ? A.brand + "04" : "transparent", borderBottom: "1px solid " + A.border }}>
+                        <div key={notif.id} onClick={() => { if (isHelped && notif.broadcastId) { setShowNotifPage(false); setViewingBroadcastId(notif.broadcastId); } else if (nu) { setShowNotifPage(false); setProfileUserId(nu.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); } }} style={{ display: "flex", gap: 12, padding: "14px 20px", cursor: "pointer", background: notif.unread ? A.brand + "04" : "transparent", borderBottom: "1px solid " + A.border }}>
                             <div style={{ position: "relative", flexShrink: 0 }}>
-                                {isAlertType ? (
+                                {isHelped ? (
+                                    <div style={{ width: 44, height: 44, borderRadius: "50%", background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill={A.brand} stroke={A.brand} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                                    </div>
+                                ) : isAlertType ? (
                                     <div style={{ width: 44, height: 44, borderRadius: "50%", background: alertIconBg + "12", display: "flex", alignItems: "center", justifyContent: "center" }}>
                                         {notif.type === "alert_price" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={alertIconBg} strokeWidth="1.5"><line x1="12" y1="1" x2="12" y2="23" /><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>}
                                         {notif.type === "alert_wait" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={alertIconBg} strokeWidth="1.5"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>}
@@ -10239,9 +9028,9 @@ so testers can tap into the trace detail without going through the create flow. 
                                 <div style={{ fontSize: 14, color: A.dark, fontFamily: F, lineHeight: 1.45 }}>
                                     {nu && <span style={{ fontWeight: 700 }}>{nu.name.split(" ")[0]}</span>}
                                     <span style={{ color: A.hof }}>{nu ? " " : ""}{notif.text}</span>
-                                    {notif.target && <span style={{ fontWeight: 600 }}> {notif.target}</span>}
+                                    {notif.target && <span style={{ fontWeight: 700, color: isHelped ? A.brand : A.dark }}> {notif.target}</span>}
                                 </div>
-                                {notif.detail && <div style={{ fontSize: 13, fontWeight: 600, color: isAlertType ? alertIconBg : A.hof, fontFamily: F, marginTop: 3 }}>{notif.detail}</div>}
+                                {notif.detail && <div style={{ fontSize: 13, fontWeight: 600, color: isHelped ? A.brand : isAlertType ? alertIconBg : A.hof, fontFamily: F, marginTop: 3 }}>{notif.detail}</div>}
                                 <span style={{ fontSize: 12, color: A.foggy, fontFamily: F, marginTop: 3, display: "block" }}>{notif.time}</span>
                             </div>
                             {notif.img && <img src={notif.img} alt="" style={{ width: 44, height: 44, borderRadius: 8, objectFit: "cover", flexShrink: 0 }} />}
@@ -11368,7 +10157,7 @@ so testers can tap into the trace detail without going through the create flow. 
                     { id: 4, category: "Posts & Content", title: "Creating your first post", reads: "4 min read" },
                     { id: 5, category: "Posts & Content", title: "How moments work and when they expire", reads: "3 min read" },
                     { id: 6, category: "Posts & Content", title: "Tagging places, people, and products", reads: "3 min read" },
-                    { id: 7, category: "Posts & Content", title: "Writing and publishing articles", reads: "6 min read" },
+                    { id: 7, category: "Posts & Content", title: "Writing effective broadcasts", reads: "6 min read" },
                     { id: 8, category: "Lists", title: "Creating and managing your lists", reads: "3 min read" },
                     { id: 9, category: "Lists", title: "Saving posts to a list", reads: "2 min read" },
                     { id: 10, category: "Lists", title: "Sharing a list with others", reads: "2 min read" },
@@ -11932,8 +10721,8 @@ so testers can tap into the trace detail without going through the create flow. 
 
             {/* === PASSPORT PAGE — stamp-style grid of visited places, mirrors the Lists page chrome === */}
             {showPassport && (() => {
-                // Build the visited-only collection from mock data. In production this would be derived from the
-                // user's own trace history; for now we seed from DAY_SUMMARY + a set of prior visits.
+                // Build the visited-only collection from mock data. In production this would be derived from
+                // the user's own visit history.
                 const passportItems = [
                     // PARKS — destinations visited
                     { id: "park-mk", kind: "park", name: "Magic Kingdom", subtitle: "Walt Disney World", img: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=600&q=80", visits: 4, lastVisit: "Jul 2026" },
@@ -11955,16 +10744,10 @@ so testers can tap into the trace detail without going through the create flow. 
                     // HOTELS
                     { id: "hotel-poly", kind: "hotel", name: "Polynesian Village Resort", subtitle: "Walt Disney World", img: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80", visits: 2, lastVisit: "Nov 2025" },
                     { id: "hotel-gf", kind: "hotel", name: "Grand Floridian", subtitle: "Walt Disney World", img: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80", visits: 1, lastVisit: "Feb 2026" },
-                    // ROUTES — prior traced days
-                    { id: "route-mk-jul", kind: "route", name: "Magic Kingdom Full Day", subtitle: "July 4, 2026", img: "https://images.unsplash.com/photo-1597466599360-3b9775841aec?w=600&q=80", visits: 1, lastVisit: "Jul 2026", distance: 4.8, places: 7, isCurrent: true },
-                    { id: "route-ep-feb", kind: "route", name: "EPCOT Food & Wine", subtitle: "February 18, 2026", img: "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=600&q=80", visits: 1, lastVisit: "Feb 2026", distance: 6.2, places: 9 },
-                    { id: "route-hs-nov", kind: "route", name: "Hollywood Studios Sprint", subtitle: "November 22, 2025", img: "https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=600&q=80", visits: 1, lastVisit: "Nov 2025", distance: 5.4, places: 6 },
-                    { id: "route-ak-nov", kind: "route", name: "Animal Kingdom Safari Day", subtitle: "November 20, 2025", img: "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=600&q=80", visits: 1, lastVisit: "Nov 2025", distance: 3.9, places: 5 },
                 ];
 
                 const PASS_TABS = [
                     { key: "all", label: "Summary" },
-                    { key: "routes", label: "Routes", kind: "route" },
                     { key: "parks", label: "Parks", kind: "park" },
                     { key: "rides", label: "Rides", kind: "ride" },
                     { key: "dining", label: "Dining", kind: "dining" },
@@ -12083,7 +10866,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                             </div>
                                             <div style={{ background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)", overflow: "hidden" }}>
                                                 {recent.map((item, i) => (
-                                                    <div key={item.id} onClick={() => { if (item.kind === "route" && item.isCurrent) { setShowPassport(false); setShowDaySummary(true); } else { setToastMsg(item.name); setTimeout(() => setToastMsg(null), 1400); } }} style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 14px", cursor: "pointer", borderTop: i > 0 ? "1px solid rgba(0,0,0,0.06)" : "none" }}>
+                                                    <div key={item.id} onClick={() => { setToastMsg(item.name); setTimeout(() => setToastMsg(null), 1400); }} style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 14px", cursor: "pointer", borderTop: i > 0 ? "1px solid rgba(0,0,0,0.06)" : "none" }}>
                                                         <div style={{ width: 44, height: 44, borderRadius: 12, overflow: "hidden", flexShrink: 0, position: "relative" }}>
                                                             <img src={item.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
                                                         </div>
@@ -12130,122 +10913,56 @@ so testers can tap into the trace detail without going through the create flow. 
                                             <span style={{ fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>{tabDef.label}</span>
                                             <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>{sorted.length} {sorted.length === 1 ? "place" : passportTab === "routes" ? "routes" : "places"}</span>
                                         </div>
-                                        {passportTab === "routes" ? (
-                                            // Routes get map-trace cards — same visual language as the Share-your-day preview and Shared Summary Viewer.
-                                            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                                                {sorted.map((item, i) => (
-                                                    <div key={item.id} onClick={() => { if (item.isCurrent) { setShowPassport(false); setShowDaySummary(true); } else { setToastMsg(item.name); setTimeout(() => setToastMsg(null), 1400); } }} style={{ position: "relative", width: "100%", aspectRatio: "4/5", borderRadius: 22, overflow: "hidden", background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)", boxShadow: "0 4px 20px rgba(30,58,95,0.22)", cursor: "pointer" }}>
-                                                        {/* Decorative glows */}
-                                                        <div style={{ position: "absolute", top: -60, right: -60, width: 220, height: 220, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                                                        <div style={{ position: "absolute", bottom: -80, left: -80, width: 220, height: 220, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.12) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-
-                                                        {/* Trace — tight viewBox centers the stroke */}
-                                                        <svg viewBox="20 95 255 245" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                                            <defs>
-                                                                <filter id={"pp-route-glow-" + item.id} x="-20%" y="-20%" width="140%" height="140%">
-                                                                    <feGaussianBlur stdDeviation="1.5" result="blur" />
-                                                                    <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                                                </filter>
-                                                            </defs>
-                                                            {/* Background faint trace */}
-                                                            {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, idx) => (
-                                                                <polyline key={"bg-" + idx} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
-                                                            ))}
-                                                            {/* Animated foreground */}
-                                                            {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, idx) => {
-                                                                const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                                                return <polyline key={idx} points={seg.points} fill="none" stroke={color} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" filter={"url(#pp-route-glow-" + item.id + ")"} style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (idx * 0.1) + "s infinite" }} />;
-                                                            })}
-                                                            {/* POI dots */}
-                                                            {DAY_SUMMARY.poi_stamps.filter(p => p.icon === "ride").slice(0, 5).map((poi, idx) => (
-                                                                <g key={idx} style={{ animation: "fadeInDot 0.4s ease-out " + (2 + idx * 0.2) + "s backwards" }}>
-                                                                    <circle cx={poi.x} cy={poi.y} r="5.5" fill="#FFF" opacity="0.95" />
-                                                                    <circle cx={poi.x} cy={poi.y} r="2" fill={A.brand} />
-                                                                </g>
-                                                            ))}
-                                                        </svg>
-
-                                                        {/* Top-left title card with park + date */}
-                                                        <div style={{ position: "absolute", top: 16, left: 18, right: 18, pointerEvents: "none" }}>
-                                                            <div style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "4px 10px 4px 8px", borderRadius: 100, background: "rgba(255,255,255,0.14)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", marginBottom: 10 }}>
-                                                                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.95)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                                <span style={{ fontSize: 9, fontWeight: 700, color: "rgba(255,255,255,0.95)", fontFamily: F, letterSpacing: 0.6, textTransform: "uppercase", lineHeight: 1 }}>{item.name.split(" ").slice(0, 2).join(" ")}</span>
-                                                            </div>
-                                                            <span style={{ fontSize: 20, fontWeight: 700, color: "#FFF", fontFamily: F, display: "block", letterSpacing: -0.3, lineHeight: 1.15, marginBottom: 2, textShadow: "0 1px 8px rgba(0,0,0,0.3)" }}>{item.name}</span>
-                                                            <span style={{ fontSize: 12, fontWeight: 500, color: "rgba(255,255,255,0.7)", fontFamily: F, display: "block", textShadow: "0 1px 6px rgba(0,0,0,0.3)" }}>{item.subtitle}</span>
+// Non-route tabs (Parks, Rides, Dining, Hotels) — full rich place cards with Passport-specific Visits / Last stats row
+                                        <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+                                            {sorted.map(item => {
+                                                // Each passport item gets an inline "place profile" payload matching what the rich place card expects.
+                                                // The lookup fills in handle + type; falls back to a sensible default if missing.
+                                                const kindType = { park: "Rides", ride: "Rides", dining: "Restaurants", hotel: "Hotels" }[item.kind];
+                                                const placeHandle = "@" + item.name.toLowerCase().replace(/[^a-z0-9]/g, "");
+                                                return (
+                                                    <div key={item.id} onClick={() => { setToastMsg(item.name); setTimeout(() => setToastMsg(null), 1400); }} style={{ background: A.bg, borderRadius: 20, overflow: "hidden", boxShadow: "0 2px 12px rgba(0,0,0,0.07)", cursor: "pointer" }}>
+                                                        {/* Header: handle */}
+                                                        <div style={{ padding: "14px 16px 0" }}>
+                                                            <span style={{ fontSize: 13, fontWeight: 600, color: A.foggy, fontFamily: F }}>{placeHandle}</span>
                                                         </div>
-
-                                                        {/* Bottom-left DRFT wordmark */}
-                                                        <div style={{ position: "absolute", bottom: 16, left: 18, pointerEvents: "none" }}>
-                                                            <span style={{ fontSize: 18, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 1.2, lineHeight: 1, textShadow: "0 1px 6px rgba(0,0,0,0.35)" }}>DRFT</span>
+                                                        {/* Profile row — avatar + name + Passport-specific stats row */}
+                                                        <div style={{ display: "flex", alignItems: "center", gap: 14, padding: "10px 16px 0" }}>
+                                                            <div style={{ width: 62, height: 62, borderRadius: "50%", background: A.border, overflow: "hidden", flexShrink: 0, border: "2px solid " + A.border }}>
+                                                                <img src={item.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                                                            </div>
+                                                            <div style={{ flex: 1, minWidth: 0 }}>
+                                                                <div style={{ display: "inline-flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
+                                                                    <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>{item.name}</span>
+                                                                </div>
+                                                                {/* Passport stats row — replaces the Posts/Followers/Network row from the standard place card */}
+                                                                <div style={{ display: "flex", gap: 16 }}>
+                                                                    <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}><span style={{ fontWeight: 700, color: A.dark }}>{item.visits}</span> {item.visits === 1 ? "Visit" : "Visits"}</span>
+                                                                    <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}><span style={{ fontWeight: 700, color: A.dark }}>{item.lastVisit}</span> Last</span>
+                                                                </div>
+                                                            </div>
                                                         </div>
-                                                        {/* Bottom-right stats strip */}
-                                                        <div style={{ position: "absolute", bottom: 16, right: 18, display: "flex", alignItems: "center", gap: 10, pointerEvents: "none" }}>
-                                                            <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                                                <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{item.places || 7}</span>
-                                                                <span style={{ fontSize: 9, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>places</span>
-                                                            </div>
-                                                            <div style={{ width: 1, height: 12, background: "rgba(255,255,255,0.25)" }} />
-                                                            <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                                                <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{item.distance}</span>
-                                                                <span style={{ fontSize: 9, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>mi</span>
-                                                            </div>
+                                                        {/* Type label — full city + state (state spelled out), matches app's location format */}
+                                                        <div style={{ padding: "10px 16px 0" }}>
+                                                            <span style={{ fontSize: 14, fontWeight: 600, color: A.foggy, fontFamily: F }}>Lake Buena Vista, Florida</span>
+                                                        </div>
+                                                        {/* Action row — Directions + Share + Save (matches rich place card) */}
+                                                        <div style={{ padding: "12px 16px 16px", display: "flex", alignItems: "center", gap: 10 }}>
+                                                            <button onClick={(e) => { e.stopPropagation(); const pickedDest = { id: "pp_" + item.id, name: item.name, type: kindType, park: item.subtitle, distance_mi: 0.3, walk_min: 6, icon: item.kind === "dining" ? "dining" : item.kind === "hotel" ? "default" : "ride" }; setDirectionsDest(pickedDest); setDirectionsTo(item.name); setDirectionsEditing(null); setDirectionsRecents(prev => [pickedDest, ...prev.filter(d => d.id !== pickedDest.id)].slice(0, 5)); setShowPassport(false); setShowDirections(true); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, flex: 1, boxSizing: "border-box", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)" }}>
+                                                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11" /></svg>
+                                                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3 }}>Directions</span>
+                                                            </button>
+                                                            <button onClick={(e) => { e.stopPropagation(); setSharePostId("place_" + item.name); setShowShareSheet(true); setShareSearch(""); setSelectedShares(new Set()); }} style={{ all: "unset", cursor: "pointer", width: 48, height: 48, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }} aria-label="Share">
+                                                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" /><polyline points="16 6 12 2 8 6" /><line x1="12" y1="2" x2="12" y2="15" /></svg>
+                                                            </button>
+                                                            <button onClick={(e) => { e.stopPropagation(); setSavePostId("place_" + item.name); setShowSaveSheet(true); }} style={{ all: "unset", cursor: "pointer", width: 48, height: 48, borderRadius: "50%", background: savedIds.has("place_" + item.name) ? A.brand + "12" : A.bgPage, border: "1px solid " + (savedIds.has("place_" + item.name) ? A.brand + "30" : A.border), display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, transition: "all 0.15s" }} aria-label={savedIds.has("place_" + item.name) ? "Saved" : "Save"}>
+                                                                <svg width="18" height="18" viewBox="0 0 24 24" fill={savedIds.has("place_" + item.name) ? A.brand : "none"} stroke={savedIds.has("place_" + item.name) ? A.brand : A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+                                                            </button>
                                                         </div>
                                                     </div>
-                                                ))}
-                                            </div>
-                                        ) : (
-                                            // Non-route tabs (Parks, Rides, Dining, Hotels) — full rich place cards with Passport-specific Visits / Last stats row
-                                            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                                                {sorted.map(item => {
-                                                    // Each passport item gets an inline "place profile" payload matching what the rich place card expects.
-                                                    // The lookup fills in handle + type; falls back to a sensible default if missing.
-                                                    const kindType = { park: "Rides", ride: "Rides", dining: "Restaurants", hotel: "Hotels" }[item.kind];
-                                                    const placeHandle = "@" + item.name.toLowerCase().replace(/[^a-z0-9]/g, "");
-                                                    return (
-                                                        <div key={item.id} onClick={() => { setToastMsg(item.name); setTimeout(() => setToastMsg(null), 1400); }} style={{ background: A.bg, borderRadius: 20, overflow: "hidden", boxShadow: "0 2px 12px rgba(0,0,0,0.07)", cursor: "pointer" }}>
-                                                            {/* Header: handle */}
-                                                            <div style={{ padding: "14px 16px 0" }}>
-                                                                <span style={{ fontSize: 13, fontWeight: 600, color: A.foggy, fontFamily: F }}>{placeHandle}</span>
-                                                            </div>
-                                                            {/* Profile row — avatar + name + Passport-specific stats row */}
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 14, padding: "10px 16px 0" }}>
-                                                                <div style={{ width: 62, height: 62, borderRadius: "50%", background: A.border, overflow: "hidden", flexShrink: 0, border: "2px solid " + A.border }}>
-                                                                    <img src={item.img} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-                                                                </div>
-                                                                <div style={{ flex: 1, minWidth: 0 }}>
-                                                                    <div style={{ display: "inline-flex", alignItems: "center", gap: 6, marginBottom: 4 }}>
-                                                                        <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>{item.name}</span>
-                                                                    </div>
-                                                                    {/* Passport stats row — replaces the Posts/Followers/Network row from the standard place card */}
-                                                                    <div style={{ display: "flex", gap: 16 }}>
-                                                                        <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}><span style={{ fontWeight: 700, color: A.dark }}>{item.visits}</span> {item.visits === 1 ? "Visit" : "Visits"}</span>
-                                                                        <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}><span style={{ fontWeight: 700, color: A.dark }}>{item.lastVisit}</span> Last</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            {/* Type label — full city + state (state spelled out), matches app's location format */}
-                                                            <div style={{ padding: "10px 16px 0" }}>
-                                                                <span style={{ fontSize: 14, fontWeight: 600, color: A.foggy, fontFamily: F }}>Lake Buena Vista, Florida</span>
-                                                            </div>
-                                                            {/* Action row — Directions + Share + Save (matches rich place card) */}
-                                                            <div style={{ padding: "12px 16px 16px", display: "flex", alignItems: "center", gap: 10 }}>
-                                                                <button onClick={(e) => { e.stopPropagation(); const pickedDest = { id: "pp_" + item.id, name: item.name, type: kindType, park: item.subtitle, distance_mi: 0.3, walk_min: 6, icon: item.kind === "dining" ? "dining" : item.kind === "hotel" ? "default" : "ride" }; setDirectionsDest(pickedDest); setDirectionsTo(item.name); setDirectionsEditing(null); setDirectionsRecents(prev => [pickedDest, ...prev.filter(d => d.id !== pickedDest.id)].slice(0, 5)); setShowPassport(false); setShowDirections(true); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, flex: 1, boxSizing: "border-box", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)" }}>
-                                                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11" /></svg>
-                                                                    <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3 }}>Directions</span>
-                                                                </button>
-                                                                <button onClick={(e) => { e.stopPropagation(); setSharePostId("place_" + item.name); setShowShareSheet(true); setShareSearch(""); setSelectedShares(new Set()); }} style={{ all: "unset", cursor: "pointer", width: 48, height: 48, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }} aria-label="Share">
-                                                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" /><polyline points="16 6 12 2 8 6" /><line x1="12" y1="2" x2="12" y2="15" /></svg>
-                                                                </button>
-                                                                <button onClick={(e) => { e.stopPropagation(); setSavePostId("place_" + item.name); setShowSaveSheet(true); }} style={{ all: "unset", cursor: "pointer", width: 48, height: 48, borderRadius: "50%", background: savedIds.has("place_" + item.name) ? A.brand + "12" : A.bgPage, border: "1px solid " + (savedIds.has("place_" + item.name) ? A.brand + "30" : A.border), display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, transition: "all 0.15s" }} aria-label={savedIds.has("place_" + item.name) ? "Saved" : "Save"}>
-                                                                    <svg width="18" height="18" viewBox="0 0 24 24" fill={savedIds.has("place_" + item.name) ? A.brand : "none"} stroke={savedIds.has("place_" + item.name) ? A.brand : A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
-                                                                </button>
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        )}
+                                                );
+                                            })}
+                                        </div>
                                     </div>
                                 );
                             })()}
@@ -14696,7 +13413,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                 const dmTabs = [
                                     { key: "all", label: "All" }, { key: "photos", label: "Photos" }, { key: "places", label: "Places" },
                                     { key: "experiences", label: "Experiences" }, { key: "products", label: "Products" }, { key: "services", label: "Services" },
-                                    { key: "people", label: "People" }, { key: "articles", label: "Articles" }, { key: "links", label: "Links" },
+                                    { key: "people", label: "People" }, { key: "links", label: "Links" },
                                 ];
                                 const sharedItems = FEED.filter(p => p.img).slice(0, 12);
                                 return (
@@ -14876,7 +13593,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                 const dmTabs = [
                                     { key: "all", label: "All" }, { key: "photos", label: "Photos" }, { key: "places", label: "Places" },
                                     { key: "experiences", label: "Experiences" }, { key: "products", label: "Products" }, { key: "services", label: "Services" },
-                                    { key: "people", label: "People" }, { key: "articles", label: "Articles" }, { key: "links", label: "Links" },
+                                    { key: "people", label: "People" }, { key: "links", label: "Links" },
                                 ];
                                 const sharedItems = FEED.filter(p => p.img).slice(dmDetailUser - 1, dmDetailUser + 9);
                                 return (
@@ -16013,7 +14730,7 @@ so testers can tap into the trace detail without going through the create flow. 
                             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 20 }}>
                                 {[
                                     { label: "Profile views", value: "4,283", change: "+12.4%", up: true, icon: "eye" },
-                                    { label: "Article reads", value: "1,847", change: "+28.1%", up: true, icon: "book" },
+                                    { label: "Broadcast confirms", value: "1,847", change: "+28.1%", up: true, icon: "book" },
                                     { label: "New followers", value: "162", change: "+8.7%", up: true, icon: "user" },
                                     { label: "Trip inquiries", value: "23", change: "-2.3%", up: false, icon: "calendar" }
                                 ].map(stat => (
@@ -16044,9 +14761,9 @@ so testers can tap into the trace detail without going through the create flow. 
                                     <span style={{ fontSize: 12, fontWeight: 600, color: A.brand, fontFamily: F, cursor: "pointer" }}>See all</span>
                                 </div>
                                 {[
-                                    { title: "Why the New Polynesian Bungalows Are Worth Every Penny", type: "Article", views: "847", engagement: "12.3%" },
-                                    { title: "A Field Guide to Eating Cheap at Disney", type: "Article", views: "612", engagement: "9.8%" },
-                                    { title: "The Smartest Way to Do Magic Kingdom in a Day", type: "Article", views: "524", engagement: "8.2%" }
+                                    { title: "Walk-ups available at Be Our Guest", type: "Broadcast", views: "847", engagement: "12.3%" },
+                                    { title: "Back in stock — Mickey 50th ears", type: "Broadcast", views: "612", engagement: "9.8%" },
+                                    { title: "60 min wait at TRON Lightcycle Run", type: "Broadcast", views: "524", engagement: "8.2%" }
                                 ].map((p, i) => (
                                     <div key={i} style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 16px", borderBottom: i < 2 ? "1px solid " + A.border : "none" }}>
                                         <div style={{ width: 38, height: 38, borderRadius: 10, background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, position: "relative" }}>
@@ -16091,13 +14808,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                 ))}
                             </div>
                             {/* Quick actions */}
-                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
-                                <button onClick={() => { setShowProDashboard(false); setShowNewPost(true); setNewPostType("Article"); }} style={{ all: "unset", cursor: "pointer", background: A.bg, borderRadius: 14, border: "1px solid " + A.border, padding: "14px", display: "flex", flexDirection: "column", alignItems: "flex-start", gap: 10 }}>
-                                    <div style={{ width: 32, height: 32, borderRadius: 9, background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 20h9" /><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z" /></svg>
-                                    </div>
-                                    <span style={{ fontSize: 13, fontWeight: 700, color: A.dark, fontFamily: F }}>Write article</span>
-                                </button>
+                            <div style={{ display: "grid", gridTemplateColumns: "1fr", gap: 10, marginBottom: 12 }}>
                                 <button onClick={() => { setToastMsg("Promote — coming soon"); setTimeout(() => setToastMsg(null), 1200); }} style={{ all: "unset", cursor: "pointer", background: A.bg, borderRadius: 14, border: "1px solid " + A.border, padding: "14px", display: "flex", flexDirection: "column", alignItems: "flex-start", gap: 10 }}>
                                     <div style={{ width: 32, height: 32, borderRadius: 9, background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center" }}>
                                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18" /><polyline points="17 6 23 6 23 12" /></svg>
@@ -16135,1911 +14846,24 @@ so testers can tap into the trace detail without going through the create flow. 
 
             {/* === TRACE START SCREEN — full-screen overlay shown before a trace begins.
      Strava-style: explain the feature, show a sample route animation, confirm with Start or Cancel. === */}
-            {showTraceStartScreen && (
-                <div style={{ position: "absolute", inset: 0, zIndex: 96, background: A.bgPage, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                    {/* Floating close button top-left */}
-                    <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 3, paddingTop: "calc(env(safe-area-inset-top, 12px) + 12px)", paddingLeft: 14, paddingRight: 14, pointerEvents: "none" }}>
-                        <div style={{ display: "flex", alignItems: "center", height: 44, pointerEvents: "auto" }}>
-                            <button onClick={() => setShowTraceStartScreen(false)} style={{ all: "unset", cursor: "pointer", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                            </button>
-                        </div>
-                    </div>
-                    {/* Scrollable body */}
-                    <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", paddingTop: "calc(env(safe-area-inset-top, 12px) + 72px)", paddingBottom: 20 }}>
-                        {/* Hero animated map preview */}
-                        <div style={{ margin: "0 16px 24px", borderRadius: 24, overflow: "hidden", background: "linear-gradient(145deg, " + A.brand + ", #2A4F7A)", aspectRatio: "4/3", position: "relative", boxShadow: "0 12px 40px rgba(30,58,95,0.25)" }}>
-                            <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" style={{ position: "absolute", inset: 0, width: "100%", height: "100%" }}>
-                                {/* Subtle grid */}
-                                <defs>
-                                    <pattern id="traceGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-                                        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.06)" strokeWidth="0.5" />
-                                    </pattern>
-                                </defs>
-                                <rect width="400" height="300" fill="url(#traceGrid)" />
-                                {/* Background "streets" */}
-                                <line x1="0" y1="90" x2="400" y2="90" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="8 6" />
-                                <line x1="0" y1="210" x2="400" y2="210" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="8 6" />
-                                <line x1="130" y1="0" x2="130" y2="300" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="8 6" />
-                                <line x1="280" y1="0" x2="280" y2="300" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="8 6" />
-                                {/* POI pins — dimmed */}
-                                <circle cx="80" cy="230" r="5" fill="rgba(255,255,255,0.35)" />
-                                <circle cx="180" cy="100" r="5" fill="rgba(255,255,255,0.35)" />
-                                <circle cx="300" cy="180" r="5" fill="rgba(255,255,255,0.35)" />
-                                <circle cx="340" cy="90" r="5" fill="rgba(255,255,255,0.35)" />
-                                {/* Live-drawing trace path */}
-                                <path
-                                    d="M 50 260 Q 90 220 120 190 T 190 110 Q 220 95 260 140 T 330 100"
-                                    fill="none"
-                                    stroke="#FF5A5F"
-                                    strokeWidth="4"
-                                    strokeLinecap="round"
-                                    strokeLinejoin="round"
-                                    strokeDasharray="800 800"
-                                    style={{ animation: "tracePathLoop 4s ease-in-out infinite", filter: "drop-shadow(0 0 8px rgba(255,90,95,0.6))" }}
-                                />
-                                {/* Moving pulsing dot — follows the path */}
-                                <circle cx="260" cy="140" r="8" fill="#FF5A5F" style={{ animation: "tracePinPulse 1.6s ease-in-out infinite" }} />
-                                <circle cx="260" cy="140" r="16" fill="#FF5A5F" opacity="0.3" style={{ animation: "tracePulse 1.6s ease-out infinite" }} />
-                                {/* Start dot */}
-                                <circle cx="50" cy="260" r="6" fill="#FFF" stroke="#FF5A5F" strokeWidth="2.5" />
-                            </svg>
-                            {/* Watermark */}
-                            <div style={{ position: "absolute", top: 14, right: 14, padding: "5px 10px", borderRadius: 100, background: "rgba(255,255,255,0.15)", backdropFilter: "blur(8px)" }}>
-                                <span style={{ fontSize: 10, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 1.2 }}>LIVE PREVIEW</span>
-                            </div>
-                        </div>
-                        {/* Title + pitch */}
-                        <div style={{ padding: "0 24px 20px", textAlign: "center" }}>
-                            <h1 style={{ fontSize: 28, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.6, margin: "0 0 10px" }}>Trace your day</h1>
-                            <p style={{ fontSize: 15, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1.5, margin: 0 }}>DRFT automatically captures your path, the places you visit, and what you share — so you end the day with a beautiful summary to post or keep to yourself.</p>
-                        </div>
-                        {/* How it works — 3 rows */}
-                        <div style={{ margin: "0 16px 20px", background: A.bg, borderRadius: 22, padding: "8px 0", boxShadow: "0 2px 12px rgba(0,0,0,0.06)" }}>
-                            <div style={{ display: "flex", alignItems: "flex-start", gap: 14, padding: "14px 18px" }}>
-                                <div style={{ width: 38, height: 38, borderRadius: "50%", background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                </div>
-                                <div style={{ flex: 1 }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 2 }}>Captures places automatically</span>
-                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.4 }}>Every ride, meal, and stop gets logged with wait times and dwell</span>
-                                </div>
-                            </div>
-                            <div style={{ display: "flex", alignItems: "flex-start", gap: 14, padding: "14px 18px" }}>
-                                <div style={{ width: 38, height: 38, borderRadius: "50%", background: "#22A84A18", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22A84A" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" /><circle cx="12" cy="13" r="4" /></svg>
-                                </div>
-                                <div style={{ flex: 1 }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 2 }}>Photos &amp; broadcasts attach</span>
-                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.4 }}>Everything you share during the day lives on your trace</span>
-                                </div>
-                            </div>
-                            <div style={{ display: "flex", alignItems: "flex-start", gap: 14, padding: "14px 18px" }}>
-                                <div style={{ width: 38, height: 38, borderRadius: "50%", background: "#C1351518", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C13515" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                </div>
-                                <div style={{ flex: 1 }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 2 }}>Review before you share</span>
-                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.4 }}>When you end the trace, pick what stays public and what stays yours</span>
-                                </div>
-                            </div>
-                        </div>
-                        {/* Privacy note */}
-                        <div style={{ padding: "0 28px 10px", textAlign: "center" }}>
-                            <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.5 }}>Location data stays on your device until you choose to share.</span>
-                        </div>
-                    </div>
-                    {/* Sticky footer — Cancel + Start */}
-                    <div style={{ flexShrink: 0, padding: "12px 16px calc(env(safe-area-inset-bottom, 8px) + 14px)", background: A.bg, boxShadow: "0 -6px 20px rgba(0,0,0,0.08)", display: "flex", gap: 10 }}>
-                        <button onClick={() => setShowTraceStartScreen(false)} style={{ all: "unset", cursor: "pointer", flex: 1, padding: "15px 0", borderRadius: 100, background: A.bg, border: "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
-                            <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: 0.2 }}>Cancel</span>
-                        </button>
-                        <button onClick={() => { setShowTraceStartScreen(false); setIsTracing(true); setTraceStartedAt(Date.now()); setToastMsg("Tracing started — enjoy your day!"); setTimeout(() => setToastMsg(null), 2500); }} style={{ all: "unset", cursor: "pointer", flex: 1.5, padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, boxSizing: "border-box", boxShadow: "0 6px 22px rgba(30,58,95,0.45)" }}>
-                            <div style={{ position: "relative", width: 10, height: 10 }}>
-                                <div style={{ position: "absolute", inset: 0, borderRadius: "50%", background: "#FF5A5F" }} />
-                            </div>
-                            <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3 }}>Start trace</span>
-                        </button>
-                    </div>
-                </div>
-            )}
 
             {/* === LIVE TRACE DASHBOARD — full-screen overlay. Opens when user taps the trace pill during an active trace.
      Shows big live timer + stats + places + photos + broadcasts already captured. End & Summarize footer. === */}
-            {showTraceControlSheet && (() => {
-                // Derive capture data from the existing DAY_SUMMARY mock — this represents what's been logged so far in the trace.
-                // In production these would come from tracking in real time.
-                const BROADCAST_COLORS = { Headsup: "#C2712A", Food: "#C2712A", Crowds: "#4A90E2", Rides: "#22A84A", Weather: "#8B5CF6" };
-                const capturedPlaces = [...(DAY_SUMMARY.rides || []), ...(DAY_SUMMARY.dining || [])].slice(0, 4);
-                const capturedMoments = (DAY_SUMMARY.moments || []).slice(0, 6);
-                const capturedBroadcasts = (DAY_SUMMARY.broadcasts || []).slice(0, 3);
-                const hrs = Math.floor(traceElapsed / 3600);
-                const mins = Math.floor((traceElapsed % 3600) / 60);
-                const secs = traceElapsed % 60;
-                // Mock live stats scaled to elapsed time (rough theme-park pace)
-                const steps = Math.round(traceElapsed * 1.6);
-                const miles = (traceElapsed * 0.00075).toFixed(1);
-                const parks = traceElapsed > 3600 ? 2 : 1;
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 96, background: A.bgPage, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        {/* Floating header — close button top-left, "Tracing" pill top-center */}
-                        <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 3, paddingTop: "calc(env(safe-area-inset-top, 12px) + 12px)", paddingLeft: 14, paddingRight: 14, pointerEvents: "none" }}>
-                            <div style={{ display: "flex", alignItems: "center", gap: 10, position: "relative", height: 44, pointerEvents: "auto" }}>
-                                <button onClick={() => setShowTraceControlSheet(false)} style={{ all: "unset", cursor: "pointer", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                                </button>
-                                <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", padding: "6px 14px 6px 10px", borderRadius: 100, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", gap: 8 }}>
-                                    <div style={{ position: "relative", width: 10, height: 10 }}>
-                                        <div style={{ position: "absolute", inset: 0, borderRadius: "50%", background: "#FF5A5F" }} />
-                                        <div style={{ position: "absolute", inset: -4, borderRadius: "50%", background: "#FF5A5F", opacity: 0.35, animation: "tracePulse 1.6s ease-out infinite" }} />
-                                    </div>
-                                    <span style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.1 }}>Tracing</span>
-                                </div>
-                                <div style={{ flex: 1 }} />
-                                <div style={{ width: 44, height: 44, flexShrink: 0 }} />
-                            </div>
-                        </div>
-                        {/* Scrollable body */}
-                        <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", paddingTop: "calc(env(safe-area-inset-top, 12px) + 72px)", paddingBottom: 20 }}>
-                            {/* Big timer */}
-                            <div style={{ margin: "0 16px 14px", padding: "26px 20px 24px", borderRadius: 22, background: "linear-gradient(135deg, " + A.brand + " 0%, #3F4E5F 100%)", boxShadow: "0 8px 32px rgba(30,58,95,0.30)", display: "flex", flexDirection: "column", alignItems: "center" }}>
-                                <span style={{ fontSize: 11, fontWeight: 700, color: "rgba(255,255,255,0.75)", fontFamily: F, letterSpacing: 1.4, textTransform: "uppercase", marginBottom: 10 }}>Elapsed</span>
-                                <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
-                                    <div style={{ display: "flex", alignItems: "baseline", gap: 2 }}>
-                                        <span style={{ fontSize: 58, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -2, fontVariantNumeric: "tabular-nums" }}>{hrs}</span>
-                                        <span style={{ fontSize: 20, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F, lineHeight: 1 }}>h</span>
-                                    </div>
-                                    <div style={{ display: "flex", alignItems: "baseline", gap: 2 }}>
-                                        <span style={{ fontSize: 58, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -2, fontVariantNumeric: "tabular-nums" }}>{String(mins).padStart(2, '0')}</span>
-                                        <span style={{ fontSize: 20, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F, lineHeight: 1 }}>m</span>
-                                    </div>
-                                    <div style={{ display: "flex", alignItems: "baseline", gap: 2 }}>
-                                        <span style={{ fontSize: 58, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -2, fontVariantNumeric: "tabular-nums" }}>{String(secs).padStart(2, '0')}</span>
-                                        <span style={{ fontSize: 20, fontWeight: 600, color: "rgba(255,255,255,0.7)", fontFamily: F, lineHeight: 1 }}>s</span>
-                                    </div>
-                                </div>
-                            </div>
-                            {/* Live stats strip — 3 tiles */}
-                            <div style={{ margin: "0 16px 14px", display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 10 }}>
-                                <div style={{ padding: "14px 12px", background: A.bg, borderRadius: 16, boxShadow: "0 2px 12px rgba(0,0,0,0.06)", display: "flex", flexDirection: "column", alignItems: "center", gap: 2 }}>
-                                    <span style={{ fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.5, fontVariantNumeric: "tabular-nums", lineHeight: 1.1 }}>{steps.toLocaleString()}</span>
-                                    <span style={{ fontSize: 11, fontWeight: 600, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Steps</span>
-                                </div>
-                                <div style={{ padding: "14px 12px", background: A.bg, borderRadius: 16, boxShadow: "0 2px 12px rgba(0,0,0,0.06)", display: "flex", flexDirection: "column", alignItems: "center", gap: 2 }}>
-                                    <div style={{ display: "flex", alignItems: "baseline", gap: 2 }}>
-                                        <span style={{ fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.5, fontVariantNumeric: "tabular-nums", lineHeight: 1.1 }}>{miles}</span>
-                                        <span style={{ fontSize: 11, fontWeight: 600, color: A.foggy, fontFamily: F }}>mi</span>
-                                    </div>
-                                    <span style={{ fontSize: 11, fontWeight: 600, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Distance</span>
-                                </div>
-                                <div style={{ padding: "14px 12px", background: A.bg, borderRadius: 16, boxShadow: "0 2px 12px rgba(0,0,0,0.06)", display: "flex", flexDirection: "column", alignItems: "center", gap: 2 }}>
-                                    <span style={{ fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.5, fontVariantNumeric: "tabular-nums", lineHeight: 1.1 }}>{parks}</span>
-                                    <span style={{ fontSize: 11, fontWeight: 600, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Parks</span>
-                                </div>
-                            </div>
-                            {/* Places section — matches Day Summary ride/dining card structure */}
-                            {capturedPlaces.length > 0 && (
-                                <div style={{ margin: "18px 16px 0" }}>
-                                    <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", padding: "0 2px 10px" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>Places</span>
-                                        <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>{capturedPlaces.length} captured</span>
-                                    </div>
-                                    <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                        {capturedPlaces.map((p, i) => {
-                                            const isRide = DAY_SUMMARY.rides && DAY_SUMMARY.rides.includes(p);
-                                            const hasStats = typeof p.posted_min === "number";
-                                            const diff = hasStats ? p.posted_min - p.actual_min : 0;
-                                            const beat = diff > 0;
-                                            const beatColor = beat ? "#22A84A" : "#C2712A";
-                                            return (
-                                                <div key={i} style={{ padding: 14, position: "relative", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                    <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 10, marginBottom: hasStats ? 12 : 0 }}>
-                                                        <div style={{ flex: 1, minWidth: 0 }}>
-                                                            <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 3, lineHeight: 1.3 }}>{p.name}</span>
-                                                            <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", display: "block" }}>
-                                                                {isRide ? (
-                                                                    p.exited ? ("In " + p.entered + "  →  Board " + p.boarded + "  →  Out " + p.exited) :
-                                                                        p.boarded ? ("In " + p.entered + "  →  Board " + p.boarded) :
-                                                                            ("In " + (p.entered || "just now"))
-                                                                ) : (
-                                                                    p.dwell_min ? ("In " + p.time + "  →  " + p.dwell_min + " min") : ("Dining  ·  " + (p.time || "just now"))
-                                                                )}
-                                                            </span>
-                                                        </div>
-                                                        {hasStats && (
-                                                            <div style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "4px 10px 4px 8px", borderRadius: 100, background: beatColor + "20", flexShrink: 0 }}>
-                                                                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={beatColor} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
-                                                                    {beat ? <path d="M12 19V5M5 12l7-7 7 7" /> : <path d="M12 5v14M5 12l7 7 7-7" />}
-                                                                </svg>
-                                                                <span style={{ fontSize: 11, fontWeight: 600, color: beatColor, fontFamily: F, lineHeight: 1 }}>{beat ? diff + " min" : Math.abs(diff) + " min"}</span>
-                                                            </div>
-                                                        )}
-                                                    </div>
-                                                    {hasStats && (
-                                                        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                            <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Posted</span>
-                                                                <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{p.posted_min} min</span>
-                                                            </div>
-                                                            <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                                <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Waited</span>
-                                                                <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{p.actual_min} min</span>
-                                                            </div>
-                                                            <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Ride</span>
-                                                                <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{p.ride_min} min</span>
-                                                            </div>
-                                                        </div>
-                                                    )}
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                </div>
-                            )}
-                            {/* Photos section — horizontal carousel matching Day Summary Moments */}
-                            {capturedMoments.length > 0 && (
-                                <div style={{ marginTop: 18 }}>
-                                    <div style={{ padding: "0 18px 10px", display: "flex", alignItems: "baseline", justifyContent: "space-between" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>Photos</span>
-                                        <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>{capturedMoments.length} captured</span>
-                                    </div>
-                                    <div style={{ display: "flex", gap: 12, overflowX: "auto", padding: "4px 16px 6px", scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                        {capturedMoments.map((m, i) => (
-                                            <div key={i} style={{ flexShrink: 0, width: 180, borderRadius: 22, overflow: "hidden", background: A.bg, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                {/* 1:1 media */}
-                                                <div style={{ aspectRatio: "1/1", position: "relative", overflow: "hidden" }}>
-                                                    <img src={m.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                    {m.type === "video" && (
-                                                        <>
-                                                            <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                                                <div style={{ width: 44, height: 44, borderRadius: "50%", background: "rgba(0,0,0,0.68)", backdropFilter: "blur(4px)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 2px 10px rgba(0,0,0,0.3)" }}>
-                                                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
-                                                                </div>
-                                                            </div>
-                                                            <div style={{ position: "absolute", top: 8, right: 8, padding: "3px 8px", borderRadius: 100, background: "rgba(0,0,0,0.65)", backdropFilter: "blur(4px)" }}>
-                                                                <span style={{ fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{m.duration}</span>
-                                                            </div>
-                                                        </>
-                                                    )}
-                                                </div>
-                                                {/* Compact banner */}
-                                                <div style={{ background: A.bg, padding: "9px 12px 11px" }}>
-                                                    <div style={{ fontSize: 12, fontWeight: 700, color: A.dark, fontFamily: F, marginBottom: 3, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{m.location}</div>
-                                                    <div style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F }}>{m.time}</div>
-                                                </div>
-                                            </div>
-                                        ))}
-                                    </div>
-                                </div>
-                            )}
-                            {/* Broadcasts section — matches map slider + Day Summary: brand-tinted circle + real icon */}
-                            {capturedBroadcasts.length > 0 && (
-                                <div style={{ margin: "18px 16px 0" }}>
-                                    <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", padding: "0 2px 10px" }}>
-                                        <span style={{ fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>Broadcasts</span>
-                                        <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>{capturedBroadcasts.length} posted</span>
-                                    </div>
-                                    <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                        {capturedBroadcasts.map((b, i) => {
-                                            const catId = (b.cat || "").toLowerCase();
-                                            const catIcon = (
-                                                catId === "rides" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg> :
-                                                    catId === "food" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg> :
-                                                        catId === "crowds" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg> :
-                                                            catId === "weather" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /></svg> :
-                                                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>
-                                            );
-                                            return (
-                                                <div key={i} style={{ padding: 14, display: "flex", alignItems: "flex-start", gap: 12, background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                    <div style={{ width: 40, height: 40, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                        {catIcon}
-                                                    </div>
-                                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                                        <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
-                                                            <span style={{ fontSize: 11, fontWeight: 700, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>{b.cat}</span>
-                                                            <span style={{ fontSize: 11, color: A.border, fontFamily: F }}>·</span>
-                                                            <span style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F }}>{b.time}</span>
-                                                        </div>
-                                                        <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.25, marginBottom: 4 }}>{b.venue}</span>
-                                                        <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1.45, display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{b.note}</span>
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                </div>
-                            )}
-                            <div style={{ height: 16 }} />
-                        </div>
-                        {/* Sticky footer — End & Summarize */}
-                        <div style={{ flexShrink: 0, padding: "12px 16px calc(env(safe-area-inset-bottom, 8px) + 14px)", background: A.bg, boxShadow: "0 -6px 20px rgba(0,0,0,0.08)" }}>
-                            <button onClick={() => { setIsTracing(false); setShowTraceControlSheet(false); setShowSummaryReadySheet(true); }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, boxSizing: "border-box", boxShadow: "0 6px 22px rgba(30,58,95,0.45)" }}>
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><rect x="6" y="6" width="12" height="12" rx="2" /></svg>
-                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3 }}>End &amp; Summarize</span>
-                            </button>
-                        </div>
-                    </div>
-                );
-            })()}
 
             {/* --- Summary Ready Sheet — slide-up sheet announcing the Day Summary --- */}
-            {showSummaryReadySheet && (
-                <>
-                    <div onClick={() => setShowSummaryReadySheet(false)} style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.5)", zIndex: 92 }} />
-                    <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 93, background: A.bg, borderRadius: "24px 24px 0 0", paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 20px)", animation: "slideUp 0.32s cubic-bezier(0.32,0.72,0,1)", display: "flex", flexDirection: "column" }}>
-                        {/* Drag handle */}
-                        <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 0", flexShrink: 0 }}>
-                            <div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} />
-                        </div>
-                        {/* Header — flex-centered title, close X on right. Matches broadcast pattern. */}
-                        <div style={{ padding: "14px 20px 12px", display: "flex", alignItems: "center", flexShrink: 0, gap: 10 }}>
-                            <div style={{ width: 32, height: 32, flexShrink: 0 }} />
-                            <span style={{ flex: 1, textAlign: "center", fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", lineHeight: 1 }}>Your day</span>
-                            <button onClick={() => setShowSummaryReadySheet(false)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, flexShrink: 0 }}>
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                            </button>
-                        </div>
-                        {/* Hero card — trace is the reveal. Stats strip sits below. */}
-                        <div style={{ margin: "4px 16px 0", borderRadius: 22, overflow: "hidden", position: "relative", background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)", boxShadow: "inset 0 1.5px 0 rgba(255,255,255,0.12), 0 4px 24px rgba(85,98,112,0.28)" }}>
-                            {/* Decorative corner glows */}
-                            <div style={{ position: "absolute", top: -50, right: -50, width: 200, height: 200, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                            <div style={{ position: "absolute", bottom: -60, left: -60, width: 180, height: 180, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.14) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-
-                            {/* --- TRACE: the reveal. Fills most of the card. --- */}
-                            <div style={{ position: "relative", aspectRatio: "4/5", width: "100%", overflow: "hidden" }}>
-                                {/* "Day Summary ready" chip removed per design direction */}
-
-                                {/* Park name + date — bottom-left overlay on the trace */}
-                                <div style={{ position: "absolute", bottom: 16, left: 20, right: 20, zIndex: 2, pointerEvents: "none" }}>
-                                    <span style={{ fontSize: 24, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1.1, letterSpacing: -0.5, textShadow: "0 1px 8px rgba(0,0,0,0.35)", display: "block", marginBottom: 4 }}>{DAY_SUMMARY.park}</span>
-                                    <span style={{ fontSize: 12, fontWeight: 500, color: "rgba(255,255,255,0.82)", fontFamily: F, lineHeight: 1, textShadow: "0 1px 4px rgba(0,0,0,0.3)" }}>{DAY_SUMMARY.date}  ·  {DAY_SUMMARY.entered_at} – {DAY_SUMMARY.exited_at}</span>
-                                </div>
-
-                                {/* Animated route polylines */}
-                                <svg viewBox="0 0 320 360" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                    <defs>
-                                        <filter id="sheet-trace-glow" x="-20%" y="-20%" width="140%" height="140%">
-                                            <feGaussianBlur stdDeviation="1.5" result="blur" />
-                                            <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                        </filter>
-                                    </defs>
-                                    {/* Faint base paths */}
-                                    {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => (
-                                        <polyline key={"bg-" + i} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
-                                    ))}
-                                    {/* Animated drawing polylines */}
-                                    {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => {
-                                        const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                        return <polyline key={i} points={seg.points} fill="none" stroke={color} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" filter="url(#sheet-trace-glow)" style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (i * 0.1) + "s infinite" }} />;
-                                    })}
-                                    {/* POI stamps */}
-                                    {DAY_SUMMARY.poi_stamps.filter(p => p.icon === "ride").slice(0, 5).map((poi, i) => (
-                                        <g key={i} style={{ animation: "fadeInDot 0.5s ease-out " + (2 + i * 0.2) + "s backwards" }}>
-                                            <circle cx={poi.x} cy={poi.y} r="5.5" fill="#FFF" opacity="0.95" />
-                                            <circle cx={poi.x} cy={poi.y} r="2" fill={A.brand} />
-                                        </g>
-                                    ))}
-                                </svg>
-
-                                {/* Bottom fade so the park name reads clearly against any trace */}
-                                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: 120, background: "linear-gradient(to top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 100%)", pointerEvents: "none" }} />
-                            </div>
-
-                            {/* --- STATS STRIP: universal language (Places / Moments / Miles). All three center-aligned. --- */}
-                            <div style={{ display: "flex", alignItems: "stretch", padding: "16px 20px", borderTop: "1px solid rgba(255,255,255,0.1)" }}>
-                                <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 4, alignItems: "center", justifyContent: "center" }}>
-                                    <span style={{ fontSize: 22, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -0.3 }}>{DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length}</span>
-                                    <span style={{ fontSize: 11, fontWeight: 500, color: "rgba(255,255,255,0.68)", fontFamily: F, lineHeight: 1 }}>places visited</span>
-                                </div>
-                                <div style={{ width: 1.5, background: "rgba(255,255,255,0.14)", alignSelf: "stretch" }} />
-                                <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 4, alignItems: "center", justifyContent: "center" }}>
-                                    <span style={{ fontSize: 22, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -0.3 }}>{DAY_SUMMARY.moments.length}</span>
-                                    <span style={{ fontSize: 11, fontWeight: 500, color: "rgba(255,255,255,0.68)", fontFamily: F, lineHeight: 1 }}>moments</span>
-                                </div>
-                                <div style={{ width: 1.5, background: "rgba(255,255,255,0.14)", alignSelf: "stretch" }} />
-                                <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 4, alignItems: "center", justifyContent: "center" }}>
-                                    <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                        <span style={{ fontSize: 22, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1, letterSpacing: -0.3 }}>{DAY_SUMMARY.stats.distance_mi}</span>
-                                        <span style={{ fontSize: 12, fontWeight: 500, color: "rgba(255,255,255,0.68)", fontFamily: F }}>mi</span>
-                                    </div>
-                                    <span style={{ fontSize: 11, fontWeight: 500, color: "rgba(255,255,255,0.68)", fontFamily: F, lineHeight: 1 }}>total distance</span>
-                                </div>
-                            </div>
-                        </div>
-                        {/* CTAs — aligned to hero card margins, Later button given visible weight */}
-                        <div style={{ padding: "16px 16px 0", display: "flex", flexDirection: "column", gap: 10 }}>
-                            <button onClick={() => { setShowSummaryReadySheet(false); setShowDaySummary(true); }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 14, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 4px 14px " + A.brand + "30", display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
-                                <span style={{ fontSize: 15, fontWeight: 600, color: "#FFF", fontFamily: F }}>View my Day Summary</span>
-                            </button>
-                            <button onClick={() => setShowSummaryReadySheet(false)} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "13px 0", borderRadius: 14, background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
-                                <span style={{ fontSize: 14, fontWeight: 600, color: A.hof, fontFamily: F }}>Later</span>
-                            </button>
-                        </div>
-                    </div>
-                </>
-            )}
 
             {/* --- Day Summary Screen — the full in-app hero experience --- */}
-            {showDaySummary && (() => {
-                // Map each segment type to its polyline color (matches the spec's color legend).
-                const SEG_COLORS = { walking: "#4A90E2", queueing: "#C2712A", riding: "#22A84A", dining: "#E0A84A", idle: A.foggy };
-                const BROADCAST_COLORS = { Headsup: "#C2712A", Food: "#C2712A", Crowds: "#4A90E2", Rides: "#22A84A", Weather: "#8B5CF6" };
-                // Feed-style card — matches news feed + map: white bg, 22px radius, soft shadow.
-                const card = { borderRadius: 22, background: A.bg, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" };
-                // Section header style — uppercase label like map slider + trace dashboard.
-                const sectionHeader = { display: "flex", alignItems: "baseline", justifyContent: "space-between", padding: "0 2px 10px" };
-                const sectionLabel = { fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 };
-                const sectionMeta = { fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F };
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 95, background: A.bgPage, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        {/* === FLOATING TOP CHROME — X button + "Day Summary" pill, content scrolls underneath === */}
-                        <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 3, paddingTop: "calc(env(safe-area-inset-top, 12px) + 12px)", paddingLeft: 14, paddingRight: 14, pointerEvents: "none" }}>
-                            <div style={{ display: "flex", alignItems: "center", gap: 10, position: "relative", height: 44, pointerEvents: "auto" }}>
-                                <button onClick={() => setShowDaySummary(false)} style={{ all: "unset", cursor: "pointer", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                                </button>
-                                <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", padding: "6px 16px", borderRadius: 100, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", flexDirection: "column", alignItems: "center", gap: 1, maxWidth: "60%" }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", maxWidth: "100%", lineHeight: 1.15, letterSpacing: -0.2 }}>{summaryHeroPast ? DAY_SUMMARY.park : "Day Summary"}</span>
-                                    {summaryHeroPast && <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", lineHeight: 1 }}>{DAY_SUMMARY.date}</span>}
-                                </div>
-                                <div style={{ flex: 1 }} />
-                                <div style={{ width: 44, height: 44, flexShrink: 0 }} />
-                            </div>
-                        </div>
-                        {/* Scrollable body */}
-                        <div onScroll={(e) => { const st = e.currentTarget.scrollTop; const past = st > 120; if (past !== summaryHeroPast) setSummaryHeroPast(past); }} style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", background: A.bgPage, paddingTop: "calc(env(safe-area-inset-top, 12px) + 72px)", paddingBottom: 120 }}>
-                            {/* Hero card — park, date, times, achievement */}
-                            <div style={{ margin: "0 16px 14px", padding: "20px 20px 18px", ...card }}>
-                                <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 10 }}>
-                                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                    <span style={{ fontSize: 12, fontWeight: 700, color: A.brand, fontFamily: F, letterSpacing: 0.3, textTransform: "uppercase" }}>Walt Disney World</span>
-                                </div>
-                                <span style={{ fontSize: 28, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1.1, display: "block", marginBottom: 8, letterSpacing: -0.5 }}>{DAY_SUMMARY.park}</span>
-                                <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F }}>{DAY_SUMMARY.date}</span>
-                                    <div style={{ width: 3, height: 3, borderRadius: "50%", background: A.border }} />
-                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F }}>{DAY_SUMMARY.entered_at} – {DAY_SUMMARY.exited_at}</span>
-                                </div>
-                                {/* Achievement chip removed per design direction */}
-                            </div>
-
-                            {/* Route Map — clean card on bgPage */}
-                            <div style={{ margin: "0 16px 14px" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Your route</span>
-                                </div>
-                                <div style={{ position: "relative", width: "100%", aspectRatio: "4/3", overflow: "hidden", ...card }}>
-                                    {/* Base map fill — layered: pale grass → water accent */}
-                                    <div style={{ position: "absolute", inset: 0, background: "linear-gradient(165deg, #F0F4EC 0%, #E2EAD8 100%)" }} />
-                                    <svg viewBox="0 0 320 240" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" style={{ position: "relative", zIndex: 1, display: "block" }}>
-                                        <defs>
-                                            {/* Soft drop shadow for the castle centerpiece */}
-                                            <filter id="castle-shadow" x="-20%" y="-20%" width="140%" height="140%">
-                                                <feDropShadow dx="0" dy="1.5" stdDeviation="1.2" floodOpacity="0.18" />
-                                            </filter>
-                                            {/* Water texture gradient */}
-                                            <linearGradient id="water-grad" x1="0" y1="0" x2="0" y2="1">
-                                                <stop offset="0%" stopColor="#C8DCE8" />
-                                                <stop offset="100%" stopColor="#B5CDDC" />
-                                            </linearGradient>
-                                        </defs>
-
-                                        {/* Seven Seas Lagoon — water feature on the left side of MK */}
-                                        <path d="M -10 90 Q 20 100 40 120 Q 50 135 35 160 Q 15 180 -10 175 Z" fill="url(#water-grad)" opacity="0.75" />
-
-                                        {/* Land regions — now organic path shapes, not plain ellipses */}
-                                        <g opacity="0.6">
-                                            {/* Main Street (top, leading to castle) */}
-                                            <path d="M 155 30 Q 195 28 240 40 Q 260 55 250 75 Q 220 85 180 80 Q 150 72 148 50 Z" fill="#F4E8D2" />
-                                            {/* Fantasyland (upper left — around castle) */}
-                                            <path d="M 45 75 Q 90 62 140 78 Q 158 100 140 125 Q 85 135 50 120 Q 28 95 45 75 Z" fill="#EDE5D1" />
-                                            {/* Tomorrowland (right side) */}
-                                            <path d="M 155 110 Q 210 100 275 120 Q 285 145 265 170 Q 215 175 165 160 Q 145 135 155 110 Z" fill="#D9E5ED" />
-                                            {/* Frontierland / Adventureland (lower left) */}
-                                            <path d="M 40 155 Q 90 145 145 160 Q 155 185 130 210 Q 75 220 45 205 Q 25 180 40 155 Z" fill="#D7E4D2" />
-                                        </g>
-
-                                        {/* Pathways / pedestrian arteries — subtle dashed lines suggesting park paths */}
-                                        <g stroke="#FFF" strokeWidth="1.5" strokeDasharray="2 3" opacity="0.55" fill="none" strokeLinecap="round">
-                                            <path d="M 190 55 Q 180 90 175 120 Q 170 150 170 180" />
-                                            <path d="M 70 100 Q 120 110 160 130 Q 200 140 260 145" />
-                                            <path d="M 80 180 Q 130 165 175 160" />
-                                        </g>
-
-                                        {/* Land labels — refined, with subtle letter-spacing */}
-                                        <g fontFamily={F} fontWeight="600" fill={A.foggy} style={{ letterSpacing: 0.8 }}>
-                                            <text x="200" y="58" textAnchor="middle" fontSize="8" opacity="0.85">MAIN ST</text>
-                                            <text x="93" y="103" textAnchor="middle" fontSize="8" opacity="0.85">FANTASYLAND</text>
-                                            <text x="215" y="142" textAnchor="middle" fontSize="8" opacity="0.85">TOMORROWLAND</text>
-                                            <text x="90" y="185" textAnchor="middle" fontSize="8" opacity="0.85">FRONTIERLAND</text>
-                                        </g>
-
-                                        {/* Cinderella Castle — iconic centerpiece landmark at the center of the park */}
-                                        <g transform="translate(160, 115)" filter="url(#castle-shadow)">
-                                            {/* Left wall */}
-                                            <rect x="-14" y="-8" width="6" height="22" fill="#F5F5F5" stroke="#C2CCD4" strokeWidth="0.5" />
-                                            {/* Right wall */}
-                                            <rect x="8" y="-8" width="6" height="22" fill="#F5F5F5" stroke="#C2CCD4" strokeWidth="0.5" />
-                                            {/* Center tower */}
-                                            <rect x="-4" y="-14" width="8" height="28" fill="#FAFAFA" stroke="#C2CCD4" strokeWidth="0.5" />
-                                            {/* Left spire */}
-                                            <polygon points="-11,-8 -8,-14 -14,-14" fill={A.brand} />
-                                            {/* Right spire */}
-                                            <polygon points="11,-8 8,-14 14,-14" fill={A.brand} />
-                                            {/* Center spire (tall) */}
-                                            <polygon points="0,-24 -4,-14 4,-14" fill={A.brand} />
-                                            {/* Center spire flag */}
-                                            <line x1="0" y1="-24" x2="0" y2="-27" stroke={A.brand} strokeWidth="0.6" />
-                                            <polygon points="0,-27 3,-26 0,-25" fill="#C2712A" />
-                                        </g>
-
-                                        {/* Route polylines — remapped Y coords from 360 to 240 */}
-                                        {DAY_SUMMARY.route_segments.map((seg, i) => {
-                                            const remapped = seg.points.split(" ").map(p => { const [x, y] = p.split(","); return x + "," + (parseFloat(y) * 0.667).toFixed(1); }).join(" ");
-                                            return <polyline key={i} points={remapped} fill="none" stroke={SEG_COLORS[seg.type] || A.foggy} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" opacity={seg.type === "dining" ? 0 : 0.95} style={{ filter: "drop-shadow(0 1px 1px rgba(0,0,0,0.1))" }} />;
-                                        })}
-
-                                        {/* POI stamps with labels — exit pins filtered out, icons swapped for attraction/dining/ship glyphs */}
-                                        {DAY_SUMMARY.poi_stamps.filter(p => p.icon !== "exit").map((poi, i) => {
-                                            const ry = poi.y * 0.667;
-                                            const labelY = ry + 16;
-                                            const isPirates = (poi.label || "").toLowerCase().includes("pirate");
-                                            const ringColor = poi.icon === "dining" ? "#E0A84A" : poi.icon === "entry" ? A.brand : "#22A84A";
-                                            return (
-                                                <g key={i}>
-                                                    {/* White backing circle with themed ring */}
-                                                    <circle cx={poi.x} cy={ry} r="9" fill="#FFF" stroke={ringColor} strokeWidth="2" style={{ filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.18))" }} />
-                                                    {/* Themed icon inside */}
-                                                    {poi.icon === "dining" ? (
-                                                        /* Chef hat - dining */
-                                                        <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                            <path d="M2 8h6v2H2zM1.5 4.5a2 2 0 0 1 3-1.6 2 2 0 0 1 3 0 2 2 0 0 1 1.5 3.6V8h-8V6.5a2 2 0 0 1 .5-2z" fill="none" stroke="#B88332" strokeWidth="1.1" strokeLinecap="round" strokeLinejoin="round" transform="scale(0.9)" />
-                                                        </g>
-                                                    ) : isPirates ? (
-                                                        /* Ship anchor - Pirates */
-                                                        <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                            <circle cx="5" cy="1.8" r="1.1" fill="none" stroke="#1B7A36" strokeWidth="1.1" />
-                                                            <path d="M5 2.9v6.3M2.5 5h5M2 8.7a3 3 0 0 0 3 0.8 3 3 0 0 0 3 -0.8" fill="none" stroke="#1B7A36" strokeWidth="1.1" strokeLinecap="round" />
-                                                        </g>
-                                                    ) : poi.icon === "entry" ? (
-                                                        /* Flag/entry marker */
-                                                        <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                            <path d="M3 9V1.5M3 1.5h5l-1 1.8L8 5H3" fill="none" stroke={A.brand} strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" />
-                                                        </g>
-                                                    ) : (
-                                                        /* Generic attraction - star */
-                                                        <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                            <path d="M5 1.3l1.2 2.4 2.6 0.4-1.9 1.8 0.5 2.6L5 7.3 2.6 8.5l0.5-2.6L1.2 4.1l2.6-0.4z" fill="#22A84A" stroke="#1B7A36" strokeWidth="0.7" strokeLinejoin="round" />
-                                                        </g>
-                                                    )}
-                                                    <text x={poi.x} y={labelY} textAnchor="middle" fontSize="8" fontWeight="700" fill={A.dark} fontFamily={F} style={{ paintOrder: "stroke", stroke: "#FFF", strokeWidth: 3, strokeLinejoin: "round" }}>{poi.label}</text>
-                                                </g>
-                                            );
-                                        })}
-                                    </svg>
-                                    {/* Legend overlay — Ride and Dine only (walking/queue are implicit) */}
-                                    <div style={{ position: "absolute", left: 10, bottom: 10, display: "flex", gap: 10, padding: "7px 12px", borderRadius: 100, background: "rgba(255,255,255,0.94)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", boxShadow: "0 2px 8px rgba(0,0,0,0.08)", zIndex: 2 }}>
-                                        {[{ c: SEG_COLORS.riding, l: "Ride" }, { c: SEG_COLORS.dining, l: "Dine" }].map((k, i) => (
-                                            <div key={i} style={{ display: "flex", alignItems: "center", gap: 5, height: 12 }}>
-                                                <div style={{ width: 10, height: 3, borderRadius: 2, background: k.c, flexShrink: 0 }} />
-                                                <span style={{ fontSize: 10, fontWeight: 600, color: A.dark, fontFamily: F, lineHeight: 1 }}>{k.l}</span>
-                                            </div>
-                                        ))}
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Stats Grid — feed-style white cards */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>By the numbers</span>
-                                </div>
-                                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10 }}>
-                                    {(() => {
-                                        const totalHrs = Math.floor(DAY_SUMMARY.stats.hours_in_park);
-                                        const totalMin = Math.round((DAY_SUMMARY.stats.hours_in_park - totalHrs) * 60);
-                                        const totalTimeStr = totalHrs + "h " + (totalMin < 10 ? "0" + totalMin : totalMin) + "m";
-                                        return [
-                                            { key: "distance", num: DAY_SUMMARY.stats.distance_mi.toString(), unit: "mi", label: "walked" },
-                                            { key: "time", num: totalTimeStr, unit: "", label: "total time" },
-                                            { key: "places", num: (DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length).toString(), unit: "", label: "total places" },
-                                            { key: "moments", num: DAY_SUMMARY.moments.length.toString(), unit: "", label: "moments" },
-                                        ];
-                                    })().map((s, i) => {
-                                        const hidden = includedStats && !includedStats.has(s.key);
-                                        return (
-                                            <div key={i} style={{ padding: 14, position: "relative", display: "flex", flexDirection: "column", gap: 6, opacity: hidden ? 0.5 : 1, transition: "opacity 0.2s ease", ...card }}>
-                                                {hidden && (
-                                                    <div style={{ position: "absolute", top: 10, right: 10, width: 20, height: 20, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", zIndex: 2 }}>
-                                                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg>
-                                                    </div>
-                                                )}
-                                                <div style={{ display: "flex", alignItems: "baseline", gap: 4 }}>
-                                                    <span style={{ fontSize: 24, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1, letterSpacing: -0.3 }}>{s.num}</span>
-                                                    {s.unit && <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1 }}>{s.unit}</span>}
-                                                </div>
-                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1 }}>{s.label}</span>
-                                            </div>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-
-                            {/* Rides — feed-style white cards */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Rides</span>
-                                    <span style={sectionMeta}>{DAY_SUMMARY.rides.length} completed</span>
-                                </div>
-                                <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                    {DAY_SUMMARY.rides.map((r, i) => {
-                                        const diff = r.posted_min - r.actual_min;
-                                        const beat = diff > 0;
-                                        const beatColor = beat ? "#22A84A" : "#C2712A";
-                                        const placeId = "ride:" + r.name;
-                                        const hidden = includedPlaces && !includedPlaces.has(placeId);
-                                        return (
-                                            <div key={i} style={{ padding: 14, position: "relative", opacity: hidden ? 0.5 : 1, transition: "opacity 0.2s ease", ...card }}>
-                                                {hidden && (
-                                                    <div style={{ position: "absolute", top: 10, right: 10, width: 22, height: 22, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", zIndex: 2 }}>
-                                                        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg>
-                                                    </div>
-                                                )}
-                                                <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 10, marginBottom: 12, paddingRight: hidden ? 28 : 0 }}>
-                                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                                        <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 3, lineHeight: 1.3 }}>{r.name}</span>
-                                                        <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", display: "block" }}>In {r.entered}  →  Board {r.boarded}  →  Out {r.exited}</span>
-                                                    </div>
-                                                    <div style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "4px 10px 4px 8px", borderRadius: 100, background: beatColor + "20", flexShrink: 0 }}>
-                                                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={beatColor} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
-                                                            {beat ? <path d="M12 19V5M5 12l7-7 7 7" /> : <path d="M12 5v14M5 12l7 7 7-7" />}
-                                                        </svg>
-                                                        <span style={{ fontSize: 11, fontWeight: 600, color: beatColor, fontFamily: F, lineHeight: 1 }}>{beat ? diff + " min" : Math.abs(diff) + " min"}</span>
-                                                    </div>
-                                                </div>
-                                                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Posted</span>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.posted_min} min</span>
-                                                    </div>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Waited</span>
-                                                        <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{r.actual_min} min</span>
-                                                    </div>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Ride</span>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.ride_min} min</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-
-                            {/* Dining — mirrors ride-card pattern for visual consistency */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Dining</span>
-                                    <span style={sectionMeta}>{DAY_SUMMARY.dining.length} stops</span>
-                                </div>
-                                <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                    {DAY_SUMMARY.dining.map((d, i) => {
-                                        const placeId = "dine:" + d.name;
-                                        const hidden = includedPlaces && !includedPlaces.has(placeId);
-                                        // Compute departed = arrived + dwell_min. Time format: "12:30 PM".
-                                        const addMinutes = (timeStr, mins) => {
-                                            const [hm, period] = timeStr.split(" ");
-                                            let [h, m] = hm.split(":").map(Number);
-                                            let total = (period === "PM" && h !== 12 ? h + 12 : period === "AM" && h === 12 ? 0 : h) * 60 + m + mins;
-                                            const dayMins = ((total % (24 * 60)) + 24 * 60) % (24 * 60);
-                                            let outH = Math.floor(dayMins / 60);
-                                            const outM = dayMins % 60;
-                                            const outPeriod = outH >= 12 ? "PM" : "AM";
-                                            outH = outH % 12 === 0 ? 12 : outH % 12;
-                                            return outH + ":" + (outM < 10 ? "0" + outM : outM) + " " + outPeriod;
-                                        };
-                                        const departedAt = addMinutes(d.time, d.dwell_min);
-                                        return (
-                                            <div key={i} style={{ padding: 14, position: "relative", opacity: hidden ? 0.5 : 1, transition: "opacity 0.2s ease", ...card }}>
-                                                {hidden && (
-                                                    <div style={{ position: "absolute", top: 10, right: 10, width: 22, height: 22, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", zIndex: 2 }}>
-                                                        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg>
-                                                    </div>
-                                                )}
-                                                <div style={{ marginBottom: 12, paddingRight: hidden ? 28 : 0 }}>
-                                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.3 }}>{d.name}</span>
-                                                </div>
-                                                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Arrived</span>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{d.time}</span>
-                                                    </div>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Departed</span>
-                                                        <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{departedAt}</span>
-                                                    </div>
-                                                    <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                        <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Total time</span>
-                                                        <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{d.dwell_min} min</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-
-                            {/* Moments — sized to match news feed Images grid. Horizontal scroll. */}
-                            <div style={{ marginTop: 18 }}>
-                                <div style={{ padding: "0 18px 10px", display: "flex", alignItems: "baseline", justifyContent: "space-between" }}>
-                                    <span style={sectionLabel}>Moments</span>
-                                    <span style={sectionMeta}>{DAY_SUMMARY.moments.length} captured</span>
-                                </div>
-                                <div style={{ display: "flex", gap: 12, overflowX: "auto", padding: "4px 16px 6px", scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                    {DAY_SUMMARY.moments.map((m, i) => {
-                                        const hidden = includedMoments && !includedMoments.has(i);
-                                        return (
-                                            <div key={i} style={{ flexShrink: 0, width: 180, borderRadius: 22, overflow: "hidden", opacity: hidden ? 0.5 : 1, transition: "opacity 0.2s ease", background: A.bg, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                {/* 1:1 media — square */}
-                                                <div style={{ aspectRatio: "1/1", position: "relative", overflow: "hidden" }}>
-                                                    <img src={m.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                    {m.type === "video" && !hidden && (
-                                                        <>
-                                                            <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                                                <div style={{ width: 44, height: 44, borderRadius: "50%", background: "rgba(0,0,0,0.68)", backdropFilter: "blur(4px)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 2px 10px rgba(0,0,0,0.3)" }}>
-                                                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
-                                                                </div>
-                                                            </div>
-                                                            <div style={{ position: "absolute", top: 8, right: 8, padding: "3px 8px", borderRadius: 100, background: "rgba(0,0,0,0.65)", backdropFilter: "blur(4px)" }}>
-                                                                <span style={{ fontSize: 11, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{m.duration}</span>
-                                                            </div>
-                                                        </>
-                                                    )}
-                                                    {hidden && (
-                                                        <div style={{ position: "absolute", top: 8, right: 8, width: 26, height: 26, borderRadius: "50%", background: "rgba(255,255,255,0.95)", backdropFilter: "blur(4px)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 1px 4px rgba(0,0,0,0.15)" }}>
-                                                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg>
-                                                        </div>
-                                                    )}
-                                                </div>
-                                                {/* Compact banner — matches Images grid pattern */}
-                                                <div style={{ background: A.bg, padding: "9px 12px 11px" }}>
-                                                    <div style={{ fontSize: 12, fontWeight: 700, color: A.dark, fontFamily: F, marginBottom: 3, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{m.location}</div>
-                                                    <div style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F }}>{m.time}</div>
-                                                </div>
-                                            </div>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-
-                            {/* Broadcasts — warmer framing, no alarm-red */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Your broadcasts</span>
-                                    <span style={sectionMeta}>{DAY_SUMMARY.broadcasts.length} contributions</span>
-                                </div>
-                                <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                    {DAY_SUMMARY.broadcasts.map((b, i) => {
-                                        const hidden = includedBroadcasts && !includedBroadcasts.has(i);
-                                        // Map Day Summary category strings to the same icon set used in the broadcast slider
-                                        const catId = (b.cat || "").toLowerCase();
-                                        const catIcon = (
-                                            catId === "rides" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg> :
-                                                catId === "food" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg> :
-                                                    catId === "crowds" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg> :
-                                                        catId === "weather" ? <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /></svg> :
-                                                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>
-                                        );
-                                        return (
-                                            <div key={i} style={{ padding: 14, position: "relative", display: "flex", alignItems: "flex-start", gap: 12, opacity: hidden ? 0.5 : 1, transition: "opacity 0.2s ease", ...card }}>
-                                                {hidden && (
-                                                    <div style={{ position: "absolute", top: 10, right: 10, width: 22, height: 22, borderRadius: "50%", background: A.bgPage, border: "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", zIndex: 2 }}>
-                                                        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg>
-                                                    </div>
-                                                )}
-                                                <div style={{ width: 40, height: 40, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                    {catIcon}
-                                                </div>
-                                                <div style={{ flex: 1, minWidth: 0, paddingRight: hidden ? 28 : 0 }}>
-                                                    <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
-                                                        <span style={{ fontSize: 11, fontWeight: 700, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>{b.cat}</span>
-                                                        <span style={{ fontSize: 11, color: A.border, fontFamily: F }}>·</span>
-                                                        <span style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F }}>{b.time}</span>
-                                                    </div>
-                                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.25, marginBottom: 4 }}>{b.venue}</span>
-                                                    <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1.45, display: "block" }}>{b.note}</span>
-                                                </div>
-                                            </div>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-                        </div>
-                        {/* Sticky footer — single primary pill matching Directions/Edit/Trace footer pattern */}
-                        <div style={{ flexShrink: 0, padding: "12px 16px calc(env(safe-area-inset-bottom, 8px) + 14px)", background: A.bg, boxShadow: "0 -6px 20px rgba(0,0,0,0.08)" }}>
-                            <button onClick={() => {
-                                // Seed draft from committed state, or "all on" defaults if first open.
-                                const seedPlaces = includedPlaces || new Set([...DAY_SUMMARY.rides.map(r => "ride:" + r.name), ...DAY_SUMMARY.dining.map(d => "dine:" + d.name)]);
-                                const seedMoments = includedMoments || new Set(DAY_SUMMARY.moments.map((_, i) => i));
-                                const seedBroadcasts = includedBroadcasts || new Set(DAY_SUMMARY.broadcasts.map((_, i) => i));
-                                const seedStats = includedStats || new Set(["distance", "time", "places", "moments"]);
-                                setDraftPlaces(new Set(seedPlaces));
-                                setDraftMoments(new Set(seedMoments));
-                                setDraftBroadcasts(new Set(seedBroadcasts));
-                                setDraftStats(new Set(seedStats));
-                                setEditTab("Places");
-                                setShowDaySummary(false);
-                                setShowEditSummary(true);
-                            }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, boxSizing: "border-box" }}>
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" /><polyline points="16 6 12 2 8 6" /><line x1="12" y1="2" x2="12" y2="15" /></svg>
-                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3, lineHeight: 1 }}>Review &amp; share</span>
-                            </button>
-                        </div>
-                    </div>
-                );
-            })()}
 
             {/* === EDIT MY SUMMARY === */}
-            {showEditSummary && draftPlaces && draftMoments && draftBroadcasts && draftStats && (() => {
-                // Reusable glass card for container styling. Matches the Day Summary.
-                const glassCard = { borderRadius: 22, background: "linear-gradient(135deg, rgba(255,255,255,0.72) 0%, rgba(255,255,255,0.52) 50%, rgba(255,255,255,0.64) 100%)", backdropFilter: "blur(28px) saturate(180%) brightness(1.06)", WebkitBackdropFilter: "blur(28px) saturate(180%) brightness(1.06)", boxShadow: "inset 0 1.5px 0 rgba(255,255,255,0.85), 0 4px 24px rgba(0,0,0,0.06)", border: "1px solid rgba(0,0,0,0.04)" };
-                const BROADCAST_COLORS = { Headsup: "#C2712A", Food: "#C2712A", Crowds: "#4A90E2", Rides: "#22A84A", Weather: "#8B5CF6" };
-                const TABS = ["Places", "Photos", "Broadcasts"];
 
-                // Stat metadata — mirrors the Day Summary stats grid ordering so the user sees the same structure.
-                const totalHrs = Math.floor(DAY_SUMMARY.stats.hours_in_park);
-                const totalMin = Math.round((DAY_SUMMARY.stats.hours_in_park - totalHrs) * 60);
-                const totalTimeStr = totalHrs + "h " + (totalMin < 10 ? "0" + totalMin : totalMin) + "m";
-                const STAT_META = [
-                    { key: "distance", num: DAY_SUMMARY.stats.distance_mi, unit: "mi", label: "walked" },
-                    { key: "time", num: totalTimeStr, unit: "", label: "total time" },
-                    { key: "places", num: DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length, unit: "", label: "total places" },
-                    { key: "moments", num: DAY_SUMMARY.moments.length, unit: "", label: "moments" },
-                ];
-
-                // Reusable toggle switch. Matches the DRFT settings-screen toggle exactly: 46×28 pill, 22 knob.
-                const Toggle = ({ on, onClick }) => (
-                    <button onClick={onClick} style={{ all: "unset", cursor: "pointer", width: 46, height: 28, borderRadius: 14, background: on ? A.brand : A.border, position: "relative", flexShrink: 0, transition: "background 0.2s ease" }}>
-                        <div style={{ width: 22, height: 22, borderRadius: "50%", background: "#FFF", position: "absolute", top: 3, left: on ? 21 : 3, transition: "left 0.2s ease", boxShadow: "0 1px 3px rgba(0,0,0,0.15)" }} />
-                    </button>
-                );
-
-                // Count included items across current draft for the tab counter chips.
-                const placesTotal = DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length;
-                const momentsTotal = DAY_SUMMARY.moments.length;
-                const broadcastsTotal = DAY_SUMMARY.broadcasts.length;
-                const statsTotal = STAT_META.length;
-
-                // Handlers — toggling is by reference, so we clone the Set each time to trigger re-render.
-                const togglePlace = (id) => { const n = new Set(draftPlaces); n.has(id) ? n.delete(id) : n.add(id); setDraftPlaces(n); };
-                const toggleMoment = (i) => { const n = new Set(draftMoments); n.has(i) ? n.delete(i) : n.add(i); setDraftMoments(n); };
-                const toggleBroadcast = (i) => { const n = new Set(draftBroadcasts); n.has(i) ? n.delete(i) : n.add(i); setDraftBroadcasts(n); };
-                const toggleStat = (k) => { const n = new Set(draftStats); n.has(k) ? n.delete(k) : n.add(k); setDraftStats(n); };
-
-                const saveAndReturn = () => {
-                    setIncludedPlaces(draftPlaces);
-                    setIncludedMoments(draftMoments);
-                    setIncludedBroadcasts(draftBroadcasts);
-                    setIncludedStats(draftStats);
-                    setShowEditSummary(false);
-                    setShowDaySummary(true);
-                    setToastMsg("Summary updated");
-                    setTimeout(() => setToastMsg(null), 1800);
-                };
-
-                const backToSummary = () => {
-                    // Back from review just returns to summary; draft changes are local only.
-                    // (If we wanted a "save edits without sharing" path, we could add that here — for
-                    // now, back = discard, share = commit + publish.)
-                    setShowEditSummary(false);
-                    setShowDaySummary(true);
-                };
-
-                const shareAndPublish = () => {
-                    // Commit the curation draft, then swap from Edit → Publish screen.
-                    setIncludedPlaces(draftPlaces);
-                    setIncludedMoments(draftMoments);
-                    setIncludedBroadcasts(draftBroadcasts);
-                    setIncludedStats(draftStats);
-                    setShowEditSummary(false);
-                    setShowPublishScreen(true);
-                };
-
-                // Row component used by Places, Broadcasts, Stats panels. Photo grid is rendered separately.
-                const ToggleRow = ({ on, onToggle, leading, title, subtitle }) => (
-                    <div onClick={onToggle} style={{ display: "flex", alignItems: "center", gap: 12, padding: 14, cursor: "pointer", opacity: on ? 1 : 0.55, transition: "opacity 0.2s ease", ...glassCard }}>
-                        {leading}
-                        <div style={{ flex: 1, minWidth: 0 }}>
-                            <span style={{ fontSize: 15, fontWeight: 600, color: A.dark, fontFamily: F, display: "block", marginBottom: 2, lineHeight: 1.3, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{title}</span>
-                            {subtitle && <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.3 }}>{subtitle}</span>}
-                        </div>
-                        <Toggle on={on} onClick={(e) => { e.stopPropagation(); onToggle(); }} />
-                    </div>
-                );
-
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 96, background: A.bgPage, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-
-                        {/* === FLOATING TOP CHROME — close button top-left, title pill top-center, no band, content scrolls underneath === */}
-                        <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 3, paddingTop: "calc(env(safe-area-inset-top, 12px) + 12px)", paddingLeft: 14, paddingRight: 14, pointerEvents: "none" }}>
-                            <div style={{ display: "flex", alignItems: "center", gap: 10, position: "relative", height: 44, pointerEvents: "auto" }}>
-                                <button onClick={backToSummary} style={{ all: "unset", cursor: "pointer", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                                </button>
-                                <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", padding: "6px 16px", borderRadius: 100, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)" }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", letterSpacing: -0.2 }}>Review before sharing</span>
-                                </div>
-                                <div style={{ flex: 1 }} />
-                                <div style={{ width: 44, height: 44, flexShrink: 0 }} />
-                            </div>
-                        </div>
-
-                        {/* === SCROLLABLE BODY — content scrolls under floating chrome === */}
-                        <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", background: A.bgPage, paddingTop: "calc(env(safe-area-inset-top, 12px) + 68px)" }}>
-
-                            {/* Tab pills — sticky to top of scroll area, floating. No background behind the pill row so content shows through. */}
-                            <div style={{ position: "sticky", top: 0, zIndex: 2, display: "flex", gap: 8, padding: "10px 14px 14px", overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch", background: "transparent", pointerEvents: "none" }}>
-                                {TABS.map(tab => {
-                                    const active = editTab === tab;
-                                    return (
-                                        <button key={tab} onClick={() => setEditTab(tab)} style={{ all: "unset", cursor: "pointer", padding: "10px 18px", borderRadius: 100, fontSize: 14, fontWeight: 600, whiteSpace: "nowrap", background: active ? A.brand : A.bg, color: active ? "#FFF" : A.dark, boxShadow: active ? "none" : "0 1px 4px rgba(0,0,0,0.12)", border: active ? "1.5px solid " + A.brand : "1px solid " + A.border, flexShrink: 0, display: "inline-flex", alignItems: "center", boxSizing: "border-box", pointerEvents: "auto", lineHeight: 1 }}>
-                                            {tab}
-                                        </button>
-                                    );
-                                })}
-                            </div>
-
-                            {/* === PANEL CONTENT === */}
-                            <div style={{ padding: "4px 12px 120px" }}>
-
-                                {/* === PLACES PANEL — card rows matching map location-card icon style (40×40 tinted circle) === */}
-                                {editTab === "Places" && (
-                                    <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                        {DAY_SUMMARY.rides.map((r, i) => {
-                                            const id = "ride:" + r.name;
-                                            const on = draftPlaces.has(id);
-                                            const diff = r.posted_min - r.actual_min;
-                                            const beat = diff > 0;
-                                            const beatColor = beat ? "#22A84A" : "#C2712A";
-                                            return (
-                                                <div key={id} onClick={() => togglePlace(id)} style={{ padding: 14, position: "relative", cursor: "pointer", opacity: on ? 1 : 0.55, transition: "opacity 0.15s ease", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                    {/* Select checkmark — top-right, mirrors location-card save state */}
-                                                    <div onClick={(e) => { e.stopPropagation(); togglePlace(id); }} style={{ position: "absolute", top: 12, right: 12, width: 28, height: 28, borderRadius: "50%", background: on ? A.brand : A.bg, border: on ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, cursor: "pointer", boxShadow: on ? "0 2px 8px " + A.brand + "55" : "none", transition: "all 0.15s", zIndex: 2 }}>{on && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>}</div>
-                                                    <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 10, marginBottom: 12, paddingRight: 44 }}>
-                                                        <div style={{ flex: 1, minWidth: 0 }}>
-                                                            <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", marginBottom: 3, lineHeight: 1.3 }}>{r.name}</span>
-                                                            <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", display: "block" }}>In {r.entered}  →  Board {r.boarded}  →  Out {r.exited}</span>
-                                                        </div>
-                                                        <div style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "4px 10px 4px 8px", borderRadius: 100, background: beatColor + "20", flexShrink: 0, marginRight: 36 }}>
-                                                            <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={beatColor} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
-                                                                {beat ? <path d="M12 19V5M5 12l7-7 7 7" /> : <path d="M12 5v14M5 12l7 7 7-7" />}
-                                                            </svg>
-                                                            <span style={{ fontSize: 11, fontWeight: 600, color: beatColor, fontFamily: F, lineHeight: 1 }}>{beat ? diff + " min" : Math.abs(diff) + " min"}</span>
-                                                        </div>
-                                                    </div>
-                                                    <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Posted</span>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.posted_min} min</span>
-                                                        </div>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Waited</span>
-                                                            <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{r.actual_min} min</span>
-                                                        </div>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Ride</span>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.ride_min} min</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
-                                        {DAY_SUMMARY.dining.map((d, i) => {
-                                            const id = "dine:" + d.name;
-                                            const on = draftPlaces.has(id);
-                                            const addMinutes = (timeStr, mins) => {
-                                                const [hm, period] = timeStr.split(" ");
-                                                let [h, m] = hm.split(":").map(Number);
-                                                let total = (period === "PM" && h !== 12 ? h + 12 : period === "AM" && h === 12 ? 0 : h) * 60 + m + mins;
-                                                const dayMins = ((total % (24 * 60)) + 24 * 60) % (24 * 60);
-                                                let outH = Math.floor(dayMins / 60);
-                                                const outM = dayMins % 60;
-                                                const outPeriod = outH >= 12 ? "PM" : "AM";
-                                                outH = outH % 12 === 0 ? 12 : outH % 12;
-                                                return outH + ":" + (outM < 10 ? "0" + outM : outM) + " " + outPeriod;
-                                            };
-                                            const departedAt = addMinutes(d.time, d.dwell_min);
-                                            return (
-                                                <div key={id} onClick={() => togglePlace(id)} style={{ padding: 14, position: "relative", cursor: "pointer", opacity: on ? 1 : 0.55, transition: "opacity 0.15s ease", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                                    <div onClick={(e) => { e.stopPropagation(); togglePlace(id); }} style={{ position: "absolute", top: 12, right: 12, width: 28, height: 28, borderRadius: "50%", background: on ? A.brand : A.bg, border: on ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, cursor: "pointer", boxShadow: on ? "0 2px 8px " + A.brand + "55" : "none", transition: "all 0.15s", zIndex: 2 }}>{on && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>}</div>
-                                                    <div style={{ marginBottom: 12, paddingRight: 44 }}>
-                                                        <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.3 }}>{d.name}</span>
-                                                    </div>
-                                                    <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Arrived</span>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{d.time}</span>
-                                                        </div>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Departed</span>
-                                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{departedAt}</span>
-                                                        </div>
-                                                        <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                            <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Total time</span>
-                                                            <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{d.dwell_min} min</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                )}
-
-                                {/* === PHOTOS PANEL — 1:1 feed-style cards with top-left check marker === */}
-                                {editTab === "Photos" && (
-                                    <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                                        {DAY_SUMMARY.moments.map((m, i) => {
-                                            const on = draftMoments.has(i);
-                                            return (
-                                                <div key={i} onClick={() => toggleMoment(i)} style={{ borderRadius: 22, overflow: "hidden", cursor: "pointer", background: A.bg, boxShadow: "0 2px 12px rgba(0,0,0,0.07)", transition: "all 0.2s" }}>
-                                                    <div style={{ aspectRatio: "1/1", position: "relative", overflow: "hidden", background: A.bgPage }}>
-                                                        <img src={m.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block", filter: on ? "none" : "grayscale(40%)", transition: "filter 0.2s ease" }} />
-                                                        {m.type === "video" && on && (
-                                                            <div style={{ position: "absolute", inset: 0, display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "none" }}>
-                                                                <div style={{ width: 56, height: 56, borderRadius: "50%", background: "rgba(0,0,0,0.55)", backdropFilter: "blur(4px)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 2px 12px rgba(0,0,0,0.3)" }}>
-                                                                    <svg width="22" height="22" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
-                                                                </div>
-                                                            </div>
-                                                        )}
-                                                        {m.type === "video" && (
-                                                            <div style={{ position: "absolute", top: 12, right: 12, padding: "4px 10px", borderRadius: 100, background: "rgba(0,0,0,0.6)", backdropFilter: "blur(4px)" }}>
-                                                                <span style={{ fontSize: 12, fontWeight: 600, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{m.duration}</span>
-                                                            </div>
-                                                        )}
-                                                        {/* Selection indicator — top-left, matches location card save-state visual */}
-                                                        <div style={{ position: "absolute", top: 12, left: 12, width: 32, height: 32, borderRadius: "50%", background: on ? A.brand : "rgba(255,255,255,0.95)", display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.2s ease", boxShadow: on ? "0 4px 14px " + A.brand + "60" : "0 2px 8px rgba(0,0,0,0.18)" }}>
-                                                            {on ? (
-                                                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3.2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                            ) : (
-                                                                <div style={{ width: 18, height: 18, borderRadius: "50%", border: "1.5px solid " + A.foggy }} />
-                                                            )}
-                                                        </div>
-                                                    </div>
-                                                    {/* Meta banner — matches map location card banner */}
-                                                    <div style={{ padding: "12px 16px", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 10 }}>
-                                                        <div style={{ flex: 1, minWidth: 0, display: "flex", alignItems: "center", gap: 8 }}>
-                                                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                            <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 2 }}>
-                                                                <span style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1.2, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{m.location}</span>
-                                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1 }}>{m.time}  ·  {m.type === "video" ? "Video" : "Photo"}</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                )}
-
-                                {/* === BROADCASTS PANEL — matches location-card broadcast row pattern (40×40 icon circle, uppercase category label) === */}
-                                {editTab === "Broadcasts" && (
-                                    <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                        {DAY_SUMMARY.broadcasts.map((b, i) => {
-                                            const c = BROADCAST_COLORS[b.cat] || A.brand;
-                                            const on = draftBroadcasts.has(i);
-                                            return (
-                                                <div key={i} onClick={() => toggleBroadcast(i)} style={{ display: "flex", alignItems: "flex-start", gap: 12, padding: "14px 16px", cursor: "pointer", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)", transition: "all 0.15s" }}>
-                                                    <div style={{ width: 40, height: 40, borderRadius: "50%", background: c + "12", border: "1.5px solid " + c + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                        {b.cat === "Headsup" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /></svg>}
-                                                        {b.cat === "Food" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /></svg>}
-                                                        {b.cat === "Crowds" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>}
-                                                        {b.cat === "Rides" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /></svg>}
-                                                        {b.cat === "Weather" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /></svg>}
-                                                    </div>
-                                                    <div style={{ flex: 1, minWidth: 0 }}>
-                                                        <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
-                                                            <span style={{ fontSize: 11, fontWeight: 700, color: c, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 }}>{b.cat}</span>
-                                                            <span style={{ fontSize: 11, color: A.border, fontFamily: F }}>·</span>
-                                                            <span style={{ fontSize: 11, color: A.foggy, fontFamily: F }}>{b.time}</span>
-                                                        </div>
-                                                        <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.25, marginBottom: 3 }}>{b.venue}</span>
-                                                        <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1.45, display: "block" }}>{b.note}</span>
-                                                    </div>
-                                                    <div onClick={(e) => { e.stopPropagation(); toggleBroadcast(i); }} style={{ width: 28, height: 28, borderRadius: "50%", background: on ? A.brand : A.bg, border: on ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, cursor: "pointer", boxShadow: on ? "0 2px 8px " + A.brand + "55" : "none", transition: "all 0.15s", marginTop: 2 }}>{on && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>}</div>
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                )}
-
-                                {/* === STATS PANEL — card rows with prominent number + unit === */}
-                                {/* Stats tab removed per design direction */}
-
-                            </div>
-                        </div>
-                        {/* === STICKY FOOTER — single primary pill matching Directions Start button === */}
-                        <div style={{ flexShrink: 0, padding: "12px 16px calc(env(safe-area-inset-bottom, 8px) + 14px)", background: A.bg, boxShadow: "0 -6px 20px rgba(0,0,0,0.08)" }}>
-                            <button onClick={shareAndPublish} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, boxSizing: "border-box" }}>
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" /><polyline points="16 6 12 2 8 6" /><line x1="12" y1="2" x2="12" y2="15" /></svg>
-                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.2, lineHeight: 1 }}>Share this day</span>
-                            </button>
-                        </div>
-                    </div>
-                );
-            })()}
-
-            {/* === PUBLISH SCREEN — Strava-style share/post flow === */}
-            {showPublishScreen && (() => {
-                const glassCard = { borderRadius: 22, background: "linear-gradient(135deg, rgba(255,255,255,0.72) 0%, rgba(255,255,255,0.52) 50%, rgba(255,255,255,0.64) 100%)", backdropFilter: "blur(28px) saturate(180%) brightness(1.06)", WebkitBackdropFilter: "blur(28px) saturate(180%) brightness(1.06)", boxShadow: "inset 0 1.5px 0 rgba(255,255,255,0.85), 0 4px 24px rgba(0,0,0,0.06)", border: "1px solid rgba(0,0,0,0.04)" };
-                const sectionHeader = { display: "flex", alignItems: "baseline", justifyContent: "space-between", padding: "0 2px 10px" };
-                const sectionLabel = { fontSize: 13, fontWeight: 700, color: A.hof, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.8 };
-                const sectionMeta = { fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F };
-                const me = getUser(1); // current user — Mike Torres in mock data
-
-                // Visibility options with sub-description. Followers is default.
-                const VIS_OPTS = [
-                    { id: "Followers", label: "Followers", desc: "People who follow you", icon: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg> },
-                    { id: "Public", label: "Public", desc: "Anyone on DRFT", icon: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" /></svg> },
-                    { id: "Private", label: "Only you", desc: "Just saved to your library", icon: <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2" /><path d="M7 11V7a5 5 0 0 1 10 0v4" /></svg> },
-                ];
-
-                const tagUser = (id) => setPublishTaggedUsers(prev => prev.includes(id) ? prev.filter(x => x !== id) : [...prev, id]);
-
-                const publishPost = () => {
-                    const newSummary = {
-                        id: "summary_" + Date.now(),
-                        userId: 1,
-                        caption: publishCaption.trim(),
-                        tagged: [...publishTaggedUsers],
-                        visibility: publishVisibility,
-                        publishedAt: "just now",
-                    };
-                    setPublishedSummaries(prev => [newSummary, ...prev]);
-                    // Reset publish state.
-                    setPublishCaption("");
-                    setPublishTaggedUsers([]);
-                    setPublishVisibility("Followers");
-                    setShowPublishScreen(false);
-                    // Return user to feed (not Day Summary) — the published post is the payoff.
-                    setActiveCat("All");
-                    setBottomNavHidden(false);
-                    setToastMsg(publishVisibility === "Private" ? "Saved to your library" : "Posted to DRFT");
-                    setTimeout(() => setToastMsg(null), 2400);
-                };
-
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 97, background: A.bgPage, display: "flex", flexDirection: "column", overflow: "hidden" }}>
-                        {/* === FLOATING TOP CHROME — X button + "Share your day" pill (matches Day Summary pattern) === */}
-                        <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 3, paddingTop: "calc(env(safe-area-inset-top, 12px) + 12px)", paddingLeft: 14, paddingRight: 14, pointerEvents: "none" }}>
-                            <div style={{ display: "flex", alignItems: "center", gap: 10, position: "relative", height: 44, pointerEvents: "auto" }}>
-                                <button onClick={() => { setShowPublishScreen(false); setShowEditSummary(true); }} style={{ all: "unset", cursor: "pointer", width: 44, height: 44, borderRadius: "50%", background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                                </button>
-                                <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", padding: "6px 16px", borderRadius: 100, background: A.bg, boxShadow: "0 4px 16px rgba(0,0,0,0.12)" }}>
-                                    <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", lineHeight: 1.15, letterSpacing: -0.2 }}>Share your day</span>
-                                </div>
-                                <div style={{ flex: 1 }} />
-                                <div style={{ width: 44, height: 44, flexShrink: 0 }} />
-                            </div>
-                        </div>
-
-                        {/* Scrollable body — matches Day Summary padding-top to clear floating chrome */}
-                        <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", background: A.bgPage, paddingTop: "calc(env(safe-area-inset-top, 12px) + 72px)", paddingBottom: 110 }}>
-
-                            {/* Preview card — condensed version of the Shared Summary hero. 4:5 aspect for a confident, shareable tile */}
-                            <div style={{ margin: "0 16px 14px" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Preview</span>
-                                    <span style={sectionMeta}>What others will see</span>
-                                </div>
-                                <div style={{ position: "relative", width: "100%", aspectRatio: "4/5", borderRadius: 22, overflow: "hidden", background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)", boxShadow: "0 4px 20px rgba(30,58,95,0.22)" }}>
-                                    {/* Decorative glows */}
-                                    <div style={{ position: "absolute", top: -60, right: -60, width: 220, height: 220, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                                    <div style={{ position: "absolute", bottom: -80, left: -80, width: 220, height: 220, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.12) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-
-                                    {/* Trace — centered, tight viewBox like the fullscreen viewer */}
-                                    <svg viewBox="20 95 255 245" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                        <defs>
-                                            <filter id="pub-preview-glow" x="-20%" y="-20%" width="140%" height="140%">
-                                                <feGaussianBlur stdDeviation="1.5" result="blur" />
-                                                <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                            </filter>
-                                        </defs>
-                                        {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => (
-                                            <polyline key={"bg-" + i} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
-                                        ))}
-                                        {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => {
-                                            const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                            return <polyline key={i} points={seg.points} fill="none" stroke={color} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" filter="url(#pub-preview-glow)" style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (i * 0.1) + "s infinite" }} />;
-                                        })}
-                                        {DAY_SUMMARY.poi_stamps.filter(p => p.icon === "ride").slice(0, 5).map((poi, i) => (
-                                            <g key={i} style={{ animation: "fadeInDot 0.4s ease-out " + (2 + i * 0.2) + "s backwards" }}>
-                                                <circle cx={poi.x} cy={poi.y} r="5.5" fill="#FFF" opacity="0.95" />
-                                                <circle cx={poi.x} cy={poi.y} r="2" fill={A.brand} />
-                                            </g>
-                                        ))}
-                                    </svg>
-
-                                    {/* Top-right Preview badge */}
-                                    <div style={{ position: "absolute", top: 14, right: 14, display: "inline-flex", alignItems: "center", gap: 5, padding: "4px 10px 4px 8px", borderRadius: 100, background: "rgba(0,0,0,0.35)", backdropFilter: "blur(10px)" }}>
-                                        <div style={{ width: 5, height: 5, borderRadius: "50%", background: "#FF5A5F", animation: "tracePulse 2s ease-out infinite" }} />
-                                        <span style={{ fontSize: 10, fontWeight: 600, color: "#FFF", fontFamily: F, letterSpacing: 0.3, lineHeight: 1 }}>PREVIEW</span>
-                                    </div>
-
-                                    {/* Bottom-left DRFT wordmark */}
-                                    <div style={{ position: "absolute", bottom: 16, left: 18, pointerEvents: "none" }}>
-                                        <span style={{ fontSize: 18, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 1.2, lineHeight: 1, textShadow: "0 1px 6px rgba(0,0,0,0.35)" }}>DRFT</span>
-                                    </div>
-                                    {/* Bottom-right stats */}
-                                    <div style={{ position: "absolute", bottom: 16, right: 18, display: "flex", alignItems: "center", gap: 10, pointerEvents: "none" }}>
-                                        <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                            <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length}</span>
-                                            <span style={{ fontSize: 9, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>places</span>
-                                        </div>
-                                        <div style={{ width: 1, height: 12, background: "rgba(255,255,255,0.25)" }} />
-                                        <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                            <span style={{ fontSize: 13, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{DAY_SUMMARY.stats.distance_mi}</span>
-                                            <span style={{ fontSize: 9, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>mi</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Caption */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Caption</span>
-                                    {publishCaption.length > 0 && <span style={{ ...sectionMeta, color: publishCaption.length > 250 ? "#C2712A" : A.foggy }}>{publishCaption.length}/280</span>}
-                                </div>
-                                <div style={{ padding: "14px 16px", display: "flex", alignItems: "flex-start", gap: 12, background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                    <img src={me.img} alt="" style={{ width: 36, height: 36, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                    <textarea
-                                        value={publishCaption}
-                                        onChange={e => setPublishCaption(e.target.value)}
-                                        placeholder="What was memorable about your day?"
-                                        maxLength={280}
-                                        rows={3}
-                                        style={{ flex: 1, border: "none", outline: "none", background: "transparent", fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F, lineHeight: 1.5, resize: "none", padding: "7px 0 0", minHeight: 56 }}
-                                    />
-                                </div>
-                            </div>
-
-                            {/* Tag people */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Tag people</span>
-                                    {publishTaggedUsers.length > 0 && <span style={sectionMeta}>{publishTaggedUsers.length} tagged</span>}
-                                </div>
-                                <button onClick={() => { setPublishTagSearch(""); setShowPublishTagSheet(true); }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "14px 16px", display: "flex", alignItems: "center", gap: 12, boxSizing: "border-box", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                    <div style={{ width: 36, height: 36, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="8.5" cy="7" r="4" /><line x1="20" y1="8" x2="20" y2="14" /><line x1="17" y1="11" x2="23" y2="11" /></svg>
-                                    </div>
-                                    <div style={{ flex: 1, minWidth: 0, textAlign: "left" }}>
-                                        {publishTaggedUsers.length === 0 ? (
-                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.foggy, fontFamily: F }}>Add people who were with you</span>
-                                        ) : (
-                                            <div style={{ display: "flex", alignItems: "center", gap: 8, minWidth: 0 }}>
-                                                <div style={{ display: "flex" }}>
-                                                    {publishTaggedUsers.slice(0, 3).map((id, i) => { const u = getUser(id); if (!u) return null; return <img key={id} src={u.img} alt="" style={{ width: 24, height: 24, borderRadius: "50%", objectFit: "cover", border: "2px solid " + A.bg, marginLeft: i > 0 ? -8 : 0 }} />; })}
-                                                </div>
-                                                <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
-                                                    {publishTaggedUsers.slice(0, 2).map(id => getUser(id)?.handle || "").filter(Boolean).join(", ")}
-                                                    {publishTaggedUsers.length > 2 ? " +" + (publishTaggedUsers.length - 2) : ""}
-                                                </span>
-                                            </div>
-                                        )}
-                                    </div>
-                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><polyline points="9 18 15 12 9 6" /></svg>
-                                </button>
-                            </div>
-
-                            {/* Visibility */}
-                            <div style={{ margin: "18px 16px 0" }}>
-                                <div style={sectionHeader}>
-                                    <span style={sectionLabel}>Who can see this</span>
-                                </div>
-                                <div style={{ display: "flex", flexDirection: "column", overflow: "hidden", background: A.bg, borderRadius: 22, boxShadow: "0 2px 12px rgba(0,0,0,0.07)" }}>
-                                    {VIS_OPTS.map((opt, i) => {
-                                        const active = publishVisibility === opt.id;
-                                        return (
-                                            <button key={opt.id} onClick={() => setPublishVisibility(opt.id)} style={{ all: "unset", cursor: "pointer", padding: "14px 16px", display: "flex", alignItems: "center", gap: 12, borderTop: i > 0 ? "1px solid rgba(0,0,0,0.06)" : "none", boxSizing: "border-box" }}>
-                                                <div style={{ width: 36, height: 36, borderRadius: "50%", background: active ? A.brand + "12" : A.bgPage, border: active ? "1.5px solid " + A.brand + "25" : "1.5px solid transparent", color: active ? A.brand : A.foggy, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, transition: "all 0.15s" }}>
-                                                    {opt.icon}
-                                                </div>
-                                                <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 2 }}>
-                                                    <span style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1.2 }}>{opt.label}</span>
-                                                    <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.2 }}>{opt.desc}</span>
-                                                </div>
-                                                {/* Checkmark indicator — matches Edit flow select style */}
-                                                <div style={{ width: 28, height: 28, borderRadius: "50%", background: active ? A.brand : "transparent", border: active ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, boxShadow: active ? "0 2px 8px " + A.brand + "55" : "none", transition: "all 0.15s" }}>
-                                                    {active && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                                </div>
-                                            </button>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-
-                            <div style={{ height: 20 }} />
-                        </div>
-
-                        {/* Sticky footer — matches Day Summary / Directions / Edit pattern */}
-                        <div style={{ flexShrink: 0, padding: "12px 16px calc(env(safe-area-inset-bottom, 8px) + 14px)", background: A.bg, boxShadow: "0 -6px 20px rgba(0,0,0,0.08)" }}>
-                            <button onClick={publishPost} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)", display: "flex", alignItems: "center", justifyContent: "center", gap: 10, boxSizing: "border-box" }}>
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3, lineHeight: 1 }}>{publishVisibility === "Private" ? "Save to library" : "Post to DRFT"}</span>
-                            </button>
-                        </div>
-
-                        {/* Tag people sheet — unchanged, but kept consistent styling */}
-                        {showPublishTagSheet && (
-                            <>
-                                <div onClick={() => setShowPublishTagSheet(false)} style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.45)", zIndex: 10 }} />
-                                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, zIndex: 11, background: A.bg, borderRadius: "24px 24px 0 0", paddingBottom: "calc(env(safe-area-inset-bottom, 8px) + 16px)", animation: "slideUp 0.32s cubic-bezier(0.32,0.72,0,1)", maxHeight: "80%", display: "flex", flexDirection: "column" }}>
-                                    <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 0", flexShrink: 0 }}>
-                                        <div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} />
-                                    </div>
-                                    <div style={{ padding: "14px 20px 14px", display: "flex", alignItems: "center", flexShrink: 0, gap: 10 }}>
-                                        <div style={{ width: 32, height: 32, flexShrink: 0 }} />
-                                        <span style={{ flex: 1, textAlign: "center", fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", lineHeight: 1 }}>Tag people</span>
-                                        <button onClick={() => setShowPublishTagSheet(false)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, flexShrink: 0 }}>
-                                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                                        </button>
-                                    </div>
-                                    <div style={{ padding: "0 16px 12px", flexShrink: 0 }}>
-                                        <div style={{ display: "flex", alignItems: "center", gap: 8, padding: "10px 14px", borderRadius: 100, background: A.bgPage }}>
-                                            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2.2"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
-                                            <input value={publishTagSearch} onChange={e => setPublishTagSearch(e.target.value)} placeholder="Search people" style={{ all: "unset", flex: 1, fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F }} />
-                                        </div>
-                                    </div>
-                                    <div style={{ flex: 1, overflowY: "auto", padding: "0 12px 8px", WebkitOverflowScrolling: "touch" }}>
-                                        {USERS.filter(u => u.id !== 1 && (!publishTagSearch || u.name.toLowerCase().includes(publishTagSearch.toLowerCase()) || (u.handle && u.handle.toLowerCase().includes(publishTagSearch.toLowerCase())))).map(u => {
-                                            const selected = publishTaggedUsers.includes(u.id);
-                                            return (
-                                                <button key={u.id} onClick={() => tagUser(u.id)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", gap: 12, padding: "10px 12px", width: "100%", boxSizing: "border-box" }}>
-                                                    <img src={u.img} alt="" style={{ width: 42, height: 42, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                                    <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 1 }}>
-                                                        <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, lineHeight: 1.2 }}>{u.name}</span>
-                                                        <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.2 }}>{u.handle}</span>
-                                                    </div>
-                                                    <div style={{ width: 28, height: 28, borderRadius: "50%", border: selected ? "none" : "1.5px solid " + A.border, background: selected ? A.brand : "transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, boxShadow: selected ? "0 2px 8px " + A.brand + "55" : "none", transition: "all 0.15s" }}>
-                                                        {selected && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>}
-                                                    </div>
-                                                </button>
-                                            );
-                                        })}
-                                    </div>
-                                    <div style={{ flexShrink: 0, padding: "10px 16px 0" }}>
-                                        <button onClick={() => setShowPublishTagSheet(false)} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "14px 0", borderRadius: 100, background: "linear-gradient(135deg, " + A.brand + ", #3F4E5F)", boxShadow: "0 6px 22px rgba(30,58,95,0.45)", display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
-                                            <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: 0.3, lineHeight: 1 }}>Done{publishTaggedUsers.length > 0 ? " · " + publishTaggedUsers.length : ""}</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </>
-                        )}
-                    </div>
-                );
-            })()}
 
 
             {/* === SHARED SUMMARY VIEWER — Strava-style: fullscreen media behind, draggable bottom sheet with details === */}
-            {viewingSharedSummary && (() => {
-                const sum = viewingSharedSummary;
-                const author = getUser(sum.userId);
-                if (!author) return null;
-                const SEG_COLORS = { walking: "#4A90E2", queueing: "#C2712A", riding: "#22A84A", dining: "#E0A84A", idle: A.foggy };
-                const BROADCAST_COLORS = { Headsup: "#C2712A", Food: "#C2712A", Crowds: "#4A90E2", Rides: "#22A84A", Weather: "#8B5CF6" };
-                const glassCard = { borderRadius: 22, background: "linear-gradient(135deg, rgba(255,255,255,0.72) 0%, rgba(255,255,255,0.52) 50%, rgba(255,255,255,0.64) 100%)", backdropFilter: "blur(28px) saturate(180%) brightness(1.06)", WebkitBackdropFilter: "blur(28px) saturate(180%) brightness(1.06)", boxShadow: "inset 0 1.5px 0 rgba(255,255,255,0.85), 0 4px 24px rgba(0,0,0,0.06)", border: "1px solid rgba(0,0,0,0.04)" };
-                const solidCard = { borderRadius: 22, background: A.bg, boxShadow: "0 4px 20px rgba(0,0,0,0.08)", border: "1px solid rgba(0,0,0,0.05)" };
-                const sectionTitle = { fontSize: 16, fontWeight: 600, color: A.dark, fontFamily: F, display: "block" };
-
-                // Carousel slides: trace + each moment. Background swipeable behind the card.
-                const keptMoments = DAY_SUMMARY.moments.filter((_, i) => !includedMoments || includedMoments.has(i));
-                const slides = [{ type: "trace" }, ...keptMoments.map(m => ({ type: "moment", moment: m }))];
-                const slideKey = "view-" + sum.id;
-                const idx = Math.min(imgIndex[slideKey] || 0, slides.length - 1);
-                const curSlide = slides[idx];
-                const bgSwipe = (e) => { const dx = e.changedTouches[0].clientX - (e.currentTarget._touchX || 0); const dy = e.changedTouches[0].clientY - (e.currentTarget._touchY || 0); if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) && slides.length > 1) { setImgIndex(prev => { const cur = prev[slideKey] || 0; const next = dx < 0 ? Math.min(cur + 1, slides.length - 1) : Math.max(cur - 1, 0); return { ...prev, [slideKey]: next }; }); } };
-
-                // Respect curation
-                const keptRides = DAY_SUMMARY.rides.filter(r => !includedPlaces || includedPlaces.has("ride:" + r.name));
-                const keptDining = DAY_SUMMARY.dining.filter(d => !includedPlaces || includedPlaces.has("dine:" + d.name));
-                const keptBroadcasts = DAY_SUMMARY.broadcasts.filter((_, i) => !includedBroadcasts || includedBroadcasts.has(i));
-
-                // Sheet mechanics:
-                // sheetY = px of card visible from bottom. At peek it's tight to the peek-content height.
-                // Full free-form drag — card tracks finger. Dim factor interpolates darkness behind the card.
-                const windowH = typeof window !== "undefined" ? window.innerHeight : 800;
-                const maxSheetY = windowH - 60;
-                // Peek height — exact measurement of the peek block so expanded content never bleeds through.
-                // handle(20) + wrapper top pad(4) + user row 40+10(50) + caption if present(31) + tagged if present(32) + engagement row(40) + wrapper bottom pad(12) + 4px safety
-                // Subtract 50px so the peek card sits lower on the screen (user requested).
-                const peekContentH = 20 + 4 + 50 + (sum.caption ? 31 : 0) + (sum.tagged.length > 0 ? 32 : 0) + 40 + 12 + 4 - 50;
-                const peekSheetY = peekContentH;
-                const dragRange = maxSheetY - peekSheetY;
-                // Clamp current sheetY to valid range (handles initial render before drag)
-                const clampedSheetY = Math.max(peekSheetY, Math.min(maxSheetY, sheetY));
-                const dimFactor = Math.max(0, Math.min(1, (clampedSheetY - peekSheetY) / dragRange));
-                const sheetIsExpanded = clampedSheetY > peekSheetY + 60;
-
-                return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 95, background: "#000", overflow: "hidden" }}>
-
-                        {/* === FULLSCREEN MEDIA BACKGROUND — trace or moment, swipeable === */}
-                        <div style={{ position: "absolute", inset: 0, overflow: "hidden" }}
-                            onTouchStart={e => { e.currentTarget._touchX = e.touches[0].clientX; e.currentTarget._touchY = e.touches[0].clientY; }}
-                            onTouchEnd={bgSwipe}>
-
-                            {curSlide.type === "trace" && (
-                                <div style={{ position: "absolute", inset: 0, background: "linear-gradient(160deg, " + A.brand + " 0%, #3F4E5F 55%, #2A3544 100%)" }}>
-                                    <div style={{ position: "absolute", top: -80, right: -80, width: 340, height: 340, borderRadius: "50%", background: "radial-gradient(circle, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 70%)", pointerEvents: "none" }} />
-                                    <div style={{ position: "absolute", bottom: -100, left: -100, width: 300, height: 300, borderRadius: "50%", background: "radial-gradient(circle, rgba(194,113,42,0.12) 0%, rgba(194,113,42,0) 70%)", pointerEvents: "none" }} />
-                                    <svg viewBox="20 95 255 245" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style={{ position: "absolute", inset: 0, display: "block" }}>
-                                        <defs>
-                                            <filter id={"vw-glow-" + sum.id} x="-20%" y="-20%" width="140%" height="140%">
-                                                <feGaussianBlur stdDeviation="1.5" result="blur" />
-                                                <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-                                            </filter>
-                                        </defs>
-                                        {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => (
-                                            <polyline key={"bg-" + i} points={seg.points} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
-                                        ))}
-                                        {DAY_SUMMARY.route_segments.filter(s => s.type !== "dining").map((seg, i) => {
-                                            const color = seg.type === "riding" ? "#FFD27F" : seg.type === "queueing" ? "#E8A658" : "#9EC5E8";
-                                            return <polyline key={i} points={seg.points} fill="none" stroke={color} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" filter={"url(#vw-glow-" + sum.id + ")"} style={{ strokeDasharray: 800, strokeDashoffset: 800, animation: "drawRoute 5s ease-out " + (i * 0.1) + "s infinite" }} />;
-                                        })}
-                                        {DAY_SUMMARY.poi_stamps.filter(p => p.icon === "ride").slice(0, 5).map((poi, i) => (
-                                            <g key={i} style={{ animation: "fadeInDot 0.4s ease-out " + (2 + i * 0.2) + "s backwards" }}>
-                                                <circle cx={poi.x} cy={poi.y} r="5.5" fill="#FFF" opacity="0.95" />
-                                                <circle cx={poi.x} cy={poi.y} r="2" fill={A.brand} />
-                                            </g>
-                                        ))}
-                                    </svg>
-                                    {/* DRFT wordmark — bottom-left of the fullscreen canvas, positioned above the peek sheet */}
-                                    <div style={{ position: "absolute", bottom: peekSheetY + 20, left: 20, pointerEvents: "none" }}>
-                                        <span style={{ fontSize: 22, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: 1.4, lineHeight: 1, textShadow: "0 1px 10px rgba(0,0,0,0.4)" }}>DRFT</span>
-                                    </div>
-                                    {/* Stats — right side, same row as DRFT wordmark. Plain text, no background. */}
-                                    <div style={{ position: "absolute", bottom: peekSheetY + 20, right: 20, display: "flex", alignItems: "center", gap: 12, pointerEvents: "none" }}>
-                                        <div style={{ display: "flex", alignItems: "baseline", gap: 4 }}>
-                                            <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length}</span>
-                                            <span style={{ fontSize: 10, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>places</span>
-                                        </div>
-                                        <div style={{ width: 1, height: 14, background: "rgba(255,255,255,0.25)" }} />
-                                        <div style={{ display: "flex", alignItems: "baseline", gap: 3 }}>
-                                            <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F, letterSpacing: -0.2, lineHeight: 1, fontVariantNumeric: "tabular-nums", textShadow: "0 1px 8px rgba(0,0,0,0.4)" }}>{DAY_SUMMARY.stats.distance_mi}</span>
-                                            <span style={{ fontSize: 10, fontWeight: 500, color: "rgba(255,255,255,0.72)", fontFamily: F, letterSpacing: 0.3, lineHeight: 1, textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,0.4)" }}>mi</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            )}
-
-                            {curSlide.type === "moment" && (
-                                <div style={{ position: "absolute", inset: 0, background: "#000" }}>
-                                    <img src={curSlide.moment.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                    {curSlide.moment.type === "video" && (
-                                        <div style={{ position: "absolute", top: "38%", left: "50%", transform: "translate(-50%, -50%)", width: 64, height: 64, borderRadius: "50%", background: "rgba(0,0,0,0.55)", backdropFilter: "blur(6px)", display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "none" }}>
-                                            <svg width="28" height="28" viewBox="0 0 24 24" fill="#FFF"><path d="M8 5v14l11-7z" /></svg>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-
-                            {/* Dim overlay — darkens as card is dragged up */}
-                            <div style={{ position: "absolute", inset: 0, background: "rgba(0,0,0," + (dimFactor * 0.5).toFixed(2) + ")", pointerEvents: "none", transition: sheetDragging ? "none" : "background 0.3s ease" }} />
-                        </div>
-
-                        {/* === TOP CHROME — close X, pagination dots, overflow menu === */}
-                        <div style={{ position: "absolute", top: 0, left: 0, right: 0, zIndex: 4, padding: "calc(env(safe-area-inset-top, 12px) + 8px) 16px 0", display: "flex", alignItems: "center", justifyContent: "space-between", pointerEvents: "none" }}>
-                            <button onClick={() => setViewingSharedSummary(null)} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center", pointerEvents: "auto" }}>
-                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
-                            </button>
-                            {slides.length > 1 && (
-                                <div style={{ display: "flex", gap: 4, pointerEvents: "none" }}>
-                                    {slides.map((_, di) => (
-                                        <div key={di} style={{ width: di === idx ? 18 : 6, height: 6, borderRadius: 3, background: di === idx ? "#FFF" : "rgba(255,255,255,0.4)", transition: "all 0.2s", boxShadow: "0 1px 3px rgba(0,0,0,0.3)" }} />
-                                    ))}
-                                </div>
-                            )}
-                            <div style={{ display: "flex", alignItems: "center", gap: 8, pointerEvents: "auto" }}>
-                                {/* Save Route removed — save lives in the engagement row of the bottom card */}
-                                <button onClick={() => setToastMsg("Post options — coming soon")} style={{ all: "unset", cursor: "pointer", width: 36, height: 36, borderRadius: "50%", background: "rgba(0,0,0,0.45)", backdropFilter: "blur(10px)", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="#FFF"><circle cx="5" cy="12" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="19" cy="12" r="2" /></svg>
-                                </button>
-                            </div>
-                        </div>
-
-                        {/* === BOTTOM SHEET — draggable card with details === */}
-                        <div style={{
-                            position: "absolute",
-                            bottom: 0,
-                            left: 0,
-                            right: 0,
-                            zIndex: 5,
-                            height: clampedSheetY,
-                            background: "#FFF",
-                            borderRadius: "24px 24px 0 0",
-                            boxShadow: "0 -8px 40px rgba(0,0,0,0.25)",
-                            transition: sheetDragging ? "none" : "height 0.3s cubic-bezier(0.32, 0.72, 0, 1)",
-                            display: "flex",
-                            flexDirection: "column",
-                            overflow: "hidden"
-                        }}>
-
-                            {/* Drag handle — grab area for pulling card up/down */}
-                            <div
-                                onTouchStart={e => { e.currentTarget._startY = e.touches[0].clientY; e.currentTarget._startSheetY = sheetY; setSheetDragging(true); }}
-                                onTouchMove={e => { const dy = (e.currentTarget._startY || 0) - e.touches[0].clientY; const newY = Math.max(peekSheetY, Math.min(maxSheetY, (e.currentTarget._startSheetY || peekSheetY) + dy)); setSheetY(newY); }}
-                                onTouchEnd={e => {
-                                    setSheetDragging(false);
-                                    // Snap: if user dragged far enough upward, snap to expanded; else snap back to peek unless they held past threshold
-                                    const dy = (e.currentTarget._startY || 0) - e.changedTouches[0].clientY;
-                                    const velocity = Math.abs(dy);
-                                    if (dy > 80 || sheetY > peekSheetY + dragRange * 0.4) setSheetY(maxSheetY);
-                                    else if (dy < -80 || sheetY < peekSheetY + 80) setSheetY(peekSheetY);
-                                    else setSheetY(sheetIsExpanded ? maxSheetY : peekSheetY);
-                                }}
-                                style={{ padding: "10px 0 6px", display: "flex", justifyContent: "center", cursor: "grab", flexShrink: 0, touchAction: "none" }}>
-                                <div style={{ width: 40, height: 4, borderRadius: 2, background: A.borderDark }} />
-                            </div>
-
-                            {/* === SHEET CONTENT === */}
-                            <div style={{ flex: 1, overflowY: sheetIsExpanded ? "auto" : "hidden", WebkitOverflowScrolling: "touch" }}>
-
-                                {/* --- PEEK CONTENT: always visible. Avatar + handle + Follow + location + caption + engagement. Solid white so expanded content never bleeds through. --- */}
-                                <div style={{ padding: "4px 16px 12px", background: "#FFF", position: "relative", zIndex: 2 }}>
-
-                                    {/* User row */}
-                                    <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 10 }}>
-                                        <img src={author.img} alt="" onClick={() => { setViewingSharedSummary(null); setProfileUserId(author.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }} style={{ width: 40, height: 40, borderRadius: "50%", objectFit: "cover", cursor: "pointer", flexShrink: 0, border: "2px solid rgba(255,255,255,0.2)" }} />
-                                        <div style={{ flex: 1, minWidth: 0 }} onClick={() => { setViewingSharedSummary(null); setProfileUserId(author.id); setProfileTab("Posts"); setExpandedBio(false); setProfileScrolled(false); }}>
-                                            <div style={{ display: "flex", alignItems: "center", gap: 5, minWidth: 0, cursor: "pointer" }}>
-                                                <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1.2, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{author.handle}</span>
-                                                {author.verified && <svg width="13" height="13" viewBox="0 0 24 24" fill={A.brand} style={{ flexShrink: 0 }}><path d="M12 2l2.39 3.46L18.66 6l-.61 4.24L21 13.5l-3.07 2.97.5 4.25L14.12 19 12 22.23 9.88 19l-4.31 1.72.5-4.25L3 13.5l2.95-3.26L5.34 6l4.27-.54z" /><polyline points="9 12 11 14 15 10" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" /></svg>}
-                                                <span style={{ fontSize: 13, color: A.foggy, fontFamily: F }}>· {sum.publishedAt}</span>
-                                            </div>
-                                            <div style={{ display: "flex", alignItems: "center", gap: 4, marginTop: 2 }}>
-                                                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1.2 }}>{DAY_SUMMARY.park} · Walt Disney World, FL</span>
-                                            </div>
-                                        </div>
-                                        <button onClick={() => setFollowingAuthor(v => !v)} style={{ all: "unset", cursor: "pointer", padding: "7px 16px", borderRadius: 100, background: followingAuthor ? A.bgPage : A.brand, border: followingAuthor ? "1.5px solid " + A.border : "1.5px solid " + A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, transition: "all 0.2s", boxSizing: "border-box" }}>
-                                            <span style={{ fontSize: 13, fontWeight: 600, color: followingAuthor ? A.dark : "#FFF", fontFamily: F, lineHeight: 1 }}>{followingAuthor ? "Following" : "Follow"}</span>
-                                        </button>
-                                    </div>
-
-                                    {/* Caption — clamped to 1 line by default, tap "more" to expand */}
-                                    {sum.caption && (() => {
-                                        const isLong = sum.caption.length > 50;
-                                        if (!isLong) return (
-                                            <div style={{ marginBottom: 10 }}>
-                                                <span style={{ fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F, lineHeight: 1.45, display: "block" }}>{sum.caption}</span>
-                                            </div>
-                                        );
-                                        if (sharedSumCaptionExpanded) return (
-                                            <div onClick={() => setSharedSumCaptionExpanded(false)} style={{ marginBottom: 10, cursor: "pointer" }}>
-                                                <span style={{ fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F, lineHeight: 1.45, display: "block" }}>
-                                                    {sum.caption}
-                                                    <span style={{ fontWeight: 600, color: A.foggy, marginLeft: 4 }}>less</span>
-                                                </span>
-                                            </div>
-                                        );
-                                        return (
-                                            <div onClick={() => setSharedSumCaptionExpanded(true)} style={{ marginBottom: 10, cursor: "pointer", position: "relative" }}>
-                                                <span style={{ fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F, lineHeight: 1.45, display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical", overflow: "hidden", paddingRight: 46 }}>{sum.caption}</span>
-                                                <span style={{ position: "absolute", bottom: 0, right: 0, paddingLeft: 24, background: "linear-gradient(to right, transparent, " + A.bg + " 30%)", fontWeight: 600, color: A.foggy, fontSize: 14, fontFamily: F, lineHeight: 1.45 }}>more</span>
-                                            </div>
-                                        );
-                                    })()}
-
-                                    {/* Tagged users row */}
-                                    {/* Tagged users row removed per design direction — caption stands alone */}
-
-                                    {/* Engagement row */}
-                                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginTop: 2 }}>
-                                        <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
-                                            <button style={{ all: "unset", cursor: "pointer", padding: "8px 8px 8px 2px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z" /><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
-                                                <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                            </button>
-                                            <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z" /><path d="M17 2h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3" /></svg>
-                                            </button>
-                                            <button onClick={() => setToastMsg("Comments — coming soon")} style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center", gap: 5 }}>
-                                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /></svg>
-                                                <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F }}>0</span>
-                                            </button>
-                                            <button style={{ all: "unset", cursor: "pointer", padding: "8px", display: "flex", alignItems: "center" }}>
-                                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
-                                            </button>
-                                        </div>
-                                        <button style={{ all: "unset", cursor: "pointer", padding: "8px 2px 8px 8px", display: "flex", alignItems: "center" }}>
-                                            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={A.foggy} strokeWidth="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
-                                        </button>
-                                    </div>
-                                </div>
-
-                                {/* --- DIVIDER: visual break between peek and expanded details --- */}
-                                <div style={{ height: 8, background: A.bgPage, borderTop: "1px solid " + A.border }} />
-
-                                {/* --- EXPANDED CONTENT: Day Summary details (only rendered when sheet can be scrolled) --- */}
-                                <div style={{ background: A.bgPage }}>
-
-                                    {/* Park hero */}
-                                    <div style={{ padding: "22px 20px 20px", background: A.bg, borderBottom: "1px solid " + A.border }}>
-                                        <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 12 }}>
-                                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                            <span style={{ fontSize: 12, fontWeight: 600, color: A.brand, fontFamily: F, letterSpacing: 0.3 }}>Magic Kingdom  ·  Walt Disney World</span>
-                                        </div>
-                                        <span style={{ fontSize: 30, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1.1, display: "block", marginBottom: 8, letterSpacing: -0.5 }}>{DAY_SUMMARY.park}</span>
-                                        <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 14 }}>
-                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>{DAY_SUMMARY.date}</span>
-                                            <div style={{ width: 3, height: 3, borderRadius: "50%", background: A.foggy }} />
-                                            <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F }}>{DAY_SUMMARY.entered_at} – {DAY_SUMMARY.exited_at}</span>
-                                        </div>
-                                        {/* Achievement chip removed per design direction */}
-                                    </div>
-
-                                    {/* Route map */}
-                                    <div style={{ padding: "20px 10px 0" }}>
-                                        <div style={{ padding: "0 8px", marginBottom: 12, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-                                            <span style={sectionTitle}>Their route</span>
-                                            <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{DAY_SUMMARY.stats.distance_mi} mi walked</span>
-                                        </div>
-                                        <div style={{ position: "relative", width: "100%", aspectRatio: "4/3", overflow: "hidden", ...solidCard }}>
-                                            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(165deg, #F0F4EC 0%, #E2EAD8 100%)" }} />
-                                            <svg viewBox="0 0 320 240" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" style={{ position: "relative", zIndex: 1, display: "block" }}>
-                                                <defs>
-                                                    <filter id={"vw-castle-shadow-" + sum.id} x="-20%" y="-20%" width="140%" height="140%">
-                                                        <feDropShadow dx="0" dy="1.5" stdDeviation="1.2" floodOpacity="0.18" />
-                                                    </filter>
-                                                    <linearGradient id={"vw-water-grad-" + sum.id} x1="0" y1="0" x2="0" y2="1">
-                                                        <stop offset="0%" stopColor="#C8DCE8" />
-                                                        <stop offset="100%" stopColor="#B5CDDC" />
-                                                    </linearGradient>
-                                                </defs>
-                                                <path d="M -10 90 Q 20 100 40 120 Q 50 135 35 160 Q 15 180 -10 175 Z" fill={"url(#vw-water-grad-" + sum.id + ")"} opacity="0.75" />
-                                                <g opacity="0.6">
-                                                    <path d="M 155 30 Q 195 28 240 40 Q 260 55 250 75 Q 220 85 180 80 Q 150 72 148 50 Z" fill="#F4E8D2" />
-                                                    <path d="M 45 75 Q 90 62 140 78 Q 158 100 140 125 Q 85 135 50 120 Q 28 95 45 75 Z" fill="#EDE5D1" />
-                                                    <path d="M 155 110 Q 210 100 275 120 Q 285 145 265 170 Q 215 175 165 160 Q 145 135 155 110 Z" fill="#D9E5ED" />
-                                                    <path d="M 40 155 Q 90 145 145 160 Q 155 185 130 210 Q 75 220 45 205 Q 25 180 40 155 Z" fill="#D7E4D2" />
-                                                </g>
-                                                <g stroke="#FFF" strokeWidth="1.5" strokeDasharray="2 3" opacity="0.55" fill="none" strokeLinecap="round">
-                                                    <path d="M 190 55 Q 180 90 175 120 Q 170 150 170 180" />
-                                                    <path d="M 70 100 Q 120 110 160 130 Q 200 140 260 145" />
-                                                    <path d="M 80 180 Q 130 165 175 160" />
-                                                </g>
-                                                <g fontFamily={F} fontWeight="600" fill={A.foggy} style={{ letterSpacing: 0.8 }}>
-                                                    <text x="200" y="58" textAnchor="middle" fontSize="8" opacity="0.85">MAIN ST</text>
-                                                    <text x="93" y="103" textAnchor="middle" fontSize="8" opacity="0.85">FANTASYLAND</text>
-                                                    <text x="215" y="142" textAnchor="middle" fontSize="8" opacity="0.85">TOMORROWLAND</text>
-                                                    <text x="90" y="185" textAnchor="middle" fontSize="8" opacity="0.85">FRONTIERLAND</text>
-                                                </g>
-                                                <g transform="translate(160, 115)" filter={"url(#vw-castle-shadow-" + sum.id + ")"}>
-                                                    <rect x="-14" y="-8" width="6" height="22" fill="#F5F5F5" stroke="#C2CCD4" strokeWidth="0.5" />
-                                                    <rect x="8" y="-8" width="6" height="22" fill="#F5F5F5" stroke="#C2CCD4" strokeWidth="0.5" />
-                                                    <rect x="-4" y="-14" width="8" height="28" fill="#FAFAFA" stroke="#C2CCD4" strokeWidth="0.5" />
-                                                    <polygon points="-11,-8 -8,-14 -14,-14" fill={A.brand} />
-                                                    <polygon points="11,-8 8,-14 14,-14" fill={A.brand} />
-                                                    <polygon points="0,-24 -4,-14 4,-14" fill={A.brand} />
-                                                    <line x1="0" y1="-24" x2="0" y2="-27" stroke={A.brand} strokeWidth="0.6" />
-                                                    <polygon points="0,-27 3,-26 0,-25" fill="#C2712A" />
-                                                </g>
-                                                {DAY_SUMMARY.route_segments.map((seg, i) => {
-                                                    const remapped = seg.points.split(" ").map(p => { const [x, y] = p.split(","); return x + "," + (parseFloat(y) * 0.667).toFixed(1); }).join(" ");
-                                                    return <polyline key={i} points={remapped} fill="none" stroke={SEG_COLORS[seg.type] || A.foggy} strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" opacity={seg.type === "dining" ? 0 : 0.95} style={{ filter: "drop-shadow(0 1px 1px rgba(0,0,0,0.1))" }} />;
-                                                })}
-                                                {DAY_SUMMARY.poi_stamps.filter(p => p.icon !== "exit").map((poi, i) => {
-                                                    const ry = poi.y * 0.667;
-                                                    const labelY = ry + 16;
-                                                    const isPirates = (poi.label || "").toLowerCase().includes("pirate");
-                                                    const ringColor = poi.icon === "dining" ? "#E0A84A" : poi.icon === "entry" ? A.brand : "#22A84A";
-                                                    return (
-                                                        <g key={i}>
-                                                            <circle cx={poi.x} cy={ry} r="9" fill="#FFF" stroke={ringColor} strokeWidth="2" style={{ filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.18))" }} />
-                                                            {poi.icon === "dining" ? (
-                                                                <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                                    <path d="M2 8h6v2H2zM1.5 4.5a2 2 0 0 1 3-1.6 2 2 0 0 1 3 0 2 2 0 0 1 1.5 3.6V8h-8V6.5a2 2 0 0 1 .5-2z" fill="none" stroke="#B88332" strokeWidth="1.1" strokeLinecap="round" strokeLinejoin="round" transform="scale(0.9)" />
-                                                                </g>
-                                                            ) : isPirates ? (
-                                                                <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                                    <circle cx="5" cy="1.8" r="1.1" fill="none" stroke="#1B7A36" strokeWidth="1.1" />
-                                                                    <path d="M5 2.9v6.3M2.5 5h5M2 8.7a3 3 0 0 0 3 0.8 3 3 0 0 0 3 -0.8" fill="none" stroke="#1B7A36" strokeWidth="1.1" strokeLinecap="round" />
-                                                                </g>
-                                                            ) : poi.icon === "entry" ? (
-                                                                <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                                    <path d="M3 9V1.5M3 1.5h5l-1 1.8L8 5H3" fill="none" stroke={A.brand} strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" />
-                                                                </g>
-                                                            ) : (
-                                                                <g transform={"translate(" + (poi.x - 5) + "," + (ry - 5) + ")"}>
-                                                                    <path d="M5 1.3l1.2 2.4 2.6 0.4-1.9 1.8 0.5 2.6L5 7.3 2.6 8.5l0.5-2.6L1.2 4.1l2.6-0.4z" fill="#22A84A" stroke="#1B7A36" strokeWidth="0.7" strokeLinejoin="round" />
-                                                                </g>
-                                                            )}
-                                                            <text x={poi.x} y={labelY} textAnchor="middle" fontSize="8" fontWeight="700" fill={A.dark} fontFamily={F} style={{ paintOrder: "stroke", stroke: "#FFF", strokeWidth: 3, strokeLinejoin: "round" }}>{poi.label}</text>
-                                                        </g>
-                                                    );
-                                                })}
-                                            </svg>
-                                            <div style={{ position: "absolute", left: 10, bottom: 10, display: "flex", gap: 10, padding: "7px 12px", borderRadius: 100, background: "rgba(255,255,255,0.94)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", boxShadow: "0 2px 8px rgba(0,0,0,0.08)", zIndex: 2 }}>
-                                                {[{ c: SEG_COLORS.riding, l: "Ride" }, { c: SEG_COLORS.dining, l: "Dine" }].map((k, i) => (
-                                                    <div key={i} style={{ display: "flex", alignItems: "center", gap: 5, height: 12 }}>
-                                                        <div style={{ width: 10, height: 3, borderRadius: 2, background: k.c, flexShrink: 0 }} />
-                                                        <span style={{ fontSize: 10, fontWeight: 600, color: A.dark, fontFamily: F, lineHeight: 1 }}>{k.l}</span>
-                                                    </div>
-                                                ))}
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    {/* Stats grid */}
-                                    {(() => {
-                                        const totalHrs = Math.floor(DAY_SUMMARY.stats.hours_in_park);
-                                        const totalMin = Math.round((DAY_SUMMARY.stats.hours_in_park - totalHrs) * 60);
-                                        const totalTimeStr = totalHrs + "h " + (totalMin < 10 ? "0" + totalMin : totalMin) + "m";
-                                        const allStats = [
-                                            { key: "distance", num: DAY_SUMMARY.stats.distance_mi.toString(), unit: "mi", label: "walked" },
-                                            { key: "time", num: totalTimeStr, unit: "", label: "total time" },
-                                            { key: "places", num: (DAY_SUMMARY.rides.length + DAY_SUMMARY.dining.length).toString(), unit: "", label: "total places" },
-                                            { key: "moments", num: DAY_SUMMARY.moments.length.toString(), unit: "", label: "moments" },
-                                        ];
-                                        const shownStats = allStats.filter(s => !includedStats || includedStats.has(s.key));
-                                        if (shownStats.length === 0) return null;
-                                        return (
-                                            <div style={{ padding: "28px 10px 0" }}>
-                                                <div style={{ padding: "0 8px", marginBottom: 12 }}>
-                                                    <span style={sectionTitle}>By the numbers</span>
-                                                </div>
-                                                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10 }}>
-                                                    {shownStats.map((s, i) => (
-                                                        <div key={i} style={{ padding: 14, display: "flex", flexDirection: "column", gap: 6, ...glassCard }}>
-                                                            <div style={{ display: "flex", alignItems: "baseline", gap: 4 }}>
-                                                                <span style={{ fontSize: 24, fontWeight: 700, color: A.dark, fontFamily: F, lineHeight: 1, letterSpacing: -0.3 }}>{s.num}</span>
-                                                                {s.unit && <span style={{ fontSize: 13, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1 }}>{s.unit}</span>}
-                                                            </div>
-                                                            <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, lineHeight: 1 }}>{s.label}</span>
-                                                        </div>
-                                                    ))}
-                                                </div>
-                                            </div>
-                                        );
-                                    })()}
-
-                                    {/* Rides */}
-                                    {keptRides.length > 0 && (
-                                        <div style={{ padding: "28px 10px 0" }}>
-                                            <div style={{ padding: "0 8px", marginBottom: 12, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-                                                <span style={sectionTitle}>Rides</span>
-                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{keptRides.length} completed</span>
-                                            </div>
-                                            <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                                {keptRides.map((r, i) => {
-                                                    const diff = r.posted_min - r.actual_min;
-                                                    const beat = diff > 0;
-                                                    const beatColor = beat ? "#22A84A" : "#C2712A";
-                                                    return (
-                                                        <div key={i} style={{ padding: 14, ...glassCard }}>
-                                                            <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 10, marginBottom: 12 }}>
-                                                                <div style={{ flex: 1, minWidth: 0 }}>
-                                                                    <span style={{ fontSize: 15, fontWeight: 600, color: A.dark, fontFamily: F, display: "block", marginBottom: 3, lineHeight: 1.3 }}>{r.name}</span>
-                                                                    <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", display: "block" }}>In {r.entered}  →  Board {r.boarded}  →  Out {r.exited}</span>
-                                                                </div>
-                                                                <div style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "4px 10px 4px 8px", borderRadius: 100, background: beatColor + "20", flexShrink: 0 }}>
-                                                                    <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={beatColor} strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
-                                                                        {beat ? <path d="M12 19V5M5 12l7-7 7 7" /> : <path d="M12 5v14M5 12l7 7 7-7" />}
-                                                                    </svg>
-                                                                    <span style={{ fontSize: 11, fontWeight: 600, color: beatColor, fontFamily: F, lineHeight: 1 }}>{beat ? diff + " min" : Math.abs(diff) + " min"}</span>
-                                                                </div>
-                                                            </div>
-                                                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Posted</span>
-                                                                    <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.posted_min} min</span>
-                                                                </div>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Waited</span>
-                                                                    <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{r.actual_min} min</span>
-                                                                </div>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Ride</span>
-                                                                    <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{r.ride_min} min</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    )}
-
-                                    {/* Dining */}
-                                    {keptDining.length > 0 && (
-                                        <div style={{ padding: "28px 10px 0" }}>
-                                            <div style={{ padding: "0 8px", marginBottom: 12, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-                                                <span style={sectionTitle}>Dining</span>
-                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{keptDining.length} stops</span>
-                                            </div>
-                                            <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                                {keptDining.map((d, i) => {
-                                                    const addMinutes = (timeStr, mins) => {
-                                                        const [hm, period] = timeStr.split(" ");
-                                                        let [h, m] = hm.split(":").map(Number);
-                                                        let total = (period === "PM" && h !== 12 ? h + 12 : period === "AM" && h === 12 ? 0 : h) * 60 + m + mins;
-                                                        const dayMins = ((total % (24 * 60)) + 24 * 60) % (24 * 60);
-                                                        let outH = Math.floor(dayMins / 60);
-                                                        const outM = dayMins % 60;
-                                                        const outPeriod = outH >= 12 ? "PM" : "AM";
-                                                        outH = outH % 12 === 0 ? 12 : outH % 12;
-                                                        return outH + ":" + (outM < 10 ? "0" + outM : outM) + " " + outPeriod;
-                                                    };
-                                                    const departedAt = addMinutes(d.time, d.dwell_min);
-                                                    return (
-                                                        <div key={i} style={{ padding: 14, ...glassCard }}>
-                                                            <div style={{ marginBottom: 12 }}>
-                                                                <span style={{ fontSize: 15, fontWeight: 700, color: A.dark, fontFamily: F, display: "block", lineHeight: 1.3 }}>{d.name}</span>
-                                                            </div>
-                                                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", paddingTop: 12, borderTop: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Arrived</span>
-                                                                    <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{d.time}</span>
-                                                                </div>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center", borderLeft: "1.5px solid rgba(0,0,0,0.06)", borderRight: "1.5px solid rgba(0,0,0,0.06)" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 500, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6, lineHeight: 1 }}>Departed</span>
-                                                                    <span style={{ fontSize: 14, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1 }}>{departedAt}</span>
-                                                                </div>
-                                                                <div style={{ display: "flex", flexDirection: "column", gap: 4, alignItems: "center" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 600, color: A.brand, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, lineHeight: 1 }}>Total time</span>
-                                                                    <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F, letterSpacing: -0.2, lineHeight: 1 }}>{d.dwell_min} min</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    )}
-
-                                    {/* Broadcasts */}
-                                    {keptBroadcasts.length > 0 && (
-                                        <div style={{ padding: "28px 10px 0" }}>
-                                            <div style={{ padding: "0 8px", marginBottom: 12, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-                                                <span style={sectionTitle}>Their broadcasts</span>
-                                                <span style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F }}>{keptBroadcasts.length} contributions</span>
-                                            </div>
-                                            <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                                                {keptBroadcasts.map((b, i) => {
-                                                    const c = BROADCAST_COLORS[b.cat] || A.brand;
-                                                    return (
-                                                        <div key={i} style={{ padding: 14, ...glassCard }}>
-                                                            <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 8, minWidth: 0 }}>
-                                                                <div style={{ padding: "3px 10px 3px 11px", borderRadius: 100, background: c + "18", flexShrink: 0, display: "flex", alignItems: "center" }}>
-                                                                    <span style={{ fontSize: 10, fontWeight: 600, color: c, fontFamily: F, letterSpacing: 0.4, lineHeight: 1 }}>{b.cat}</span>
-                                                                </div>
-                                                                <span style={{ fontSize: 13, fontWeight: 600, color: A.dark, fontFamily: F, minWidth: 0, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", flex: 1, lineHeight: 1 }}>{b.venue}</span>
-                                                                <span style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F, flexShrink: 0, lineHeight: 1 }}>{b.time}</span>
-                                                            </div>
-                                                            <span style={{ fontSize: 13, fontWeight: 500, color: A.hof, fontFamily: F, lineHeight: 1.45 }}>{b.note}</span>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    )}
-
-                                    <div style={{ height: 60 }} />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                );
-            })()}
 
 
             {/* === NEW POST PAGE === */}
             {showNewPost && (() => {
-                const POST_TYPES = ["Broadcast", "Post", "Ask", "Review", "Trace", "Article"];
+                const POST_TYPES = ["Broadcast", "Post", "Ask", "Review"];
                 const GALLERY = [
                     "https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=300&q=80",
                     "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=300&q=80",
@@ -18242,478 +15066,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                         return (
                                             <button key={type} onClick={() => {
                                                 if (type === "Broadcast") { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); return; }
-                                                if (type === "Trace") { setShowNewPost(false); setShowTraceStartScreen(true); return; }
-                                                if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); }
-                                                setNewPostType(type);
-                                            }} style={{ all: "unset", cursor: "pointer", flexShrink: 0, padding: "7px 12px", borderRadius: 100, background: active ? A.brand : A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box", border: "1.5px solid " + (active ? A.brand : A.border) }}>
-                                                <span style={{ fontSize: 12, fontWeight: active ? 700 : 500, color: active ? "#FFF" : A.hof, fontFamily: F }}>{type}</span>
-                                            </button>
-                                        );
-                                    })}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                );
-                /* ── ARTICLE TAB ── */
-                if (newPostType === "Article") return (
-                    <div style={{ position: "absolute", inset: 0, zIndex: 60, background: A.bg, display: "flex", flexDirection: "column" }}>
-                        {/* Top bar — just the X */}
-                        <div style={{ height: 56, display: "flex", alignItems: "center", paddingLeft: 16, paddingTop: "env(safe-area-inset-top, 0px)", flexShrink: 0 }}>
-                            <button onClick={() => setShowNewPost(false)} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
-                            </button>
-                        </div>
-                        {/* Body — title + blocks (text/image). Cover is auto-selected in preview from first image. */}
-                        <div style={{ flex: 1, display: "flex", flexDirection: "column", padding: "8px 20px 0", overflowY: "auto", WebkitOverflowScrolling: "touch" }}>
-                            <input value={articleTitle} onChange={e => setArticleTitle(e.target.value)} placeholder="Title" style={{ all: "unset", width: "100%", fontFamily: F, fontSize: 26, fontWeight: 800, color: A.dark, padding: "8px 0 4px", letterSpacing: -0.5, boxSizing: "border-box" }} />
-                            {!articleTitle.trim() && (
-                                <div style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, fontStyle: "italic", paddingBottom: 12 }}>Tip: tap the photo icon to insert photos between paragraphs</div>
-                            )}
-                            {articleTitle.trim() && <div style={{ paddingBottom: 8 }} />}
-                            {/* Block renderer — text blocks become textareas, image blocks become inline images */}
-                            {articleBlocks.map((block, idx) => {
-                                if (block.type === "text") {
-                                    return (
-                                        <textarea
-                                            key={block.id}
-                                            ref={el => { if (el) articleBlockRefs.current[block.id] = el; else delete articleBlockRefs.current[block.id]; }}
-                                            value={block.value}
-                                            onChange={e => setBlockValue(block.id, e.target.value)}
-                                            onFocus={() => setArticleFocusedBlockId(block.id)}
-                                            onInput={e => { const el = e.target; el.style.height = "auto"; el.style.height = el.scrollHeight + "px"; }}
-                                            placeholder={idx === 0 ? "Tell your story…" : ""}
-                                            style={{ all: "unset", width: "100%", fontFamily: F, fontSize: articleFontSize === "S" ? 14 : articleFontSize === "L" ? 19 : 16, fontWeight: 400, color: A.dark, padding: "0", boxSizing: "border-box", resize: "none", lineHeight: 1.65, display: "block", minHeight: idx === 0 ? 120 : 30, marginBottom: 8, whiteSpace: "pre-wrap", wordBreak: "break-word", overflowWrap: "anywhere", overflow: "hidden" }}
-                                        />
-                                    );
-                                }
-                                // Image block
-                                return (
-                                    <div key={block.id} style={{ position: "relative", margin: "12px 0", borderRadius: 12, overflow: "hidden" }}>
-                                        <img src={block.value} alt="" style={{ width: "100%", display: "block", maxHeight: 400, objectFit: "cover" }} />
-                                        <button onClick={() => {
-                                            // Remove this image block and merge surrounding text blocks if any
-                                            setArticleBlocks(prev => {
-                                                const i = prev.findIndex(b => b.id === block.id);
-                                                if (i === -1) return prev;
-                                                const before = prev[i - 1], after = prev[i + 1];
-                                                if (before?.type === "text" && after?.type === "text") {
-                                                    // Merge: keep before, drop image and after
-                                                    const merged = { ...before, value: before.value + (before.value && after.value ? "\n\n" : "") + after.value };
-                                                    const next = [...prev.slice(0, i - 1), merged, ...prev.slice(i + 2)];
-                                                    setArticleFocusedBlockId(merged.id);
-                                                    return next;
-                                                }
-                                                return prev.filter(b => b.id !== block.id);
-                                            });
-                                        }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: 10, right: 10, width: 30, height: 30, borderRadius: "50%", background: "rgba(0,0,0,0.65)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.6" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
-                                        </button>
-                                    </div>
-                                );
-                            })}
-                            <div style={{ height: 60 }} />
-                        </div>
-                        {/* Format bar (conditional) */}
-                        {showArticleFormatBar && (() => {
-                            const wrapSelection = (left, right) => wrapInFocused(left, right);
-                            return (
-                                <div style={{ display: "flex", alignItems: "center", gap: 6, padding: "8px 16px", flexShrink: 0 }}>
-                                    <button onClick={() => wrapSelection("**", "**")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: 8, background: A.bgPage }}>
-                                        <span style={{ fontSize: 15, fontWeight: 800, color: A.dark, fontFamily: F }}>B</span>
-                                    </button>
-                                    <button onClick={() => wrapSelection("*", "*")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: 8, background: A.bgPage }}>
-                                        <span style={{ fontSize: 15, fontStyle: "italic", fontWeight: 600, color: A.dark, fontFamily: F }}>I</span>
-                                    </button>
-                                    <button onClick={() => wrapSelection("~~", "~~")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: 8, background: A.bgPage }}>
-                                        <span style={{ fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F, textDecoration: "line-through" }}>S</span>
-                                    </button>
-                                    <button onClick={() => {
-                                        const ta = getFocusedTextarea();
-                                        const block = articleBlocks.find(b => b.id === articleFocusedBlockId);
-                                        if (!ta || !block || block.type !== "text") return;
-                                        const s = ta.selectionStart;
-                                        const before = block.value.slice(0, s), after = block.value.slice(s);
-                                        const lineStart = before.lastIndexOf("\n") + 1;
-                                        const next = before.slice(0, lineStart) + "> " + before.slice(lineStart) + after;
-                                        setBlockValue(block.id, next);
-                                        setTimeout(() => { ta.focus(); ta.selectionStart = ta.selectionEnd = s + 2; }, 0);
-                                    }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: 8, background: A.bgPage }}>
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill={A.dark} stroke="none"><path d="M7.17 6C4.87 6 3 7.87 3 10.17v3.83c0 2.3 1.87 4.17 4.17 4.17h.83V12H6v-1.83c0-.65.52-1.17 1.17-1.17H8V6h-.83zm9 0C13.87 6 12 7.87 12 10.17v3.83c0 2.3 1.87 4.17 4.17 4.17H17V12h-2v-1.83c0-.65.52-1.17 1.17-1.17H17V6h-.83z" /></svg>
-                                    </button>
-                                    <div style={{ width: 1, height: 18, background: A.border, margin: "0 4px" }} />
-                                    {["S", "M", "L"].map(size => {
-                                        const active = articleFontSize === size;
-                                        return (
-                                            <button key={size} onClick={() => setArticleFontSize(size)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: 8, background: active ? A.brand : A.bgPage }}>
-                                                <span style={{ fontSize: size === "S" ? 12 : size === "L" ? 17 : 14, fontWeight: 700, color: active ? "#FFF" : A.dark, fontFamily: F, lineHeight: 1 }}>Aa</span>
-                                            </button>
-                                        );
-                                    })}
-                                </div>
-                            );
-                        })()}
-                        {/* Formatting toolbar */}
-                        <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 16px", flexShrink: 0, overflowX: "auto", scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                            <button onClick={() => { setArticleLinkUrl(""); setShowArticleLinkSheet(true); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, flexShrink: 0 }}>
-                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-                            </button>
-                            <button onClick={() => setShowArticleMediaSheet(true)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: articleBlocks.some(b => b.type === "image") ? A.brand : A.bgPage, position: "relative", flexShrink: 0 }}>
-                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={articleBlocks.some(b => b.type === "image") ? "#FFF" : A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2" /><circle cx="8.5" cy="8.5" r="1.5" /><polyline points="21 15 16 10 5 21" /></svg>
-                                {articleBlocks.filter(b => b.type === "image").length > 0 && <div style={{ position: "absolute", top: -2, right: -2, minWidth: 16, height: 16, padding: "0 4px", borderRadius: 8, background: A.dark, color: "#FFF", fontSize: 10, fontWeight: 700, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: F }}>{articleBlocks.filter(b => b.type === "image").length}</div>}
-                            </button>
-                            <button onClick={() => { setArticleMentionSearch(""); setShowArticleMentionSheet(true); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, flexShrink: 0 }}>
-                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="4" /><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94" /></svg>
-                            </button>
-                            <button onClick={() => setShowArticleFormatBar(prev => !prev)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: showArticleFormatBar ? A.brand : A.bgPage, flexShrink: 0 }}>
-                                <span style={{ fontSize: 16, fontWeight: 700, color: showArticleFormatBar ? "#FFF" : A.dark, fontFamily: F, lineHeight: 1 }}>Aa</span>
-                            </button>
-                            {articlePlaces.length > 0 ? (
-                                <button onClick={() => { setShowArticlePlacePicker(true); setArticlePlaceSearch(""); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: A.brand, position: "relative", flexShrink: 0 }}>
-                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                    <div style={{ position: "absolute", top: -2, right: -2, minWidth: 16, height: 16, padding: "0 4px", borderRadius: 8, background: A.dark, color: "#FFF", fontSize: 10, fontWeight: 700, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: F }}>{articlePlaces.length}</div>
-                                </button>
-                            ) : (
-                                <button onClick={() => { setShowArticlePlacePicker(true); setArticlePlaceSearch(""); }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, flexShrink: 0 }}>
-                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                </button>
-                            )}
-                        </div>
-                        {/* Bottom controls */}
-                        <div style={{ background: A.bg, paddingBottom: "calc(env(safe-area-inset-bottom, 12px) + 70px)" }}>
-                            {/* Link sheet */}
-                            {showArticleLinkSheet && (
-                                <>
-                                    <div onClick={() => { setShowArticleLinkSheet(false); setArticleLinkUrl(""); }} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                    <div style={{ position: "fixed", bottom: "calc(env(safe-area-inset-bottom, 10px) + 8px)", left: 16, right: 16, margin: "0 auto", maxWidth: 448, zIndex: 91, background: A.bg, borderRadius: 20, overflow: "hidden", animation: "sheetUp 0.3s ease" }}>
-                                        <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 6px" }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "4px 20px 16px" }}>
-                                            <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Add link</span>
-                                            <button onClick={() => { setShowArticleLinkSheet(false); setArticleLinkUrl(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 14, fontWeight: 600, color: A.foggy, fontFamily: F }}>Cancel</button>
-                                        </div>
-                                        <div style={{ padding: "0 20px 16px" }}>
-                                            <input autoFocus value={articleLinkUrl} onChange={e => setArticleLinkUrl(e.target.value)} placeholder="https://example.com" style={{ all: "unset", boxSizing: "border-box", width: "100%", padding: "12px 16px", borderRadius: 12, background: A.bgPage, border: "1px solid " + A.border, fontSize: 15, fontWeight: 500, color: A.dark, fontFamily: F }} />
-                                        </div>
-                                        <div style={{ padding: "0 20px 20px" }}>
-                                            <button onClick={() => { if (!articleLinkUrl.trim()) return; const block = articleBlocks.find(b => b.id === articleFocusedBlockId); const isText = block && block.type === "text"; const sep = isText && block.value && !block.value.endsWith(" ") && !block.value.endsWith("\n") ? " " : ""; insertAtCursor(sep + articleLinkUrl.trim() + " "); setShowArticleLinkSheet(false); setArticleLinkUrl(""); }} style={{ all: "unset", cursor: "pointer", boxSizing: "border-box", width: "100%", padding: "13px 0", borderRadius: 100, background: articleLinkUrl.trim() ? A.brand : A.border, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                                <span style={{ fontSize: 15, fontWeight: 700, color: "#FFF", fontFamily: F }}>Add link</span>
-                                            </button>
-                                        </div>
-                                    </div>
-                                </>
-                            )}
-                            {/* Media picker sheet */}
-                            {showArticleMediaSheet && (
-                                <>
-                                    <div onClick={() => setShowArticleMediaSheet(false)} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                    <div style={{ position: "fixed", bottom: "calc(env(safe-area-inset-bottom, 10px) + 8px)", left: 16, right: 16, margin: "0 auto", maxWidth: 448, zIndex: 91, background: A.bg, borderRadius: 20, maxHeight: "75vh", display: "flex", flexDirection: "column", overflow: "hidden", animation: "sheetUp 0.3s ease" }}>
-                                        <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 6px", flexShrink: 0 }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "4px 20px 12px", flexShrink: 0 }}>
-                                            <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Add media{articleMedia.length > 0 ? " · " + articleMedia.length : ""}</span>
-                                            <button onClick={() => setShowArticleMediaSheet(false)} style={{ all: "unset", cursor: "pointer", fontSize: 14, fontWeight: 600, color: A.brand, fontFamily: F }}>Done</button>
-                                        </div>
-                                        <div style={{ flex: 1, overflowY: "auto", padding: "0 8px 20px" }}>
-                                            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 4 }}>
-                                                {GALLERY.map((src, i) => (
-                                                    <div key={i} onClick={() => { insertImageAtCursor(src); setShowArticleMediaSheet(false); }} style={{ position: "relative", aspectRatio: "1/1", borderRadius: 8, overflow: "hidden", cursor: "pointer" }}>
-                                                        <img src={src} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                    </div>
-                                                ))}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </>
-                            )}
-                            {/* === ARTICLE PREVIEW PAGE — full-page summary before publish === */}
-                            {showArticlePublishModal && (() => {
-                                // Image blocks from the article body
-                                const imageBlocks = articleBlocks.filter(b => b.type === "image");
-                                const blockImages = imageBlocks.map(b => b.value);
-                                // Auto-promote first body image as cover if none chosen yet
-                                const effectiveCover = articleCover || (blockImages.length > 0 ? blockImages[0] : null);
-                                // Parse mentions (@handle) and links (http/https) from body
-                                const mentionMatches = (articleBody.match(/@([a-zA-Z0-9_.]+)/g) || []).map(m => m.slice(1));
-                                const mentionedUsers = [...new Set(mentionMatches)].map(handle => USERS.find(u => u.handle.toLowerCase() === ("@" + handle).toLowerCase()) || USERS.find(u => u.handle.toLowerCase().replace("@", "") === handle.toLowerCase())).filter(Boolean);
-                                const linkMatches = articleBody.match(/https?:\/\/[^\s]+/g) || [];
-                                const uniqueLinks = [...new Set(linkMatches)];
-                                return (
-                                    <div style={{ position: "fixed", inset: 0, zIndex: 200, background: A.bg, display: "flex", flexDirection: "column", animation: "slideUp 0.32s cubic-bezier(0.32,0.72,0,1)" }}>
-                                        {/* Header */}
-                                        <div style={{ padding: "calc(env(safe-area-inset-top, 12px) + 12px) 16px 12px", display: "flex", alignItems: "center", justifyContent: "space-between", flexShrink: 0, borderBottom: "1px solid " + A.border }}>
-                                            <button onClick={() => setShowArticlePublishModal(false)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 40, height: 40, borderRadius: "50%", background: A.bgPage }}>
-                                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.4" strokeLinecap="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
-                                            </button>
-                                            <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Preview</span>
-                                            <div style={{ width: 40 }} />
-                                        </div>
-                                        {/* Scrollable body */}
-                                        <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch" }}>
-                                            {/* Title */}
-                                            <div style={{ padding: "20px 20px 8px" }}>
-                                                <div style={{ fontSize: 26, fontWeight: 800, color: A.dark, fontFamily: F, lineHeight: 1.2, letterSpacing: -0.5 }}>{articleTitle}</div>
-                                            </div>
-                                            {/* Author meta */}
-                                            <div style={{ padding: "0 20px 16px", display: "flex", alignItems: "center", gap: 10 }}>
-                                                <img src={USERS[0].img} alt="" style={{ width: 32, height: 32, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                                <div style={{ display: "flex", flexDirection: "column" }}>
-                                                    <span style={{ fontSize: 13, fontWeight: 600, color: A.dark, fontFamily: F }}>{USERS[0].handle}</span>
-                                                    <span style={{ fontSize: 11.5, color: A.foggy, fontFamily: F }}>Article · about to publish</span>
-                                                </div>
-                                            </div>
-                                            {/* Body preview — collapsed by default, expandable */}
-                                            <div style={{ padding: "0 20px 24px", borderBottom: "1px solid " + A.border, paddingBottom: 24 }}>
-                                                {!articlePreviewBodyExpanded ? (
-                                                    <>
-                                                        {/* Collapsed: show just the first text block, truncated */}
-                                                        {(() => {
-                                                            const firstText = articleBlocks.find(b => b.type === "text")?.value || "";
-                                                            const preview = firstText.length > 240 ? firstText.slice(0, 240) + "…" : firstText;
-                                                            return (
-                                                                <div style={{ position: "relative", maxHeight: 90, overflow: "hidden", fontSize: 15, color: A.hof, fontFamily: F, lineHeight: 1.55, whiteSpace: "pre-wrap", wordBreak: "break-word" }}>
-                                                                    {preview || <span style={{ color: A.foggy, fontStyle: "italic" }}>No body text</span>}
-                                                                    <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: 40, background: "linear-gradient(to bottom, transparent, " + A.bg + ")", pointerEvents: "none" }} />
-                                                                </div>
-                                                            );
-                                                        })()}
-                                                        <button onClick={() => setArticlePreviewBodyExpanded(true)} style={{ all: "unset", cursor: "pointer", marginTop: 8, fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Expand to read full article</button>
-                                                    </>
-                                                ) : (
-                                                    <>
-                                                        {/* Expanded: render each block in order — text + inline images */}
-                                                        {articleBlocks.map((block, i) => {
-                                                            if (block.type === "text") {
-                                                                return block.value ? (
-                                                                    <div key={block.id} style={{ fontSize: 15, color: A.hof, fontFamily: F, lineHeight: 1.65, whiteSpace: "pre-wrap", wordBreak: "break-word", marginBottom: 12 }}>{block.value}</div>
-                                                                ) : null;
-                                                            }
-                                                            return (
-                                                                <div key={block.id} style={{ borderRadius: 12, overflow: "hidden", margin: "16px 0" }}>
-                                                                    <img src={block.value} alt="" style={{ width: "100%", display: "block", maxHeight: 460, objectFit: "cover" }} />
-                                                                </div>
-                                                            );
-                                                        })}
-                                                        <button onClick={() => setArticlePreviewBodyExpanded(false)} style={{ all: "unset", cursor: "pointer", marginTop: 4, fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Collapse</button>
-                                                    </>
-                                                )}
-                                            </div>
-                                            {/* === PHOTOS === */}
-                                            {blockImages.length > 0 && (
-                                                <div style={{ padding: "20px 20px 24px", borderBottom: "1px solid " + A.border }}>
-                                                    <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 14 }}>
-                                                        <span style={{ fontSize: 11.5, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7 }}>Photos · {blockImages.length}</span>
-                                                        <span style={{ fontSize: 11, fontWeight: 500, color: A.foggy, fontFamily: F }}>Tap to set as cover</span>
-                                                    </div>
-                                                    {/* Cover photo — big 16:9 */}
-                                                    {effectiveCover && (
-                                                        <div style={{ position: "relative", width: "100%", aspectRatio: "16/9", borderRadius: 14, overflow: "hidden", marginBottom: 12, border: "2px solid " + A.brand, boxShadow: "0 4px 16px " + A.brand + "30" }}>
-                                                            <img src={effectiveCover} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                            {/* Cover pill */}
-                                                            <div style={{ position: "absolute", top: 10, left: 10, display: "inline-flex", alignItems: "center", gap: 5, padding: "5px 10px", borderRadius: 100, background: A.brand, boxShadow: "0 2px 8px rgba(0,0,0,0.2)" }}>
-                                                                <svg width="10" height="10" viewBox="0 0 24 24" fill="#FFF"><path d="M12 2l2.39 7.36H22l-6.18 4.51L18.21 22 12 17.27 5.79 22l2.39-8.13L2 9.36h7.61L12 2z" /></svg>
-                                                                <span style={{ fontSize: 10, fontWeight: 800, color: "#FFF", fontFamily: F, textTransform: "uppercase", letterSpacing: 0.5 }}>Cover photo</span>
-                                                            </div>
-                                                        </div>
-                                                    )}
-                                                    {/* Thumbnail row — horizontal scroll for alternates */}
-                                                    {blockImages.length > 1 && (
-                                                        <div style={{ display: "flex", gap: 8, overflowX: "auto", paddingBottom: 4, scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                                            {blockImages.map((src, i) => {
-                                                                const isCover = src === effectiveCover;
-                                                                return (
-                                                                    <button key={i} onClick={() => setArticleCover(src)} style={{ all: "unset", cursor: "pointer", flexShrink: 0, position: "relative", width: 84, aspectRatio: "16/9", borderRadius: 10, overflow: "hidden", border: isCover ? "2px solid " + A.brand : "2px solid transparent", boxSizing: "border-box", opacity: isCover ? 1 : 0.85 }}>
-                                                                        <img src={src} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
-                                                                        {isCover && (
-                                                                            <div style={{ position: "absolute", inset: 0, background: A.brand + "20", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                                                                <div style={{ width: 22, height: 22, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                                                                                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        )}
-                                                                    </button>
-                                                                );
-                                                            })}
-                                                        </div>
-                                                    )}
-                                                </div>
-                                            )}
-                                            {/* === PLACES === */}
-                                            {articlePlaces.length > 0 && (
-                                                <div style={{ padding: "20px 20px 24px", borderBottom: "1px solid " + A.border }}>
-                                                    <div style={{ fontSize: 11.5, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 14 }}>Places · {articlePlaces.length}</div>
-                                                    <div style={{ display: "flex", gap: 8, overflowX: "auto", paddingBottom: 4, scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                                        {articlePlaces.map((p, i) => (
-                                                            <div key={i} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "8px 14px", borderRadius: 100, background: A.brand + "12", border: "1px solid " + A.brand + "20", flexShrink: 0 }}>
-                                                                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                                <span style={{ fontSize: 13, fontWeight: 600, color: A.brand, fontFamily: F, whiteSpace: "nowrap" }}>{p}</span>
-                                                            </div>
-                                                        ))}
-                                                    </div>
-                                                </div>
-                                            )}
-                                            {/* === PEOPLE / MENTIONS === */}
-                                            {mentionedUsers.length > 0 && (
-                                                <div style={{ padding: "20px 20px 24px", borderBottom: "1px solid " + A.border }}>
-                                                    <div style={{ fontSize: 11.5, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 14 }}>People · {mentionedUsers.length}</div>
-                                                    <div style={{ display: "flex", gap: 12, overflowX: "auto", paddingBottom: 4, scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                                        {mentionedUsers.map((u, i) => (
-                                                            <div key={i} style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6, flexShrink: 0, minWidth: 64 }}>
-                                                                <img src={u.img} alt="" style={{ width: 48, height: 48, borderRadius: "50%", objectFit: "cover", display: "block", border: "1px solid " + A.border }} />
-                                                                <span style={{ fontSize: 11.5, fontWeight: 600, color: A.dark, fontFamily: F, whiteSpace: "nowrap", maxWidth: 80, overflow: "hidden", textOverflow: "ellipsis" }}>{u.handle}</span>
-                                                            </div>
-                                                        ))}
-                                                    </div>
-                                                </div>
-                                            )}
-                                            {/* === LINKS === */}
-                                            {uniqueLinks.length > 0 && (
-                                                <div style={{ padding: "20px 20px 24px", borderBottom: "1px solid " + A.border }}>
-                                                    <div style={{ fontSize: 11.5, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.7, marginBottom: 14 }}>Links · {uniqueLinks.length}</div>
-                                                    <div style={{ display: "flex", gap: 8, overflowX: "auto", paddingBottom: 4, scrollbarWidth: "none", WebkitOverflowScrolling: "touch" }}>
-                                                        {uniqueLinks.map((link, i) => {
-                                                            let domain = link;
-                                                            try { domain = new URL(link).hostname.replace(/^www\./, ""); } catch (e) { }
-                                                            return (
-                                                                <div key={i} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "8px 14px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border, flexShrink: 0 }}>
-                                                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
-                                                                    <span style={{ fontSize: 13, fontWeight: 600, color: A.dark, fontFamily: F, whiteSpace: "nowrap", maxWidth: 160, overflow: "hidden", textOverflow: "ellipsis" }}>{domain}</span>
-                                                                </div>
-                                                            );
-                                                        })}
-                                                    </div>
-                                                </div>
-                                            )}
-                                            {/* Empty state — when there are no photos/people/links to highlight */}
-                                            {blockImages.length === 0 && mentionedUsers.length === 0 && uniqueLinks.length === 0 && (
-                                                <div style={{ padding: "32px 20px", textAlign: "center" }}>
-                                                    <div style={{ fontSize: 13, color: A.foggy, fontFamily: F, lineHeight: 1.5 }}>This article will publish without a cover photo. It will appear in the feed with the default DRFT article style.</div>
-                                                </div>
-                                            )}
-                                            <div style={{ height: 24 }} />
-                                        </div>
-                                        {/* Publish CTA — sticky bottom */}
-                                        <div style={{ padding: "12px 20px calc(env(safe-area-inset-bottom, 10px) + 14px)", flexShrink: 0, borderTop: "1px solid " + A.border, background: A.bg }}>
-                                            <button onClick={() => {
-                                                setShowArticlePublishModal(false);
-                                                setShowNewPost(false);
-                                                setArticleTitle("");
-                                                setArticleBlocks([{ id: "b0", type: "text", value: "" }]);
-                                                setArticleFocusedBlockId("b0");
-                                                setArticlePlaces([]);
-                                                setArticleMedia([]);
-                                                setArticleCover(null);
-                                                setArticlePreviewBodyExpanded(false);
-                                                setShowArticleFormatBar(false);
-                                                setArticleFontSize("M");
-                                                setToastMsg("Article published!");
-                                            }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "15px 0", borderRadius: 100, background: A.brand, border: "none", display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box", boxShadow: "0 6px 20px " + A.brand + "40" }}>
-                                                <span style={{ fontFamily: F, fontSize: 16, fontWeight: 700, color: "#FFF" }}>Publish</span>
-                                            </button>
-                                        </div>
-                                    </div>
-                                );
-                            })()}
-                            {/* Mention picker sheet */}
-                            {showArticleMentionSheet && (() => {
-                                const q = articleMentionSearch.trim().toLowerCase();
-                                const userList = USERS.filter(u => !q || u.handle.toLowerCase().includes(q) || u.name.toLowerCase().includes(q));
-                                return (
-                                    <>
-                                        <div onClick={() => { setShowArticleMentionSheet(false); setArticleMentionSearch(""); }} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                        <div style={{ position: "fixed", bottom: "calc(env(safe-area-inset-bottom, 10px) + 8px)", left: 16, right: 16, margin: "0 auto", maxWidth: 448, zIndex: 91, background: A.bg, borderRadius: 20, maxHeight: "75vh", display: "flex", flexDirection: "column", overflow: "hidden", animation: "sheetUp 0.3s ease" }}>
-                                            <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 6px", flexShrink: 0 }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "4px 20px 12px", flexShrink: 0 }}>
-                                                <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Mention a user</span>
-                                                <button onClick={() => { setShowArticleMentionSheet(false); setArticleMentionSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 14, fontWeight: 600, color: A.foggy, fontFamily: F }}>Cancel</button>
-                                            </div>
-                                            <div style={{ padding: "0 20px 12px", flexShrink: 0 }}>
-                                                <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderRadius: 40, background: A.bgPage, border: "1px solid " + A.border }}>
-                                                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
-                                                    <input autoFocus value={articleMentionSearch} onChange={e => setArticleMentionSearch(e.target.value)} placeholder="Search users…" style={{ all: "unset", flex: 1, fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F }} />
-                                                </div>
-                                            </div>
-                                            <div style={{ flex: 1, overflowY: "auto" }}>
-                                                {userList.map((u, i) => (
-                                                    <button key={u.id} onClick={() => {
-                                                        const handle = "@" + u.handle.replace(/^@/, "") + " ";
-                                                        const block = articleBlocks.find(b => b.id === articleFocusedBlockId);
-                                                        const isText = block && block.type === "text";
-                                                        const prefix = isText && block.value && !block.value.endsWith(" ") && !block.value.endsWith("\n") ? " " : "";
-                                                        insertAtCursor(prefix + handle);
-                                                        setShowArticleMentionSheet(false); setArticleMentionSearch("");
-                                                    }} style={{ all: "unset", cursor: "pointer", boxSizing: "border-box", width: "100%", display: "flex", alignItems: "center", gap: 12, padding: "10px 20px", borderBottom: i < userList.length - 1 ? "1px solid " + A.border : "none" }}>
-                                                        <img src={u.img} alt="" style={{ width: 36, height: 36, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
-                                                        <div style={{ flex: 1, minWidth: 0 }}>
-                                                            <div style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{u.name}</div>
-                                                            <div style={{ fontSize: 12, fontWeight: 500, color: A.foggy, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{u.handle}</div>
-                                                        </div>
-                                                    </button>
-                                                ))}
-                                                {userList.length === 0 && <div style={{ padding: "32px 16px", textAlign: "center" }}><span style={{ fontSize: 14, color: A.foggy, fontFamily: F }}>No users found</span></div>}
-                                            </div>
-                                        </div>
-                                    </>
-                                );
-                            })()}
-                            {/* Place picker — multi-select */}
-                            {showArticlePlacePicker && (() => {
-                                const PLACES = ["Be Our Guest Restaurant", "Cinderella's Royal Table", "Topolino's Terrace", "Space Mountain", "Haunted Mansion", "TRON Lightcycle Run", "Magic Kingdom", "EPCOT", "Hollywood Studios", "Animal Kingdom", "'Ohana", "California Grill", "Skipper Canteen", "Liberty Tree Tavern", "Jungle Cruise", "Pirates of the Caribbean", "Disney Springs", "Grand Floridian Resort", "Polynesian Village Resort", "Wilderness Lodge", "Chef Mickey's", "Victoria & Albert's", "Morimoto Asia", "The BOATHOUSE", "Paddlefish"];
-                                const filtered = PLACES.filter(p => !articlePlaceSearch.trim() || p.toLowerCase().includes(articlePlaceSearch.toLowerCase()));
-                                return (
-                                    <>
-                                        <div onClick={() => { setShowArticlePlacePicker(false); setArticlePlaceSearch(""); }} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)", zIndex: 90 }} />
-                                        <div style={{ position: "fixed", bottom: "calc(env(safe-area-inset-bottom, 10px) + 8px)", left: 16, right: 16, margin: "0 auto", maxWidth: 448, zIndex: 91, background: A.bg, borderRadius: 20, maxHeight: "75vh", display: "flex", flexDirection: "column", overflow: "hidden", animation: "sheetUp 0.3s ease" }}>
-                                            <div style={{ display: "flex", justifyContent: "center", padding: "12px 0 6px", flexShrink: 0 }}><div style={{ width: 36, height: 4, borderRadius: 2, background: A.border }} /></div>
-                                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "4px 20px 12px", flexShrink: 0 }}>
-                                                <span style={{ fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Tag places{articlePlaces.length > 0 ? " · " + articlePlaces.length : ""}</span>
-                                                <button onClick={() => { setShowArticlePlacePicker(false); setArticlePlaceSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 14, fontWeight: 600, color: A.brand, fontFamily: F }}>Done</button>
-                                            </div>
-                                            <div style={{ padding: "0 20px 12px", flexShrink: 0 }}>
-                                                <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderRadius: 40, background: A.bgPage, border: "1px solid " + A.border }}>
-                                                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
-                                                    <input autoFocus value={articlePlaceSearch} onChange={e => setArticlePlaceSearch(e.target.value)} placeholder="Search places…" style={{ all: "unset", flex: 1, fontSize: 14, fontWeight: 500, color: A.dark, fontFamily: F }} />
-                                                </div>
-                                            </div>
-                                            <div style={{ flex: 1, overflowY: "auto" }}>
-                                                {filtered.map((place, i) => {
-                                                    const sel = articlePlaces.includes(place);
-                                                    return (
-                                                        <button key={place} onClick={() => {
-                                                            if (sel) { setArticlePlaces(prev => prev.filter(p => p !== place)); return; }
-                                                            setArticlePlaces(prev => [...prev, place]);
-                                                            const block = articleBlocks.find(b => b.id === articleFocusedBlockId);
-                                                            const isText = block && block.type === "text";
-                                                            const prefix = isText && block.value && !block.value.endsWith(" ") && !block.value.endsWith("\n") ? " " : "";
-                                                            insertAtCursor(prefix + place + " ");
-                                                            setShowArticlePlacePicker(false); setArticlePlaceSearch("");
-                                                        }} style={{ all: "unset", cursor: "pointer", boxSizing: "border-box", width: "100%", display: "flex", alignItems: "center", justifyContent: "space-between", padding: "13px 20px", borderBottom: i < filtered.length - 1 ? "1px solid " + A.border : "none", background: sel ? A.brand + "08" : "transparent" }}>
-                                                            <span style={{ fontSize: 15, fontWeight: sel ? 600 : 500, color: sel ? A.brand : A.dark, fontFamily: F }}>{place}</span>
-                                                            {sel && <div style={{ width: 22, height: 22, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                                                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                            </div>}
-                                                        </button>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    </>
-                                );
-                            })()}
-                            {/* Post CTA */}
-                            <div style={{ padding: "6px 20px 10px" }}>
-                                <button onClick={() => { if (!articleTitle.trim()) { setToastMsg("Add a title first"); return; } if (articlePlaces.length === 0) { setToastMsg("Tag at least one place"); return; } setArticlePreviewBodyExpanded(false); setShowArticlePublishModal(true); }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "14px 0", borderRadius: 100, background: articleTitle.trim() && articlePlaces.length > 0 ? A.brand : "transparent", border: articleTitle.trim() && articlePlaces.length > 0 ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box", transition: "background 0.2s" }}>
-                                    <span style={{ fontFamily: F, fontSize: 15, fontWeight: 700, color: articleTitle.trim() && articlePlaces.length > 0 ? "#FFF" : A.foggy }}>Preview</span>
-                                </button>
-                            </div>
-                            {/* Post type pills */}
-                            <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: A.bg, paddingBottom: "env(safe-area-inset-bottom, 12px)" }}>
-                                <div style={{ display: "flex", justifyContent: "center", gap: 6, padding: "12px 14px 8px" }}>
-                                    {POST_TYPES.map(type => {
-                                        const active = newPostType === type;
-                                        return (
-                                            <button key={type} onClick={() => {
-                                                if (type === "Broadcast") { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); return; }
-                                                if (type === "Trace") { setShowNewPost(false); setShowTraceStartScreen(true); return; }
-                                                if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); }
+                                                if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); setPostLink(""); setPostCarouselIdx(0); setActivePicker(null); setPickerSearch(""); setPhotoOverrides({}); setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); if (type === "Post") { setPostStep("grid"); setSelectedPostPhotos([]); } }
                                                 setNewPostType(type);
                                             }} style={{ all: "unset", cursor: "pointer", flexShrink: 0, padding: "7px 12px", borderRadius: 100, background: active ? A.brand : A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box", border: "1.5px solid " + (active ? A.brand : A.border) }}>
                                                 <span style={{ fontSize: 12, fontWeight: active ? 700 : 500, color: active ? "#FFF" : A.hof, fontFamily: F }}>{type}</span>
@@ -18730,7 +15083,7 @@ so testers can tap into the trace detail without going through the create flow. 
                     const venueList = broadcastCat ? (BROADCAST_VENUES[broadcastPlace]?.[broadcastCat.id] || BROADCAST_VENUES["Magic Kingdom"]?.[broadcastCat.id] || []) : [];
                     const filteredVenues = broadcastVenueSearch.trim() ? venueList.filter(v => v.toLowerCase().includes(broadcastVenueSearch.toLowerCase())) : venueList;
                     const inCompose = !!broadcastSub;
-                    const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub?.id !== "r1" || selectedWaitTime !== null);
+                    const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub?.id !== "wa0" || selectedWaitTime !== null);
                     const onCommitBroadcast = () => {
                         if (!canBroadcast) return;
                         const newPin = { id: "bc_" + Date.now(), catId: broadcastCat.id, catColor: broadcastCat.color, subLabel: broadcastSub.label, note: broadcastNote.trim() || undefined, emoji: "", place: (broadcastVenue || broadcastPlace), user: "mike.annual", ago: "just now", x: 150 + Math.random() * 80, y: 160 + Math.random() * 80, isNew: true, attachment: broadcastAttachment };
@@ -18745,21 +15098,15 @@ so testers can tap into the trace detail without going through the create flow. 
                     };
                     return (
                         <div style={{ position: "absolute", inset: 0, zIndex: 60, background: A.bg, display: "flex", flexDirection: "column" }}>
-                            {/* Top bar — X (always closes composer) + step-aware title + back-to-cat button when deeper */}
+                            {/* Top bar — X closes composer (or backs to category if on sub step) + centered step-aware title */}
                             <div style={{ height: 56, display: "flex", alignItems: "center", paddingLeft: 16, paddingRight: 16, paddingTop: "env(safe-area-inset-top, 0px)", flexShrink: 0, gap: 12 }}>
-                                <button onClick={() => setShowNewPost(false)} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                <button onClick={() => { if (newPostType === "Broadcast" && broadcastStep === "sub") { setBroadcastStep("cat"); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setBroadcastNote(""); setSelectedWaitTime(null); setBroadcastAttachment(null); } else { setShowNewPost(false); } }} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                                 </button>
                                 <span style={{ flex: 1, textAlign: "center", fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
                                     {broadcastStep === "cat" ? "Broadcast" : broadcastCat?.label || "Broadcast"}
                                 </span>
-                                {broadcastStep === "cat" ? (
-                                    <div style={{ width: 40, flexShrink: 0 }} />
-                                ) : (
-                                    <button onClick={() => { setBroadcastStep("cat"); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setBroadcastNote(""); setSelectedWaitTime(null); setBroadcastAttachment(null); }} style={{ all: "unset", cursor: "pointer", padding: "8px 12px", fontSize: 13, fontWeight: 600, color: A.brand, fontFamily: F, flexShrink: 0 }}>
-                                        Categories
-                                    </button>
-                                )}
+                                <div style={{ width: 40, flexShrink: 0 }} />
                             </div>
 
                             {/* Body */}
@@ -18771,14 +15118,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                             {BROADCAST_CATS.map(cat => (
                                                 <button key={cat.id} onClick={() => { setBroadcastCat(cat); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setBroadcastStep("sub"); }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "14px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box", transition: "opacity 0.12s" }}>
                                                     <div style={{ width: 64, height: 64, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, border: "1.5px solid " + A.border }}>
-                                                        {cat.id === "rides" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.dark} stroke="none" /></svg>}
-                                                        {cat.id === "crowds" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                                        {cat.id === "shops" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
-                                                        {cat.id === "food" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                        {cat.id === "headsup" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>}
-                                                        {cat.id === "weather" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
-                                                        {cat.id === "live" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.dark} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /><path d="M9.17 9.17a4 4 0 0 0 0 5.66" /><path d="M14.83 9.17a4 4 0 0 1 0 5.66" /></svg>}
-                                                        {cat.id === "transport" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><path d="M6 9l1.5-3h9L18 9" /><line x1="12" y1="9" x2="12" y2="14" /><circle cx="6.5" cy="18.5" r="2" /><circle cx="17.5" cy="18.5" r="2" /></svg>}
+                                                        {renderCatIcon(cat.id)}
                                                     </div>
                                                     <span style={{ fontSize: 12, fontWeight: 500, color: A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>{cat.label}</span>
                                                 </button>
@@ -18793,50 +15133,11 @@ so testers can tap into the trace detail without going through the create flow. 
                                         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 8 }}>
                                             {broadcastCat.subs.map(sub => (
                                                 <button key={sub.id} onClick={() => {
-                                                    if (sub.id === "r1") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
+                                                    if (sub.id === "wa0") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
                                                     setBroadcastSub(sub);
                                                 }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "16px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box" }}>
                                                     <div style={{ width: 68, height: 68, borderRadius: "50%", background: broadcastSub?.id === sub.id ? A.brand + "12" : A.bgPage, border: broadcastSub?.id === sub.id ? "2.5px solid " + A.brand : "2.5px solid transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, position: "relative", transition: "all 0.15s ease", boxSizing: "border-box" }}>
-                                                        {sub.id === "r1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="2" /><path d="M12 2v4M12 18v4M2 12h4M18 12h4" /><path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /></svg>
-                                                            : sub.id === "r2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                : sub.id === "r3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                    : sub.id === "r4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                        : sub.id === "r5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /><line x1="12" y1="14" x2="12" y2="18" /><line x1="10" y1="16" x2="14" y2="16" /></svg>
-                                                                            : sub.id === "c1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>
-                                                                                : sub.id === "c2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>
-                                                                                    : sub.id === "c3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /><line x1="18" y1="14" x2="23" y2="14" /></svg>
-                                                                                        : sub.id === "c4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                            : sub.id === "c5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                : sub.id === "s1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-                                                                                                    : sub.id === "s2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>
-                                                                                                        : sub.id === "s3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2c0 6-6 8-6 14a6 6 0 0 0 12 0c0-6-6-8-6-14z" /><path d="M12 12c0 3-2 4-2 6a2 2 0 0 0 4 0c0-2-2-3-2-6z" /></svg>
-                                                                                                            : sub.id === "s4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                : sub.id === "s5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 3h12l4 6-10 13L2 9z" /><path d="M11 3L8 9l4 13 4-13-3-6" /><line x1="2" y1="9" x2="22" y2="9" /></svg>
-                                                                                                                    : sub.id === "s6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="12" y1="1" x2="12" y2="23" /><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>
-                                                                                                                        : sub.id === "f1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-                                                                                                                            : sub.id === "f2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                : sub.id === "f3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                    : sub.id === "f4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                        : sub.id === "f5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                                                                            : sub.id === "f6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M8 22h8" /><path d="M12 11v11" /><path d="M5 3h14l-4 8H9L5 3z" /></svg>
-                                                                                                                                                : sub.id === "h1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 3h18v4H3zM3 7l2 14h14l2-14" /><line x1="9" y1="11" x2="15" y2="11" /></svg>
-                                                                                                                                                    : sub.id === "h2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M2 20h20" /><path d="M4 20V10l8-8 8 8v10" /><line x1="4" y1="14" x2="20" y2="14" /><line x1="9" y1="10" x2="15" y2="10" /></svg>
-                                                                                                                                                        : sub.id === "h3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="2" y="6" width="20" height="14" rx="2" /><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" /><line x1="12" y1="11" x2="12" y2="16" /></svg>
-                                                                                                                                                            : sub.id === "h4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="3" width="18" height="18" rx="2" /><line x1="8" y1="8" x2="16" y2="16" /><line x1="16" y1="8" x2="8" y2="16" /></svg>
-                                                                                                                                                                : sub.id === "w1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>
-                                                                                                                                                                    : sub.id === "w2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M19 16.9A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25" /><polyline points="13 11 11 15 14 15 12 19" /></svg>
-                                                                                                                                                                        : sub.id === "w4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" /></svg>
-                                                                                                                                                                            : sub.id === "l1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>
-                                                                                                                                                                                : sub.id === "l2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                                                                                                                                                    : sub.id === "l3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="9" cy="12" r="6" /><circle cx="15" cy="12" r="6" /></svg>
-                                                                                                                                                                                        : sub.id === "l4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="8" r="4" /><path d="M6 20v-2a6 6 0 0 1 12 0v2" /><path d="M9 13l1 2 2-3 2 3 1-2" /></svg>
-                                                                                                                                                                                            : sub.id === "l5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /><circle cx="12" cy="12" r="3" fill={broadcastSub?.id === sub.id ? A.brand : A.hof} /></svg>
-                                                                                                                                                                                                : sub.id === "l6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 17l4-8 4 4 4-6 4 10" /><line x1="3" y1="21" x2="21" y2="21" /></svg>
-                                                                                                                                                                                                    : sub.id === "t1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                                                                                        : sub.id === "t2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                                                                                            : sub.id === "t3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                                                                                                                : sub.id === "t4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" /></svg>
-                                                                                                                                                                                                                    : <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>}
+                                                        {renderSubIcon(sub.id, broadcastSub?.id === sub.id)}
                                                         {broadcastSub?.id === sub.id && (
                                                             <div style={{ position: "absolute", top: 0, right: 0, width: 22, height: 22, borderRadius: "50%", background: A.brand, border: "2px solid " + A.bg, display: "flex", alignItems: "center", justifyContent: "center" }}>
                                                                 <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
@@ -18844,7 +15145,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                         )}
                                                     </div>
                                                     <span style={{ fontSize: 12, fontWeight: 500, color: broadcastSub?.id === sub.id ? A.brand : A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>
-                                                        {sub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
+                                                        {sub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
                                                     </span>
                                                 </button>
                                             ))}
@@ -18860,7 +15161,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                             <div style={{ width: 22, height: 22, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                                 <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
                                             </div>
-                                            <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
+                                            <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
                                             <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.4" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                                         </button>
                                         {/* Threads-style compose row */}
@@ -18938,8 +15239,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                         return (
                                             <button key={type} onClick={() => {
                                                 if (type === "Broadcast") { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); return; }
-                                                if (type === "Trace") { setShowNewPost(false); setShowTraceStartScreen(true); return; }
-                                                if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); }
+                                                if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); setPostLink(""); setPostCarouselIdx(0); setActivePicker(null); setPickerSearch(""); setPhotoOverrides({}); setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); if (type === "Post") { setPostStep("grid"); setSelectedPostPhotos([]); } }
                                                 setNewPostType(type);
                                             }} style={{ all: "unset", cursor: "pointer", flexShrink: 0, padding: "7px 12px", borderRadius: 100, background: active ? A.brand : A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box", border: "1.5px solid " + (active ? A.brand : A.border) }}>
                                                 <span style={{ fontSize: 12, fontWeight: active ? 700 : 500, color: active ? "#FFF" : A.hof, fontFamily: F }}>{type}</span>
@@ -18952,13 +15252,501 @@ so testers can tap into the trace detail without going through the create flow. 
                     );
                 }
                 /* ── CAMERA / OTHER TABS ── */
+                /* === POST STAGE 1: MEDIA SELECTION GRID — Instagram-style multi-select. Up to 20 photos. === */
+                if (newPostType === "Post" && postStep === "grid") {
+                    const maxPhotos = 20;
+                    const togglePhoto = (url) => {
+                        setSelectedPostPhotos(prev => {
+                            if (prev.includes(url)) return prev.filter(p => p !== url);
+                            if (prev.length >= maxPhotos) return prev;
+                            return [...prev, url];
+                        });
+                    };
+                    const advance = () => {
+                        if (selectedPostPhotos.length === 0) return;
+                        setPostStep("edit");
+                        setShowPhotoEdit(true);
+                    };
+                    const leadPhoto = selectedPostPhotos[0] || MOCK_CAMERA_ROLL[0];
+                    return (
+                        <div style={{ position: "absolute", inset: 0, zIndex: 60, background: A.bg, display: "flex", flexDirection: "column" }}>
+                            {/* Top bar — X close + title + Next */}
+                            <div style={{ height: 56, display: "flex", alignItems: "center", paddingLeft: 16, paddingRight: 16, paddingTop: "env(safe-area-inset-top, 0px)", flexShrink: 0, gap: 12 }}>
+                                <button onClick={() => { setShowNewPost(false); setPostStep("grid"); setSelectedPostPhotos([]); setPostLink(""); setPostCarouselIdx(0); setActivePicker(null); setPickerSearch(""); setPhotoOverrides({}); setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                </button>
+                                <span style={{ flex: 1, textAlign: "center", fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>New Post</span>
+                                <button onClick={advance} disabled={selectedPostPhotos.length === 0} style={{ all: "unset", cursor: selectedPostPhotos.length > 0 ? "pointer" : "default", padding: "8px 14px", fontSize: 14, fontWeight: 700, color: selectedPostPhotos.length > 0 ? A.brand : A.foggy, fontFamily: F }}>
+                                    Next
+                                </button>
+                            </div>
+                            {/* Lead-photo preview pane — large, takes selected[0] or the first roll item */}
+                            <div style={{ width: "100%", aspectRatio: "1 / 1", background: "#000", position: "relative", flexShrink: 0 }}>
+                                <img src={leadPhoto} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+                                {selectedPostPhotos.length > 1 && (
+                                    <div style={{ position: "absolute", bottom: 12, right: 12, padding: "5px 10px", borderRadius: 100, background: "rgba(0,0,0,0.55)", backdropFilter: "blur(10px)", WebkitBackdropFilter: "blur(10px)", display: "inline-flex", alignItems: "center", gap: 6 }}>
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2" strokeLinecap="round"><rect x="3" y="3" width="13" height="13" rx="1.5" /><path d="M8 8h13v13H8z" /></svg>
+                                        <span style={{ fontSize: 11, fontWeight: 700, color: "#FFF", fontFamily: F }}>{selectedPostPhotos.length}</span>
+                                    </div>
+                                )}
+                            </div>
+                            {/* Source bar — "Recents" picker stub + camera button */}
+                            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "10px 16px", flexShrink: 0, borderBottom: "1px solid " + A.border }}>
+                                <button style={{ all: "unset", cursor: "pointer", display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 12px", borderRadius: 100, background: A.bgPage }}>
+                                    <span style={{ fontSize: 14, fontWeight: 700, color: A.dark, fontFamily: F }}>Recents</span>
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round"><polyline points="6 9 12 15 18 9" /></svg>
+                                </button>
+                                <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+                                    <span style={{ fontSize: 12, fontWeight: 600, color: A.foggy, fontFamily: F }}>{selectedPostPhotos.length} / {maxPhotos}</span>
+                                    <button onClick={() => setToastMsg("Camera not available in prototype")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 36, height: 36, borderRadius: "50%", background: A.bgPage }}>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" /><circle cx="12" cy="13" r="4" /></svg>
+                                    </button>
+                                </div>
+                            </div>
+                            {/* Photo grid — 4 columns, scrollable */}
+                            <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch" }}>
+                                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr", gap: 2 }}>
+                                    {MOCK_CAMERA_ROLL.map((url, idx) => {
+                                        const selectedIdx = selectedPostPhotos.indexOf(url);
+                                        const isSelected = selectedIdx >= 0;
+                                        const atMax = selectedPostPhotos.length >= maxPhotos && !isSelected;
+                                        return (
+                                            <button key={idx} onClick={() => togglePhoto(url)} disabled={atMax} style={{ all: "unset", cursor: atMax ? "default" : "pointer", position: "relative", aspectRatio: "1 / 1", overflow: "hidden", background: A.bgPage, opacity: atMax ? 0.4 : 1 }}>
+                                                <img src={url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block", filter: isSelected ? "brightness(0.75)" : "none", transition: "filter 0.12s" }} />
+                                                {/* Selection indicator — numbered circle when selected, hollow ring when not */}
+                                                <div style={{ position: "absolute", top: 6, right: 6, width: 24, height: 24, borderRadius: "50%", background: isSelected ? A.brand : "rgba(0,0,0,0.25)", border: isSelected ? "2px solid #FFF" : "1.5px solid rgba(255,255,255,0.9)", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                                                    {isSelected && <span style={{ fontSize: 11, fontWeight: 700, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{selectedIdx + 1}</span>}
+                                                </div>
+                                            </button>
+                                        );
+                                    })}
+                                </div>
+                            </div>
+                        </div>
+                    );
+                }
+                /* === POST STAGE 3: PER-PHOTO EDIT PAGE — Facebook-style scrollable feed of all selected photos.
+                       Each photo has its own caption, link, people, place. Inherits from post-level when empty. === */
+                if (showPhotoEdit && newPostType === "Post" && showPhotoEditPage) {
+                    const ALL_PLACES_PP = ["Be Our Guest Restaurant", "Cinderella's Royal Table", "Topolino's Terrace", "Space Mountain", "Haunted Mansion", "TRON Lightcycle Run", "Magic Kingdom", "EPCOT", "Hollywood Studios", "Animal Kingdom", "'Ohana", "California Grill", "Skipper Canteen", "Liberty Tree Tavern", "Jungle Cruise", "Pirates of the Caribbean", "Disney Springs", "Grand Floridian Resort", "Polynesian Village Resort", "Wilderness Lodge"];
+                    const photosPP = selectedPostPhotos.length > 0 ? selectedPostPhotos : MOCK_CAMERA_ROLL.slice(0, 1);
+                    const getOverride = (url) => photoOverrides[url] || { caption: "", places: [], people: [], link: "" };
+                    const setOverrideField = (url, field, value) => {
+                        setPhotoOverrides(prev => ({ ...prev, [url]: { ...getOverride(url), [field]: value } }));
+                    };
+                    const togglePlace = (url, place) => {
+                        const ov = getOverride(url);
+                        const next = ov.places.includes(place) ? ov.places.filter(p => p !== place) : [...ov.places, place];
+                        setOverrideField(url, "places", next);
+                    };
+                    const togglePerson = (url, person) => {
+                        const ov = getOverride(url);
+                        const has = ov.people.some(p => p.id === person.id);
+                        const next = has ? ov.people.filter(p => p.id !== person.id) : [...ov.people, person];
+                        setOverrideField(url, "people", next);
+                    };
+                    return (
+                        <div style={{ position: "absolute", inset: 0, zIndex: 70, background: A.bg, display: "flex", flexDirection: "column" }}>
+                            {/* Top bar — back + centered "Edit photos" + Done */}
+                            <div style={{ height: 56, display: "flex", alignItems: "center", paddingLeft: 16, paddingRight: 16, paddingTop: "env(safe-area-inset-top, 0px)", flexShrink: 0, gap: 12 }}>
+                                <button onClick={() => { setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
+                                </button>
+                                <span style={{ flex: 1, textAlign: "center", fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>Edit photos</span>
+                                <button onClick={() => { setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", padding: "8px 14px", fontSize: 14, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                            </div>
+                            {/* Body — vertical scroll, one section per photo */}
+                            <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", paddingBottom: "calc(env(safe-area-inset-bottom, 12px) + 12px)" }}>
+                                {photosPP.map((url, idx) => {
+                                    const ov = getOverride(url);
+                                    const isLast = idx === photosPP.length - 1;
+                                    const activePP = perPhotoActivePicker && perPhotoActivePicker.photoUrl === url ? perPhotoActivePicker.type : null;
+                                    return (
+                                        <div key={idx} style={{ borderBottom: !isLast ? "8px solid " + A.bgPage : "none" }}>
+                                            {/* Photo number label */}
+                                            <div style={{ padding: "12px 16px 8px" }}>
+                                                <span style={{ fontSize: 12, fontWeight: 700, color: A.foggy, fontFamily: F, textTransform: "uppercase", letterSpacing: 0.6 }}>Photo {idx + 1} of {photosPP.length}</span>
+                                            </div>
+                                            {/* Photo */}
+                                            <div style={{ width: "100%", aspectRatio: "1 / 1", background: "#000" }}>
+                                                <img src={url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+                                            </div>
+                                            {/* Tag chips for this photo */}
+                                            {(ov.places.length > 0 || ov.people.length > 0 || ov.link) && (
+                                                <div style={{ display: "flex", flexWrap: "wrap", gap: 6, padding: "10px 16px 0" }}>
+                                                    {ov.places.map(place => (
+                                                        <span key={place} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px 6px 8px", borderRadius: 100, background: A.brand + "12", border: "1px solid " + A.brand + "30" }}>
+                                                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.2" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                                            <span style={{ fontSize: 12, fontWeight: 700, color: A.brand, fontFamily: F }}>{place}</span>
+                                                            <button onClick={() => togglePlace(url, place)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.brand + "25" }}>
+                                                                <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                            </button>
+                                                        </span>
+                                                    ))}
+                                                    {ov.people.map(person => (
+                                                        <span key={person.id} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px 6px 4px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border }}>
+                                                            <img src={person.img} alt="" style={{ width: 20, height: 20, borderRadius: "50%", objectFit: "cover" }} />
+                                                            <span style={{ fontSize: 12, fontWeight: 600, color: A.dark, fontFamily: F }}>{person.handle}</span>
+                                                            <button onClick={() => togglePerson(url, person)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.border }}>
+                                                                <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                            </button>
+                                                        </span>
+                                                    ))}
+                                                    {ov.link && (
+                                                        <span style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border, maxWidth: "100%" }}>
+                                                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
+                                                            <span style={{ fontSize: 12, fontWeight: 600, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", maxWidth: 180 }}>{ov.link}</span>
+                                                            <button onClick={() => setOverrideField(url, "link", "")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.border }}>
+                                                                <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                            </button>
+                                                        </span>
+                                                    )}
+                                                </div>
+                                            )}
+                                            {/* Caption */}
+                                            <textarea
+                                                value={ov.caption}
+                                                onChange={e => { setOverrideField(url, "caption", e.target.value); const el = e.target; el.style.height = "auto"; el.style.height = Math.max(56, el.scrollHeight) + "px"; }}
+                                                placeholder="Add a caption…"
+                                                style={{ width: "100%", minHeight: 56, padding: "12px 16px", border: "none", outline: "none", background: "transparent", fontSize: 15, color: A.dark, fontFamily: F, resize: "none", lineHeight: 1.45, boxSizing: "border-box" }}
+                                            />
+                                            {/* Action icons specific to this photo */}
+                                            <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "0 16px 12px" }}>
+                                                {[
+                                                    { id: "link", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>, count: ov.link ? 1 : 0 },
+                                                    { id: "people", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="4" /><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8" /></svg>, count: ov.people.length },
+                                                    { id: "place", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>, count: ov.places.length },
+                                                ].map(act => {
+                                                    const isAct = activePP === act.id;
+                                                    return (
+                                                        <button key={act.id} onClick={() => { if (isAct) { setPerPhotoActivePicker(null); } else { setPerPhotoActivePicker({ photoUrl: url, type: act.id }); setPerPhotoPickerSearch(""); } }} style={{ all: "unset", cursor: "pointer", position: "relative", width: 40, height: 40, borderRadius: "50%", background: isAct ? A.brand + "12" : A.bgPage, border: isAct ? "1.5px solid " + A.brand : "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box" }}>
+                                                            {act.icon}
+                                                            {act.count > 0 && (
+                                                                <div style={{ position: "absolute", top: -3, right: -3, minWidth: 16, height: 16, padding: "0 4px", borderRadius: 100, background: A.brand, border: "1.5px solid " + A.bg, display: "flex", alignItems: "center", justifyContent: "center" }}>
+                                                                    <span style={{ fontSize: 9, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{act.count}</span>
+                                                                </div>
+                                                            )}
+                                                        </button>
+                                                    );
+                                                })}
+                                            </div>
+                                            {/* Inline picker for this photo */}
+                                            {activePP && (
+                                                <div style={{ margin: "0 16px 14px", borderRadius: 14, background: A.bgPage, border: "1px solid " + A.border, overflow: "hidden" }}>
+                                                    {activePP === "link" && (
+                                                        <div style={{ padding: "12px 14px" }}>
+                                                            <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                                                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
+                                                                <input autoFocus value={ov.link} onChange={e => setOverrideField(url, "link", e.target.value)} placeholder="Paste a link…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                                <button onClick={() => setPerPhotoActivePicker(null)} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                            </div>
+                                                        </div>
+                                                    )}
+                                                    {activePP === "people" && (() => {
+                                                        const allP = USERS.filter(u => u.id !== 1 && !u.isBusiness);
+                                                        const filt = perPhotoPickerSearch.trim() ? allP.filter(u => u.name.toLowerCase().includes(perPhotoPickerSearch.toLowerCase()) || u.handle.toLowerCase().includes(perPhotoPickerSearch.toLowerCase())) : allP;
+                                                        return (
+                                                            <div>
+                                                                <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderBottom: "1px solid " + A.border }}>
+                                                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
+                                                                    <input autoFocus value={perPhotoPickerSearch} onChange={e => setPerPhotoPickerSearch(e.target.value)} placeholder="Search people…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                                    <button onClick={() => { setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                                </div>
+                                                                <div style={{ maxHeight: 240, overflowY: "auto" }}>
+                                                                    {filt.slice(0, 10).map((p, i) => {
+                                                                        const tagged = ov.people.some(tp => tp.id === p.id);
+                                                                        return (
+                                                                            <button key={p.id} onClick={() => togglePerson(url, p)} style={{ all: "unset", cursor: "pointer", width: "100%", display: "flex", alignItems: "center", gap: 12, padding: "10px 14px", boxSizing: "border-box", borderTop: i > 0 ? "1px solid " + A.border : "none" }}>
+                                                                                <img src={p.img} alt="" style={{ width: 32, height: 32, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
+                                                                                <div style={{ flex: 1, minWidth: 0 }}>
+                                                                                    <div style={{ fontSize: 13, fontWeight: 700, color: A.dark, fontFamily: F }}>{p.name}</div>
+                                                                                    <div style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>{p.handle}</div>
+                                                                                </div>
+                                                                                {tagged && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
+                                                                            </button>
+                                                                        );
+                                                                    })}
+                                                                </div>
+                                                            </div>
+                                                        );
+                                                    })()}
+                                                    {activePP === "place" && (() => {
+                                                        const filt = perPhotoPickerSearch.trim() ? ALL_PLACES_PP.filter(p => p.toLowerCase().includes(perPhotoPickerSearch.toLowerCase())) : ALL_PLACES_PP;
+                                                        return (
+                                                            <div>
+                                                                <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderBottom: "1px solid " + A.border }}>
+                                                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
+                                                                    <input autoFocus value={perPhotoPickerSearch} onChange={e => setPerPhotoPickerSearch(e.target.value)} placeholder="Search places…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                                    <button onClick={() => { setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                                </div>
+                                                                <div style={{ maxHeight: 240, overflowY: "auto" }}>
+                                                                    {filt.slice(0, 10).map((place, i) => {
+                                                                        const sel = ov.places.includes(place);
+                                                                        return (
+                                                                            <button key={place} onClick={() => togglePlace(url, place)} style={{ all: "unset", cursor: "pointer", width: "100%", display: "flex", alignItems: "center", gap: 12, padding: "12px 14px", boxSizing: "border-box", borderTop: i > 0 ? "1px solid " + A.border : "none" }}>
+                                                                                <div style={{ width: 32, height: 32, borderRadius: "50%", background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                                                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                                                                </div>
+                                                                                <span style={{ flex: 1, fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F }}>{place}</span>
+                                                                                {sel && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
+                                                                            </button>
+                                                                        );
+                                                                    })}
+                                                                </div>
+                                                            </div>
+                                                        );
+                                                    })()}
+                                                </div>
+                                            )}
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        </div>
+                    );
+                }
+                /* === POST STAGE 2: FACEBOOK-STYLE INLINE COMPOSER — light theme, all controls on one screen === */
+                if (showPhotoEdit && newPostType === "Post") {
+                    const ALL_PLACES_POST = ["Be Our Guest Restaurant", "Cinderella's Royal Table", "Topolino's Terrace", "Space Mountain", "Haunted Mansion", "TRON Lightcycle Run", "Magic Kingdom", "EPCOT", "Hollywood Studios", "Animal Kingdom", "'Ohana", "California Grill", "Skipper Canteen", "Liberty Tree Tavern", "Jungle Cruise", "Pirates of the Caribbean", "Disney Springs", "Grand Floridian Resort", "Polynesian Village Resort", "Wilderness Lodge"];
+                    const me = USERS[0];
+                    const photos = selectedPostPhotos.length > 0 ? selectedPostPhotos : MOCK_CAMERA_ROLL.slice(0, 1);
+                    const curIdx = Math.min(postCarouselIdx, photos.length - 1);
+                    const canPost = photos.length > 0;
+                    const submitPost = () => {
+                        if (!canPost) return;
+                        const allPlaces = attachedPlaces || [];
+                        const unrated = allPlaces.filter(p => !quickRates["place-" + p]);
+                        setToastMsg("Post shared!");
+                        setShowNewPost(false);
+                        setShowPhotoEdit(false);
+                        setPhotoCaption("");
+                        setAttachedPlaces([]);
+                        setAttachedRating(null);
+                        setTaggedPeople([]);
+                        setAttachedLists([]);
+                        setPostStep("grid");
+                        setSelectedPostPhotos([]);
+                        setPostLink("");
+                        setPostCarouselIdx(0);
+                        setActivePicker(null);
+                        setPickerSearch("");
+                        setPhotoOverrides({});
+                        setShowPhotoEditPage(false);
+                        setPerPhotoActivePicker(null);
+                        setPerPhotoPickerSearch("");
+                        if (unrated.length > 0) { setPendingRatings(unrated); setCarouselIdx(0); setShowRatingCarousel(true); }
+                    };
+                    return (
+                        <div style={{ position: "absolute", inset: 0, zIndex: 60, background: A.bg, display: "flex", flexDirection: "column" }}>
+                            {/* Top bar — X back to grid + centered title + 3-dot */}
+                            <div style={{ height: 56, display: "flex", alignItems: "center", paddingLeft: 16, paddingRight: 16, paddingTop: "env(safe-area-inset-top, 0px)", flexShrink: 0, gap: 12 }}>
+                                <button onClick={() => { setShowPhotoEdit(false); setPhotoCaption(""); setPostStep("grid"); setActivePicker(null); setPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
+                                </button>
+                                <span style={{ flex: 1, textAlign: "center", fontSize: 17, fontWeight: 700, color: A.dark, fontFamily: F }}>New post</span>
+                                <button style={{ all: "unset", cursor: "pointer", width: 40, height: 40, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill={A.dark}><circle cx="5" cy="12" r="1.6" /><circle cx="12" cy="12" r="1.6" /><circle cx="19" cy="12" r="1.6" /></svg>
+                                </button>
+                            </div>
+                            {/* Author row — avatar + name */}
+                            <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "14px 16px 10px", flexShrink: 0 }}>
+                                <img src={me.img} alt="" style={{ width: 44, height: 44, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
+                                <span style={{ fontSize: 16, fontWeight: 700, color: A.dark, fontFamily: F }}>{me.name}</span>
+                            </div>
+                            {/* Scrollable body — media carousel + caption */}
+                            <div style={{ flex: 1, overflowY: "auto", WebkitOverflowScrolling: "touch", paddingBottom: 8 }}>
+                                {/* Media mosaic — Facebook-style aggregated grid. Layout adapts to photo count.
+            1: single tile · 2: side-by-side · 3: big left + 2 stacked right · 4+: 2x2 with +N overlay on last tile. */}
+                                {(() => {
+                                    const n = photos.length;
+                                    const tilePhotos = photos.slice(0, 4);
+                                    const overflow = Math.max(0, n - 4);
+                                    // Tile sub-component — image + optional +N overlay + tap to expand (Phase 3 hook).
+                                    const Tile = ({ url, idx, isLast, overflowCount }) => (
+                                        <button onClick={() => { setShowPhotoEditPage(true); setPostCarouselIdx(idx); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", position: "relative", width: "100%", height: "100%", overflow: "hidden", background: "#000" }}>
+                                            <img src={url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+                                            {isLast && overflowCount > 0 && (
+                                                <div style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.55)", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                                                    <span style={{ fontSize: 36, fontWeight: 800, color: "#FFF", fontFamily: F, letterSpacing: -1 }}>+{overflowCount}</span>
+                                                </div>
+                                            )}
+                                        </button>
+                                    );
+                                    if (n === 1) {
+                                        return (
+                                            <div style={{ width: "100%", aspectRatio: "1 / 1", background: "#000" }}>
+                                                <Tile url={tilePhotos[0]} idx={0} isLast={false} overflowCount={0} />
+                                            </div>
+                                        );
+                                    }
+                                    if (n === 2) {
+                                        return (
+                                            <div style={{ width: "100%", aspectRatio: "2 / 1", display: "grid", gridTemplateColumns: "1fr 1fr", gap: 2, background: A.bg }}>
+                                                {tilePhotos.map((u, i) => <Tile key={i} url={u} idx={i} isLast={false} overflowCount={0} />)}
+                                            </div>
+                                        );
+                                    }
+                                    if (n === 3) {
+                                        return (
+                                            <div style={{ width: "100%", aspectRatio: "1 / 1", display: "grid", gridTemplateColumns: "2fr 1fr", gap: 2, background: A.bg }}>
+                                                <Tile url={tilePhotos[0]} idx={0} isLast={false} overflowCount={0} />
+                                                <div style={{ display: "grid", gridTemplateRows: "1fr 1fr", gap: 2 }}>
+                                                    <Tile url={tilePhotos[1]} idx={1} isLast={false} overflowCount={0} />
+                                                    <Tile url={tilePhotos[2]} idx={2} isLast={false} overflowCount={0} />
+                                                </div>
+                                            </div>
+                                        );
+                                    }
+                                    // 4 or more — 2×2 grid; last tile gets +N overlay if there are more
+                                    return (
+                                        <div style={{ width: "100%", aspectRatio: "1 / 1", display: "grid", gridTemplateColumns: "1fr 1fr", gridTemplateRows: "1fr 1fr", gap: 2, background: A.bg }}>
+                                            {tilePhotos.map((u, i) => <Tile key={i} url={u} idx={i} isLast={i === 3} overflowCount={overflow} />)}
+                                        </div>
+                                    );
+                                })()}
+                                {/* Tag chips — places, people, link — appear below media when set */}
+                                {(attachedPlaces.length > 0 || taggedPeople.length > 0 || postLink) && (
+                                    <div style={{ display: "flex", flexWrap: "wrap", gap: 6, padding: "10px 16px 0" }}>
+                                        {attachedPlaces.map(place => (
+                                            <span key={place} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px 6px 8px", borderRadius: 100, background: A.brand + "12", border: "1px solid " + A.brand + "30" }}>
+                                                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.2" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                                <span style={{ fontSize: 12, fontWeight: 700, color: A.brand, fontFamily: F }}>{place}</span>
+                                                <button onClick={() => setAttachedPlaces(prev => prev.filter(p => p !== place))} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.brand + "25" }}>
+                                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                </button>
+                                            </span>
+                                        ))}
+                                        {taggedPeople.map(person => (
+                                            <span key={person.id} style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px 6px 4px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border }}>
+                                                <img src={person.img} alt="" style={{ width: 20, height: 20, borderRadius: "50%", objectFit: "cover" }} />
+                                                <span style={{ fontSize: 12, fontWeight: 600, color: A.dark, fontFamily: F }}>{person.handle}</span>
+                                                <button onClick={() => setTaggedPeople(prev => prev.filter(p => p.id !== person.id))} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.border }}>
+                                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                </button>
+                                            </span>
+                                        ))}
+                                        {postLink && (
+                                            <span style={{ display: "inline-flex", alignItems: "center", gap: 6, padding: "6px 10px 6px 10px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border, maxWidth: "100%" }}>
+                                                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
+                                                <span style={{ fontSize: 12, fontWeight: 600, color: A.dark, fontFamily: F, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", maxWidth: 180 }}>{postLink}</span>
+                                                <button onClick={() => setPostLink("")} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 16, height: 16, borderRadius: "50%", background: A.border }}>
+                                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="3" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                                                </button>
+                                            </span>
+                                        )}
+                                    </div>
+                                )}
+                                {/* Caption — single textarea, autosizes */}
+                                <textarea
+                                    value={photoCaption}
+                                    onChange={e => { setPhotoCaption(e.target.value); const el = e.target; el.style.height = "auto"; el.style.height = Math.max(80, el.scrollHeight) + "px"; }}
+                                    placeholder="Add a caption…"
+                                    style={{ width: "100%", minHeight: 80, padding: "14px 16px", border: "none", outline: "none", background: "transparent", fontSize: 15, color: A.dark, fontFamily: F, resize: "none", lineHeight: 1.45, boxSizing: "border-box" }}
+                                />
+                                {/* Inline picker — expands below caption when an action icon is tapped */}
+                                {activePicker && (
+                                    <div style={{ margin: "0 16px 8px", borderRadius: 14, background: A.bgPage, border: "1px solid " + A.border, overflow: "hidden" }}>
+                                        {activePicker === "link" && (
+                                            <div style={{ padding: "12px 14px" }}>
+                                                <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>
+                                                    <input autoFocus value={postLink} onChange={e => setPostLink(e.target.value)} placeholder="Paste a link…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                    <button onClick={() => { setActivePicker(null); }} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                </div>
+                                            </div>
+                                        )}
+                                        {activePicker === "people" && (() => {
+                                            const allPeople = USERS.filter(u => u.id !== 1 && !u.isBusiness);
+                                            const filtered = pickerSearch.trim() ? allPeople.filter(u => u.name.toLowerCase().includes(pickerSearch.toLowerCase()) || u.handle.toLowerCase().includes(pickerSearch.toLowerCase())) : allPeople;
+                                            return (
+                                                <div>
+                                                    <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderBottom: "1px solid " + A.border }}>
+                                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
+                                                        <input autoFocus value={pickerSearch} onChange={e => setPickerSearch(e.target.value)} placeholder="Search people…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                        <button onClick={() => { setActivePicker(null); setPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                    </div>
+                                                    <div style={{ maxHeight: 240, overflowY: "auto" }}>
+                                                        {filtered.slice(0, 10).map((p, i) => {
+                                                            const tagged = taggedPeople.some(tp => tp.id === p.id);
+                                                            return (
+                                                                <button key={p.id} onClick={() => setTaggedPeople(prev => tagged ? prev.filter(x => x.id !== p.id) : [...prev, p])} style={{ all: "unset", cursor: "pointer", width: "100%", display: "flex", alignItems: "center", gap: 12, padding: "10px 14px", boxSizing: "border-box", borderTop: i > 0 ? "1px solid " + A.border : "none" }}>
+                                                                    <img src={p.img} alt="" style={{ width: 32, height: 32, borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
+                                                                    <div style={{ flex: 1, minWidth: 0 }}>
+                                                                        <div style={{ fontSize: 13, fontWeight: 700, color: A.dark, fontFamily: F }}>{p.name}</div>
+                                                                        <div style={{ fontSize: 12, color: A.foggy, fontFamily: F }}>{p.handle}</div>
+                                                                    </div>
+                                                                    {tagged && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
+                                                                </button>
+                                                            );
+                                                        })}
+                                                    </div>
+                                                </div>
+                                            );
+                                        })()}
+                                        {activePicker === "place" && (() => {
+                                            const filtered = pickerSearch.trim() ? ALL_PLACES_POST.filter(p => p.toLowerCase().includes(pickerSearch.toLowerCase())) : ALL_PLACES_POST;
+                                            return (
+                                                <div>
+                                                    <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "10px 14px", borderBottom: "1px solid " + A.border }}>
+                                                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.hof} strokeWidth="2.5"><circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" /></svg>
+                                                        <input autoFocus value={pickerSearch} onChange={e => setPickerSearch(e.target.value)} placeholder="Search places…" style={{ all: "unset", flex: 1, fontSize: 14, color: A.dark, fontFamily: F }} />
+                                                        <button onClick={() => { setActivePicker(null); setPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", fontSize: 13, fontWeight: 700, color: A.brand, fontFamily: F }}>Done</button>
+                                                    </div>
+                                                    <div style={{ maxHeight: 240, overflowY: "auto" }}>
+                                                        {filtered.slice(0, 10).map((place, i) => {
+                                                            const sel = attachedPlaces.includes(place);
+                                                            return (
+                                                                <button key={place} onClick={() => setAttachedPlaces(prev => sel ? prev.filter(x => x !== place) : [...prev, place])} style={{ all: "unset", cursor: "pointer", width: "100%", display: "flex", alignItems: "center", gap: 12, padding: "12px 14px", boxSizing: "border-box", borderTop: i > 0 ? "1px solid " + A.border : "none" }}>
+                                                                    <div style={{ width: 32, height: 32, borderRadius: "50%", background: A.brand + "12", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                                                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
+                                                                    </div>
+                                                                    <span style={{ flex: 1, fontSize: 14, fontWeight: 600, color: A.dark, fontFamily: F }}>{place}</span>
+                                                                    {sel && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.5" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>}
+                                                                </button>
+                                                            );
+                                                        })}
+                                                    </div>
+                                                </div>
+                                            );
+                                        })()}
+                                    </div>
+                                )}
+                            </div>
+                            {/* Action icons row + Post CTA — pinned to bottom */}
+                            <div style={{ flexShrink: 0, padding: "10px 16px", paddingBottom: "calc(env(safe-area-inset-bottom, 10px) + 10px)", background: A.bg }}>
+                                <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 10 }}>
+                                    {[
+                                        { id: "link", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" /><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" /></svg>, count: postLink ? 1 : 0 },
+                                        { id: "people", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="4" /><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8" /></svg>, count: taggedPeople.length },
+                                        { id: "place", icon: <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>, count: attachedPlaces.length },
+                                    ].map(act => {
+                                        const isActive = activePicker === act.id;
+                                        return (
+                                            <button key={act.id} onClick={() => { setActivePicker(isActive ? null : act.id); setPickerSearch(""); }} style={{ all: "unset", cursor: "pointer", position: "relative", width: 40, height: 40, borderRadius: "50%", background: isActive ? A.brand + "12" : A.bgPage, border: isActive ? "1.5px solid " + A.brand : "1px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box" }}>
+                                                {act.icon}
+                                                {act.count > 0 && (
+                                                    <div style={{ position: "absolute", top: -3, right: -3, minWidth: 16, height: 16, padding: "0 4px", borderRadius: 100, background: A.brand, border: "1.5px solid " + A.bg, display: "flex", alignItems: "center", justifyContent: "center" }}>
+                                                        <span style={{ fontSize: 9, fontWeight: 800, color: "#FFF", fontFamily: F, lineHeight: 1 }}>{act.count}</span>
+                                                    </div>
+                                                )}
+                                            </button>
+                                        );
+                                    })}
+                                </div>
+                                <button onClick={submitPost} disabled={!canPost} style={{ all: "unset", cursor: canPost ? "pointer" : "default", width: "100%", padding: "14px 0", borderRadius: 100, background: canPost ? A.brand : A.bgPage, border: canPost ? "none" : "1.5px solid " + A.border, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
+                                    <span style={{ fontSize: 15, fontWeight: 700, color: canPost ? "#FFF" : A.foggy, fontFamily: F }}>Post</span>
+                                </button>
+                            </div>
+                        </div>
+                    );
+                }
                 /* PHOTO EDIT MODE */
                 if (showPhotoEdit) return (
                     <div style={{ position: "fixed", inset: 0, zIndex: 60, background: "#000" }}>
                         {/* Full-screen captured photo */}
                         <img src="https://images.unsplash.com/photo-1536086845584-8cdb6c2e0e14?w=800&q=80" alt="" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
                         {/* Floating back button — top left */}
-                        <button onClick={() => { setShowPhotoEdit(false); setPhotoCaption(""); }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: "calc(env(safe-area-inset-top, 12px) + 10px)", left: 16, width: 40, height: 40, borderRadius: "50%", background: "rgba(0,0,0,0.4)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", display: "flex", alignItems: "center", justifyContent: "center", zIndex: 10 }}>
+                        <button onClick={() => { setShowPhotoEdit(false); setPhotoCaption(""); if (newPostType === "Post") { setPostStep("grid"); } }} style={{ all: "unset", cursor: "pointer", position: "absolute", top: "calc(env(safe-area-inset-top, 12px) + 10px)", left: 16, width: 40, height: 40, borderRadius: "50%", background: "rgba(0,0,0,0.4)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", display: "flex", alignItems: "center", justifyContent: "center", zIndex: 10 }}>
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
                         </button>
                         {/* Tag indicators — vertical stack top-right, above caption */}
@@ -19235,6 +16023,8 @@ so testers can tap into the trace detail without going through the create flow. 
                                         setAttachedRating(null);
                                         setTaggedPeople([]);
                                         setAttachedLists([]);
+                                        setPostStep("grid");
+                                        setSelectedPostPhotos([]);
                                         if (unrated.length > 0) { setPendingRatings(unrated); setCarouselIdx(0); setShowRatingCarousel(true); }
                                     }} style={{ all: "unset", cursor: "pointer", width: "100%", padding: "14px 0", borderRadius: 14, background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", boxSizing: "border-box" }}>
                                         <span style={{ fontFamily: F, fontSize: 15, fontWeight: 700, color: "#FFF" }}>Post</span>
@@ -19435,8 +16225,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                     return (
                                         <button key={type} onClick={() => {
                                             if (type === "Broadcast") { setBroadcastStep("cat"); setBroadcastCat(null); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setSelectedWaitTime(null); setBroadcastNote(""); setBroadcastAttachment(null); setNewPostType("Broadcast"); return; }
-                                            if (type === "Trace") { setShowNewPost(false); setShowTraceStartScreen(true); return; }
-                                            if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); }
+                                            if (newPostType !== type) { setAttachedPlaces([]); setAttachedRating(null); setTaggedPeople([]); setAttachedLists([]); setReviewSubject(null); setReviewVote(null); setPhotoCaption(""); setPostLink(""); setPostCarouselIdx(0); setActivePicker(null); setPickerSearch(""); setPhotoOverrides({}); setShowPhotoEditPage(false); setPerPhotoActivePicker(null); setPerPhotoPickerSearch(""); if (type === "Post") { setPostStep("grid"); setSelectedPostPhotos([]); } }
                                             setNewPostType(type);
                                         }} style={{ all: "unset", cursor: "pointer", flexShrink: 0, padding: "7px 12px", borderRadius: 100, background: active ? A.brand : "rgba(0,0,0,0.35)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", display: "flex", alignItems: "center", justifyContent: "center", transition: "all 0.15s", boxSizing: "border-box", border: "1.5px solid " + (active ? A.brand : "rgba(255,255,255,0.3)") }}>
                                             <span style={{ fontSize: 12, fontWeight: active ? 700 : 500, color: "#FFF", fontFamily: F }}>{type}</span>
@@ -20454,7 +17243,7 @@ so testers can tap into the trace detail without going through the create flow. 
                             <span style={{ position: "absolute", left: "50%", transform: "translateX(-50%)", fontSize: 22, fontWeight: 700, color: A.dark, fontFamily: F, whiteSpace: "nowrap" }}>
                                 {broadcastStep === "cat" ? "Broadcast" : broadcastCat.label}
                             </span>
-                            <button onClick={() => setShowBroadcastSheet(false)} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, marginLeft: "auto" }}>
+                            <button onClick={() => { if (broadcastStep === "sub") { setBroadcastStep("cat"); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setShowVenueSlideUp(false); setBroadcastNote(""); setSelectedWaitTime(null); setBroadcastAttachment(null); } else { setShowBroadcastSheet(false); } }} style={{ all: "unset", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", width: 32, height: 32, borderRadius: "50%", background: A.bgPage, marginLeft: "auto" }}>
                                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="2.5" strokeLinecap="round"><path d="M18 6L6 18M6 6l12 12" /></svg>
                             </button>
                         </div>
@@ -20464,14 +17253,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                     {BROADCAST_CATS.map(cat => (
                                         <button key={cat.id} onClick={() => { setBroadcastCat(cat); setBroadcastSub(null); setBroadcastVenue(null); setBroadcastVenueSearch(""); setBroadcastStep("sub"); }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "14px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box", transition: "opacity 0.12s" }}>
                                             <div style={{ width: 64, height: 64, borderRadius: "50%", background: A.bgPage, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, border: "1.5px solid " + A.border }}>
-                                                {cat.id === "rides" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><line x1="4.5" y1="6.5" x2="7.7" y2="8.35" /><line x1="4.5" y1="13.5" x2="7.7" y2="11.65" /><line x1="19.5" y1="6.5" x2="16.3" y2="8.35" /><line x1="19.5" y1="13.5" x2="16.3" y2="11.65" /><circle cx="12" cy="10" r="1.2" fill={A.dark} stroke="none" /><rect x="10.75" y="1.5" width="2.5" height="2" rx="0.4" /><rect x="10.75" y="16.5" width="2.5" height="2" rx="0.4" /><rect x="18" y="8.75" width="2" height="2.5" rx="0.4" /><rect x="4" y="8.75" width="2" height="2.5" rx="0.4" /><line x1="9.5" y1="18.5" x2="7.5" y2="22" /><line x1="14.5" y1="18.5" x2="16.5" y2="22" /><line x1="7" y1="22" x2="17" y2="22" /></svg>}
-                                                {cat.id === "crowds" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
-                                                {cat.id === "shops" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
-                                                {cat.id === "food" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                                {cat.id === "headsup" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>}
-                                                {cat.id === "weather" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /></svg>}
-                                                {cat.id === "live" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.dark} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /><path d="M9.17 9.17a4 4 0 0 0 0 5.66" /><path d="M14.83 9.17a4 4 0 0 1 0 5.66" /></svg>}
-                                                {cat.id === "transport" && <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke={A.dark} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><path d="M6 9l1.5-3h9L18 9" /><line x1="12" y1="9" x2="12" y2="14" /><circle cx="6.5" cy="18.5" r="2" /><circle cx="17.5" cy="18.5" r="2" /></svg>}
+                                                {renderCatIcon(cat.id)}
                                             </div>
                                             <span style={{ fontSize: 12, fontWeight: 500, color: A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>{cat.label}</span>
                                         </button>
@@ -20482,7 +17264,7 @@ so testers can tap into the trace detail without going through the create flow. 
                         {broadcastStep === "sub" && broadcastCat && (() => {
                             const venueList = (BROADCAST_VENUES[broadcastPlace]?.[broadcastCat.id] || BROADCAST_VENUES["Magic Kingdom"][broadcastCat.id] || []);
                             const filteredVenues = broadcastVenueSearch.trim() ? venueList.filter((v) => v.toLowerCase().includes(broadcastVenueSearch.toLowerCase())) : venueList;
-                            const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub.id !== "r1" || selectedWaitTime !== null);
+                            const canBroadcast = !!broadcastSub && !!(broadcastVenue || broadcastPlace) && (broadcastSub.id !== "wa0" || selectedWaitTime !== null);
                             const inCompose = !!broadcastSub;
                             return (
                                 <>
@@ -20492,52 +17274,11 @@ so testers can tap into the trace detail without going through the create flow. 
                                                 <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 8 }}>
                                                     {broadcastCat.subs.map(sub => (
                                                         <button key={sub.id} onClick={() => {
-                                                            if (sub.id === "r1") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
+                                                            if (sub.id === "wa0") { setSelectedWaitTime(null); setShowWaitTimePicker(true); return; }
                                                             setBroadcastSub(sub);
                                                         }} style={{ all: "unset", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", gap: 8, padding: "16px 8px 12px", borderRadius: 16, background: "transparent", boxSizing: "border-box" }}>
                                                             <div style={{ width: 68, height: 68, borderRadius: "50%", background: broadcastSub?.id === sub.id ? A.brand + "12" : A.bgPage, border: broadcastSub?.id === sub.id ? "2.5px solid " + A.brand : "2.5px solid transparent", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, position: "relative", transition: "all 0.15s ease", boxSizing: "border-box" }}>
-                                                                {sub.id === "r1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="2" /><path d="M12 2v4M12 18v4M2 12h4M18 12h4" /><path d="M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /></svg>
-                                                                    : sub.id === "r2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                        : sub.id === "r3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                            : sub.id === "r4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                : sub.id === "r5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" /><line x1="12" y1="14" x2="12" y2="18" /><line x1="10" y1="16" x2="14" y2="16" /></svg>
-                                                                                    : sub.id === "c1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /></svg>
-                                                                                        : sub.id === "c2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>
-                                                                                            : sub.id === "c3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /><line x1="18" y1="14" x2="23" y2="14" /></svg>
-                                                                                                : sub.id === "c4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                                    : sub.id === "c5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                        : sub.id === "s1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
-                                                                                                            : sub.id === "s2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>
-                                                                                                                : sub.id === "s3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2c0 6-6 8-6 14a6 6 0 0 0 12 0c0-6-6-8-6-14z" /><path d="M12 12c0 3-2 4-2 6a2 2 0 0 0 4 0c0-2-2-3-2-6z" /></svg>
-                                                                                                                    : sub.id === "s4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                        : sub.id === "s5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M6 3h12l4 6-10 13L2 9z" /><path d="M11 3L8 9l4 13 4-13-3-6" /><line x1="2" y1="9" x2="22" y2="9" /></svg>
-                                                                                                                            : sub.id === "s6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="12" y1="1" x2="12" y2="23" /><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>
-                                                                                                                                : sub.id === "f1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
-                                                                                                                                    : sub.id === "f2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                        : sub.id === "f3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                            : sub.id === "f4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                                : sub.id === "f5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>
-                                                                                                                                                    : sub.id === "f6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M8 22h8" /><path d="M12 11v11" /><path d="M5 3h14l-4 8H9L5 3z" /></svg>
-                                                                                                                                                        : sub.id === "h1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 3h18v4H3zM3 7l2 14h14l2-14" /><line x1="9" y1="11" x2="15" y2="11" /></svg>
-                                                                                                                                                            : sub.id === "h2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M2 20h20" /><path d="M4 20V10l8-8 8 8v10" /><line x1="4" y1="14" x2="20" y2="14" /><line x1="9" y1="10" x2="15" y2="10" /></svg>
-                                                                                                                                                                : sub.id === "h3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="2" y="6" width="20" height="14" rx="2" /><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" /><line x1="12" y1="11" x2="12" y2="16" /><line x1="12" y1="11" x2="12" y2="11" strokeWidth="2.5" /></svg>
-                                                                                                                                                                    : sub.id === "h4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><rect x="3" y="3" width="18" height="18" rx="2" /><line x1="8" y1="8" x2="16" y2="16" /><line x1="16" y1="8" x2="8" y2="16" /></svg>
-                                                                                                                                                                        : sub.id === "w1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>
-                                                                                                                                                                            : sub.id === "w2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M19 16.9A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25" /><polyline points="13 11 11 15 14 15 12 19" /></svg>
-
-                                                                                                                                                                                : sub.id === "w4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" /></svg>
-
-                                                                                                                                                                                    : sub.id === "l1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>
-                                                                                                                                                                                        : sub.id === "l2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" /></svg>
-                                                                                                                                                                                            : sub.id === "l3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="9" cy="12" r="6" /><circle cx="15" cy="12" r="6" /><path d="M7 11.5c.5-.5 1-.5 2 0" /><path d="M7 13.5c.5.5 1 .5 2 0" /><path d="M15 11.5c.5-.5 1-.5 2 0" /><path d="M15 14c.5-.5 1-.5 2-.5" /></svg>
-                                                                                                                                                                                                : sub.id === "l4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="8" r="4" /><path d="M6 20v-2a6 6 0 0 1 12 0v2" /><path d="M9 13l1 2 2-3 2 3 1-2" /></svg>
-                                                                                                                                                                                                    : sub.id === "l5" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" /><circle cx="12" cy="12" r="3" fill={broadcastSub?.id === sub.id ? A.brand : A.hof} /></svg>
-                                                                                                                                                                                                        : sub.id === "t1" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
-                                                                                                                                                                                                            : sub.id === "t2" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /><line x1="4.93" y1="4.93" x2="19.07" y2="19.07" /></svg>
-                                                                                                                                                                                                                : sub.id === "t3" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
-                                                                                                                                                                                                                    : sub.id === "t4" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" /></svg>
-                                                                                                                                                                                                                        : sub.id === "l6" ? <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><path d="M3 17l4-8 4 4 4-6 4 10" /><line x1="3" y1="21" x2="21" y2="21" /></svg>
-                                                                                                                                                                                                                            : <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={broadcastSub?.id === sub.id ? A.brand : A.hof} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="10" /></svg>}
+                                                                {renderSubIcon(sub.id, broadcastSub?.id === sub.id)}
                                                                 {broadcastSub?.id === sub.id && (
                                                                     <div style={{ position: "absolute", top: 0, right: 0, width: 22, height: 22, borderRadius: "50%", background: A.brand, border: "2px solid " + A.bg, display: "flex", alignItems: "center", justifyContent: "center" }}>
                                                                         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
@@ -20545,7 +17286,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                                 )}
                                                             </div>
                                                             <span style={{ fontSize: 12, fontWeight: 500, color: broadcastSub?.id === sub.id ? A.brand : A.dark, fontFamily: F, textAlign: "center", lineHeight: 1.3 }}>
-                                                                {sub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
+                                                                {sub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : sub.label}
                                                             </span>
                                                         </button>
                                                     ))}
@@ -20560,7 +17301,7 @@ so testers can tap into the trace detail without going through the create flow. 
                                                     <div style={{ width: 22, height: 22, borderRadius: "50%", background: A.brand, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
                                                         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#FFF" strokeWidth="3" strokeLinecap="round"><polyline points="20 6 9 17 4 12" /></svg>
                                                     </div>
-                                                    <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "r1" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
+                                                    <span style={{ fontSize: 12.5, fontWeight: 700, color: A.brand, fontFamily: F }}>{broadcastCat.label} · {broadcastSub.id === "wa0" && selectedWaitTime !== null ? selectedWaitTime + " min" : broadcastSub.label}</span>
                                                     <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="2.4" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                                                 </button>
                                                 {/* Threads-style compose row — avatar + text area. Grows to fill available space. */}
@@ -20937,14 +17678,12 @@ so testers can tap into the trace detail without going through the create flow. 
                             <div key={bc.id}>
                                 <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 16px" }}>
                                     <div style={{ width: 40, height: 40, borderRadius: "50%", background: A.brand + "12", border: "1.5px solid " + A.brand + "25", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                                        {bc.catId === "rides" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
-                                        {bc.catId === "food" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1" /><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z" /><line x1="6" y1="1" x2="6" y2="4" /><line x1="10" y1="1" x2="10" y2="4" /><line x1="14" y1="1" x2="14" y2="4" /></svg>}
-                                        {bc.catId === "shops" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
+                                        {bc.catId === "wait" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="10" r="7.5" /><line x1="12" y1="2.5" x2="12" y2="17.5" /><line x1="4.5" y1="10" x2="19.5" y2="10" /><line x1="6.69" y1="4.69" x2="17.31" y2="15.31" /><line x1="17.31" y1="4.69" x2="6.69" y2="15.31" /><circle cx="12" cy="10" r="1.2" fill={A.brand} stroke="none" /></svg>}
+                                        {bc.catId === "find" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" /><line x1="3" y1="6" x2="21" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" /></svg>}
                                         {bc.catId === "crowds" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M23 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg>}
                                         {bc.catId === "live" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><circle cx="12" cy="12" r="3" fill={A.brand} /><path d="M6.34 6.34a8 8 0 0 0 0 11.32" /><path d="M17.66 6.34a8 8 0 0 1 0 11.32" /></svg>}
                                         {bc.catId === "headsup" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="2.5" /></svg>}
-                                        {bc.catId === "weather" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
-                                        {bc.catId === "transport" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M2 14h20v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3z" /><path d="M2 14l3-5h14l3 5" /><circle cx="6.5" cy="18.5" r="1.8" /><circle cx="17.5" cy="18.5" r="1.8" /></svg>}
+                                        {bc.catId === "conditions" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={A.brand} strokeWidth="1.6" strokeLinecap="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25" /><line x1="8" y1="19" x2="8" y2="21" /><line x1="12" y1="19" x2="12" y2="23" /><line x1="16" y1="19" x2="16" y2="21" /></svg>}
                                     </div>
                                     <div style={{ flex: 1, minWidth: 0 }}>
                                         <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: 2 }}>
@@ -21139,7 +17878,7 @@ so testers can tap into the trace detail without going through the create flow. 
                         <div style={{ padding: "0 16px" }}>
                             <button onClick={() => {
                                 if (selectedWaitTime === null) return;
-                                setBroadcastSub({ id: "r1", label: selectedWaitTime + " min wait" });
+                                setBroadcastSub({ id: "wa0", label: selectedWaitTime + " min wait" });
                                 setShowWaitTimePicker(false);
                             }} style={{ all: "unset", cursor: selectedWaitTime !== null ? "pointer" : "default", width: "100%", padding: "15px 0", borderRadius: 100, background: selectedWaitTime !== null ? `linear-gradient(135deg, ${A.brand}, #2A4F7A)` : A.bgPage, border: selectedWaitTime !== null ? "none" : "1.5px solid " + A.border, textAlign: "center", boxSizing: "border-box", boxShadow: selectedWaitTime !== null ? "0 6px 20px rgba(30,58,95,0.35)" : "none", transition: "all 0.2s ease" }}>
                                 <span style={{ fontSize: 16, fontWeight: 700, color: selectedWaitTime !== null ? "#FFF" : A.foggy, fontFamily: F }}>
@@ -21151,7 +17890,7 @@ so testers can tap into the trace detail without going through the create flow. 
                 </>
             )}
             {/* === BOTTOM NAV === */}
-            {!profileUserId && !showSelfProfile && !openThread && !viewingPostDetail && !viewingSharedSummary && activeCat !== "Map" && !showListsSheet && !showArchive && !showInvite && !showHistory && !showSettings && !showHelpSupport && !showTerms && !showPrivacyPolicy && !showFollowersSheet && !viewingMoment && !showListFeed && (
+            {!profileUserId && !showSelfProfile && !openThread && !viewingPostDetail && activeCat !== "Map" && !showListsSheet && !showArchive && !showInvite && !showHistory && !showSettings && !showHelpSupport && !showTerms && !showPrivacyPolicy && !showFollowersSheet && !viewingMoment && !showListFeed && (
                 <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: A.bg, borderTop: "1px solid " + A.border, zIndex: 80, paddingBottom: "env(safe-area-inset-bottom, 8px)", transform: (bottomNavHidden || showNewPost || !!profileListView) ? "translateY(100%)" : "translateY(0)", transition: "transform 0.45s cubic-bezier(0.4, 0, 0.2, 1)" }}>
                     <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr 1fr", alignItems: "center", justifyItems: "center", height: 56 }}>
                         {/* Home */}
