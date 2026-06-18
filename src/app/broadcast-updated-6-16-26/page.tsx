@@ -22376,7 +22376,7 @@ export default function AirbnbDRFT() {
                                         </div>
                                         <div style={{ fontSize: 11, fontWeight: 700, color: "#059669", fontFamily: F, letterSpacing: 0.8, textTransform: "uppercase", marginBottom: 10 }}>Agent matched</div>
                                         <div style={{ fontSize: 24, fontWeight: 800, color: A.dark, fontFamily: F, textAlign: "center", letterSpacing: -0.3, lineHeight: 1.2, marginBottom: 24, padding: "0 8px" }}>Connecting you with Rachel</div>
-                                        {/* Agent mini card */}
+                                        
                                         <div style={{ display: "flex", alignItems: "center", gap: 14, padding: "14px 18px 14px 14px", borderRadius: 100, background: A.bgPage, border: "1px solid " + A.border, maxWidth: "100%", boxSizing: "border-box", marginBottom: 18 }}>
                                             <div style={{ position: "relative", flexShrink: 0 }}>
                                                 <img src={agent.img} alt="" style={{ width: 48, height: 48, borderRadius: "50%", objectFit: "cover", border: "2px solid " + A.brand }} />
